@@ -8,3 +8,6 @@ aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 encoding: UTF-8
+
+include:
+  - _headers
