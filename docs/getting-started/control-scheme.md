@@ -15,7 +15,8 @@ Truckers of Europe 3では、主に3つの操作方式から選べます。
 2. **ボタン操作**：画面上のボタンをタップして操作する方式
 3. **ステアリングホイール**：画面上のハンドルを指でなぞって操作する方式
 4. **外部コントローラー**：Bluetoothなどで接続したゲーム用コントローラーを使い操作する方式。
-***(例：iPhoneではNintendo SwitchのJoy-ConをBluetooth接続して使用できます)***
+
+　(例：iPhoneではNintendo SwitchのJoy-ConをBluetooth接続して使用できます)
 
 ## おすすめの選び方
 
