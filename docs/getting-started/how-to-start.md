@@ -12,8 +12,8 @@ Truckers of Europe 3は、Wanda Softwareが開発したスマートフォン（A
 
 ## アプリをダウンロード
 
-- App Store（iPhone）：https://apps.apple.com/jp/app/truckers-of-europe-3/id1630315603
-- Google Play（Android）：https://play.google.com/store/apps/details?id=com.WandaSoftware.TruckersofEurope3
+- [App Store（iPhone）](https://apps.apple.com/jp/app/truckers-of-europe-3/id1630315603)
+- [Google Play（Android）](https://play.google.com/store/apps/details?id=com.WandaSoftware.TruckersofEurope3)
 - 料金：基本無料（アプリ内課金、広告あり）
 
 > WindowsおよびMacにも対応しています（Windows10以降、MacOS 12.0以降およびApple M1以降のチップ搭載モデル）
