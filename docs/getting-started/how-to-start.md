@@ -43,7 +43,7 @@ Truckers of Europe 3は、Wanda Softwareが開発したスマートフォン（A
 | トラック名 | 馬力 | トルク | 価格 |
 |---|---|---|---|
 | Moon THA | 310hp | 1,550Nm | €9,000 |
-| Stream RT Legend 1995 | 380hp | 1,900Nm | €10,000 |
+| Stream RT Legend 1995 | 380hp | 1,900Nm | €10,000 |　　←おすすめ
 
 ## 基本のおすすめ：Stream RT Legend 1995
 
