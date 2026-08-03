@@ -1,7 +1,7 @@
 ---
 title: 操作方式の選び方
 parent: はじめに
-nav_order: 1
+nav_order: 2
 permalink: /getting-started/control-scheme/
 ---
 
