@@ -8,7 +8,7 @@ permalink: /getting-started/how-to-start/
 # Truckers of Europe 3　とは
 Truckers of Europe 3は、Wanda Softwareが開発したスマートフォン（Android / iOS）およびPC向けの  
 リアル系トラック運転シミュレーションゲームです。  
-基本プレイ無料ながら高画質かつ本格的なのが魅力です。
+基本プレイ無料ながら高画質かつ本格的なのが魅力です。  
 ※マルチプレイには現段階では非対応です。  
 
 ## アプリをダウンロード
