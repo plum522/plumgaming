@@ -5,12 +5,14 @@ nav_order: 1
 permalink: /getting-started/how-to-start/
 ---
 
+___
 # Truckers of Europe 3　とは
 Truckers of Europe 3は、Wanda Softwareが開発したスマートフォン（Android / iOS）およびPC向けの  
 リアル系トラック運転シミュレーションゲームです。  
 基本プレイ無料ながら高画質かつ本格的なのが魅力です。  
 ※マルチプレイには現段階では非対応です。  
 
+___
 ## アプリをダウンロード
 
 - [App Store（iPhone）](https://apps.apple.com/jp/app/truckers-of-europe-3/id1630315603)
@@ -19,6 +21,7 @@ Truckers of Europe 3は、Wanda Softwareが開発したスマートフォン（A
 
 > WindowsおよびMacにも対応しています（Windows10以降、MacOS 12.0以降およびApple M1以降のチップ搭載モデル）
 
+___
 ## 初回起動時にやること
 
 画面右下の「ドライブ」をタップし、プロフィールを作成する。
@@ -29,6 +32,7 @@ Truckers of Europe 3は、Wanda Softwareが開発したスマートフォン（A
 
 > ⚠️注意：プロフィールはガレージ以外一度決めたら２度と変更ができません。(削除や新規作成は可能です)
 
+___
 ## ガレージ選び
 
 ガレージを無料で入手できるのは初期ガレージのみなので選び方はとても重要です。
@@ -36,6 +40,7 @@ Truckers of Europe 3は、Wanda Softwareが開発したスマートフォン（A
 
 詳しい拠点ごとの違いは[拠点の選び方（詳細）](/vehicles/base/)を参照してください。
 
+___
 ## 最初のトラックを選ぶ
 
 初期資金€10,000で購入できるトラックは2台のみです。
@@ -45,6 +50,7 @@ Truckers of Europe 3は、Wanda Softwareが開発したスマートフォン（A
 | Moon THA | 310hp | 1,550Nm | €9,000 |
 | Stream RT Legend 1995 | 380hp | 1,900Nm | €10,000 |
 
+___
 ## 基本のおすすめ：Stream RT Legend 1995
 
 差額€1,000に対して馬力・トルクともに上回るため、初めての1台としてはこちらがおすすめです。
@@ -56,6 +62,7 @@ Truckers of Europe 3は、Wanda Softwareが開発したスマートフォン（A
 
 詳しいトラックごとの違いは[トラックの選び方（詳細）](/vehicles/truck/)を参照してください。
 
+___
 ## 最初の一歩
 
 ここまでの手順が終わったら早速仕事を始めることができます！
