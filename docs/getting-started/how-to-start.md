@@ -59,4 +59,5 @@ Truckers of Europe 3は、Wanda Softwareが開発したスマートフォン（A
 ## 最初の一歩
 
 ここまでの手順が終わったら早速仕事を始めることができます！
+
 [ジョブのやり方](/delivery/how-to-job/)
