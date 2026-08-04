@@ -4,9 +4,6 @@ theme: just-the-docs
 
 url: https://plumgaming-jp.com
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
 encoding: UTF-8
 
 include:
