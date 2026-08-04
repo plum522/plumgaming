@@ -20,7 +20,9 @@ ___
 - [Google Play（Android）](https://play.google.com/store/apps/details?id=com.WandaSoftware.TruckersofEurope3)
 - 料金：基本無料（アプリ内課金あり広告あり）
 
-> WindowsおよびMacにも対応しています（Windows10以降、MacOS 12.0以降およびApple M1以降のチップ搭載モデル）
+> WindowsおよびMacにも対応しています
+> （windowsはWindows10以降、[Google Playから](https://play.google.com/store/apps/details?id=com.WandaSoftware.TruckersofEurope3)
+> MacはMacOS 12.0以降およびApple M1以降のチップ搭載モデル[App Storeから](https://apps.apple.com/jp/app/truckers-of-europe-3/id1630315603)）
 
 ___
 ## 初回起動時にやること
