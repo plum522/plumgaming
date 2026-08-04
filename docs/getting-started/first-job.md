@@ -1,7 +1,7 @@
 ---
 title: 初めてのジョブ
 parent: はじめに
-nav_order: 4
+nav_order: 2
 permalink: /getting-started/first-job/
 ---
 
