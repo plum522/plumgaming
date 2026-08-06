@@ -1,8 +1,9 @@
 .mobile-category-grid {
   display: none;
   grid-template-columns: repeat(3, 1fr);
-  gap: 0.5rem;
+  gap: 0;
   padding: 0.75rem;
+  border: 1px solid #d0d0d5;
 
   &__item {
     display: flex;
@@ -12,6 +13,7 @@
     font-size: 0.75rem;
     text-decoration: none;
     padding: 0.5rem 0;
+    border: 1px solid #d0d0d5;
   }
 
   &__icon {
@@ -23,10 +25,21 @@
   }
 }
 
-// この画面幅の数値（600px）は暫定値です。
-// 実際にサイドバーがハンバーガーメニューに切り替わる幅と
-// 一致させる必要があるため、実装後に確認・調整してください。
-@media (max-width: 600px) {
+@media (max-width: 800px) {
+  // サイドバー自体を強制的に常時表示状態にする
+  .side-bar {
+    position: static !important;
+    transform: none !important;
+    width: 100% !important;
+    height: auto !important;
+  }
+
+  // サイドバー内の、グリッド以外の要素（検索窓・カテゴリ一覧等）を非表示にする
+  .site-header,
+  .site-nav {
+    display: none !important;
+  }
+
   .mobile-category-grid {
     display: grid;
   }
