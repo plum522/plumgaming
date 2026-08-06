@@ -1,9 +1,8 @@
 .mobile-category-grid {
   display: none;
   grid-template-columns: repeat(3, 1fr);
-  gap: 0;
+  gap: 0.5rem;
   padding: 0.75rem;
-  border: 1px solid #d0d0d5;
 
   &__item {
     display: flex;
@@ -13,7 +12,6 @@
     font-size: 0.75rem;
     text-decoration: none;
     padding: 0.5rem 0;
-    border: 1px solid #d0d0d5;
   }
 
   &__icon {
@@ -25,16 +23,7 @@
   }
 }
 
-@media (max-width: 800px) {
-  // サイドバー自体を強制的に常時表示状態にする
-  .side-bar {
-    position: static !important;
-    transform: none !important;
-    width: 100% !important;
-    height: auto !important;
-  }
-
-
+@media (max-width: 600px) {
   .mobile-category-grid {
     display: grid;
   }
