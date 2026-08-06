@@ -1,0 +1,11 @@
+{% assign top_categories = site.pages | where: "has_children", true | where_exp: "item", "item.parent == nil" | sort: "nav_order" %}
+
+<div class="mobile-category-grid">
+  {% for cat in top_categories %}
+    <a href="{{ cat.url | relative_url }}" class="mobile-category-grid__item">
+      <span class="mobile-category-grid__icon">{{ cat.grid_icon | default: "📄" }}</span>
+      <span class="mobile-category-grid__label">{{ cat.title }}</span>
+    </a>
+  {% endfor %}
+  <div class="mobile-category-grid__item mobile-category-grid__item--empty"></div>
+</div>
