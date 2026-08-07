@@ -26,28 +26,11 @@
 }
 
 @media (max-width: 800px) {
-  // サイドバー自体は常に「開いている」時と同じ状態にする
   .side-bar {
-    position: static !important;
-    transform: none !important;
-    width: 100% !important;
-    height: auto !important;
+    display: none;
   }
 
-  // 検索窓とフッター（クレジット表記）は隠す
-  .site-header,
-  .site-footer {
-    display: none !important;
-  }
-
-  // カテゴリ一覧（サイドバー本体のリンク一覧）も隠す
-  .site-nav {
-    display: none !important;
-  }
-
-  // ただしグリッドだけは、site-nav の外にあるか中にあるか未確定なので、
-  // 念のためグリッド自身には元のdisplay:noneを上書きして必ず表示させる
   .mobile-category-grid {
-    display: grid !important;
+    display: grid;
   }
 }
