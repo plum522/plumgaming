@@ -1,5 +1,4 @@
 {% assign top_categories = site.pages | where: "has_children", true | where_exp: "item", "item.parent == nil" | sort: "nav_order" %}
-
 <div class="mobile-category-grid">
   {% for cat in top_categories %}
     <a href="{{ cat.url | relative_url }}" class="mobile-category-grid__item">
