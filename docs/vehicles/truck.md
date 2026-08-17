@@ -6,15 +6,28 @@ permalink: /vehicles/truck/
 
 # トラック図鑑
 
-Truckers of Europe 3には全15車種のトラックが存在します。以下に一覧をまとめます（★は自身のプレイで確認済み、それ以外は要検証）。
+Truckers of Europe 3には全15車種のトラックが存在します。一覧です。
 
 ## 全トラック一覧
 
 | トラック名 | 馬力 | トルク | 価格 | 備考 |
 |---|---|---|---|---|
-| Moon THA ★ | 310hp | 1,550Nm | €9,000 | 初期資金で購入可能 |
-| Stream RT Legend 1995 ★ | 380hp | 1,900Nm | €10,000 | 初期資金で購入可能 |
-| （ここに残り13車種を追記） | | | | |
+| Moon THA | 310hp | 1,550Nm | €9,000 | 初期資金で購入可能 |
+| Moon THX | 360hp | 1,800Nm| €35,000 |  |
+| Stream RT | 370hp | 1,900Nm| €35,000 |  |
+| Stream ST | 370hp | 1,900Nm | €36,000 |  |
+| Stream RT Legend 1995 | 380hp | 1,900Nm | €10,000 | 初期資金で購入可能 |
+| Stream RT Legend 2004 | 380hp | 1,900Nm | €15,000 |  |
+| Stream RT Legend 2009 | 380hp | 1,900Nm | €20,000 |  |
+| Stream RT Legend 2013 | 370hp | 1,900Nm | €25,000 |  |
+| Merieles Antares | 420hp | 2,100Nm | €34,000 |  |
+| Merieles Arox | 326hp | 1,300Nm | €18,000 |  |
+| Renovate R Ranger 2013 | 380hp | 1,800Nm | €27,000 |  |
+| Renovate R Ranger 2021 | 380hp | 1,800Nm | €30,000 |  |
+| Volcano VN | 420hp | 2,100Nm | €32,000 |  |
+| DAWN DF | 370hp | 1,900Nm | €32,000 |  |
+| Fiora FI-Man | 500hp | 2,500Nm | €30,000 |  |
+
 
 ## 最初のトラックを選ぶ
 
