@@ -2,6 +2,7 @@
 title: トラック図鑑
 parent: トラック・トレーラー図鑑
 permalink: /vehicles/truck/
+nav_order: 1
 ---
 
 # トラック図鑑
