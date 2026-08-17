@@ -13,7 +13,7 @@ Truckers of Europe 3には全15車種のトラックが存在します。<br>
 
 | トラック名 | 馬力 | トルク | 価格 |
 |---|---|---|---|
-| Moon THA | 310hp | 1,550Nm | €9,000 |
+| Moon THA | 310hp | 1,550Nm |  €9,000 |
 | Moon THX | 360hp | 1,800Nm| €35,000 |
 | Stream RT | 370hp | 1,900Nm| €35,000 |
 | Stream ST | 370hp | 1,900Nm | €36,000 |
