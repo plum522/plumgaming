@@ -6,7 +6,8 @@ permalink: /vehicles/truck/
 
 # トラック図鑑
 
-Truckers of Europe 3には全15車種のトラックが存在します。名前とスペック一覧です。
+Truckers of Europe 3には全15車種のトラックが存在します。<br>
+以下が名前とスペック一覧です。
 
 ## 全トラック一覧
 
