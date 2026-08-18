@@ -12,24 +12,23 @@ Truckers of Europe 3には全15車種のトラックが存在します。<br>
 
 ## 全トラック一覧
 
-| トラック名 | 馬力 | トルク | 価格 |
-|---|---|---|---|
-| Moon THA | 310hp | 1,550Nm |  €9,000 |
-| Moon THX | 360hp | 1,800Nm| €35,000 |
-| Stream RT | 370hp | 1,900Nm| €35,000 |
-| Stream ST | 370hp | 1,900Nm | €36,000 |
-| Stream RT Legend 1995 | 380hp | 1,900Nm | €10,000 |
-| Stream RT Legend 2004 | 380hp | 1,900Nm | €15,000 |
-| Stream RT Legend 2009 | 380hp | 1,900Nm | €20,000 |
-| Stream RT Legend 2013 | 370hp | 1,900Nm | €25,000 |
-| Merieles Antares | 420hp | 2,100Nm | €34,000 |
-| Merieles Arox | 326hp | 1,300Nm | €18,000 |
-| Renovate R Ranger 2013 | 380hp | 1,800Nm | €27,000 |
-| Renovate R Ranger 2021 | 380hp | 1,800Nm | €30,000 |
-| Volcano VN | 420hp | 2,100Nm | €32,000 |
-| DAWN DF | 370hp | 1,900Nm | €32,000 |
-| Fiora FI-Man | 500hp | 2,500Nm | €30,000 |
-
+| 画像 | トラック名 | 価格 | 馬力 | トルク |
+|---|---|---|---|---|
+| <img src="/assets/images/vehicles/truck/Moon-THA.JPG" width="140"> | Moon THA | €9,000 | 310hp | 1,550Nm |
+| <img src="/assets/images/vehicles/truck/Moon-THX.JPG" width="140"> | Moon THX | €35,000 | 360hp | 1,800Nm |
+| <img src="/assets/images/vehicles/truck/Stream-RT.JPG" width="140"> | Stream RT | €35,000 | 370hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Stream-ST.JPG" width="140"> | Stream ST | €36,000 | 370hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-1995.JPG" width="140"> | Stream RT Legend 1995 | €10,000 | 380hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-2004.JPG" width="140"> | Stream RT Legend 2004 | €15,000 | 380hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-2009.JPG" width="140"> | Stream RT Legend 2009 | €20,000 | 380hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-2013.JPG" width="140"> | Stream RT Legend 2013 | €25,000 | 370hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Merieles-Antares.JPG" width="140"> | Merieles Antares | €34,000 | 420hp | 2,100Nm |
+| <img src="/assets/images/vehicles/truck/Merieles-Arox.JPG" width="140"> | Merieles Arox | €18,000 | 326hp | 1,300Nm |
+| <img src="/assets/images/vehicles/truck/Renovate-R-Ranger-2013.JPG" width="140"> | Renovate R Ranger 2013 | €27,000 | 380hp | 1,800Nm |
+| <img src="/assets/images/vehicles/truck/Renovate-R-Ranger-2021.JPG" width="140"> | Renovate R Ranger 2021 | €30,000 | 380hp | 1,800Nm |
+| <img src="/assets/images/vehicles/truck/Volcano-VN.JPG" width="140"> | Volcano VN | €32,000 | 420hp | 2,100Nm |
+| <img src="/assets/images/vehicles/truck/DAWN-DF.JPG" width="140"> | DAWN DF | €32,000 | 370hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Fiora-FI-Man.JPG" width="140"> | Fiora FI-Man | €30,000 | 500hp | 2,500Nm |
 
 ## 序盤からずっと使えるおすすめトラック
 
