@@ -26,7 +26,7 @@ Truckers of Europe 3には25種類のトレーラーが存在し、<br>
 | <img src="/assets/images/vehicles/trailer/Flat-Bed.JPG" width="140"> | Flat Bed | €22,000 | 　| 　|
 | <img src="/assets/images/vehicles/trailer/Brick-Trailer.JPG" width="140"> | Brick Trailer | €25,000 | 　| 　|
 | <img src="/assets/images/vehicles/trailer/Log-Trailer.JPG" width="140"> | Log Trailer | €20,000 | 　| 3 |
-| <img src="/assets/images/vehicles/trailer/Gooseneck.jpg" width="140"> | Gooseneck | €10,000 | 　| 　|
+| <img src="/assets/images/vehicles/trailer/Gooseneck.JPG" width="140"> | Gooseneck | €10,000 | 　| 　|
 | <img src="/assets/images/vehicles/trailer/Tanker.JPG" width="140"> | Tanker | €12,000 | 　| 3 |
 | <img src="/assets/images/vehicles/trailer/Cistern-Trailer.JPG" width="140"> | Cistern Trailer | €22,000 | 　| 　|
 | <img src="/assets/images/vehicles/trailer/Cement-Bulker.JPG" width="140"> | Cement Bulker | €23,000 | 　| 3 |
