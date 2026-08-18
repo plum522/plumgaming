@@ -28,7 +28,7 @@ Truckers of Europe 3には全15車種のトラックが存在します。<br>
 | <img src="/assets/images/vehicles/truck/Renovate-R-Ranger-2021.JPG" width="140"> | Renovate R Ranger 2021 | €30,000 | 380hp | 1,800Nm |
 | <img src="/assets/images/vehicles/truck/Volcano-VN.JPG" width="140"> | Volcano VN | €32,000 | 420hp | 2,100Nm |
 | <img src="/assets/images/vehicles/truck/DAWN-DF.JPG" width="140"> | DAWN DF | €32,000 | 370hp | 1,900Nm |
-| <img src="/assets/images/vehicles/truck/Fiora-FI-Man.JPG" width="140"> | Fiora FI-Man | €30,000 | 500hp | 2,500Nm |
+| <img src="/assets/images/vehicles/truck/Fiora-FI-Man.JPG" width="140"> | Fiora Fi-Man | €30,000 | 500hp | 2,500Nm |
 
 ## 序盤からずっと使えるおすすめトラック
 
