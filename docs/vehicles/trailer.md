@@ -17,26 +17,26 @@ Truckers of Europe 3には25種類のトレーラーが存在します。
 |---|---|---|---|---|
 | Curtain Side | 　|　€4,000 |　 |　<img src="/assets/images/vehicles/trailer/Curtain-Side.JPG" width="140"> |
 | Curtain Side 2 | 　|　€13,000 |　 |　<img src="/assets/images/vehicles/trailer/Curtain-Side-2.JPG" width="140"> |
-| Closed Box | 　|　€12,000 |　 |　 |
-| Refrigerated | 　|　€17,000 |　 |　 |
-| Open | 　|　€18,000 |　2 |　 |
-| Double Open | 　|　€27,000 |　2 |　 |
-| Double Tarp | 　|　€30,000 |　 |　 |
-| Double Refrigerated | 　|　€35,000 |　 |　 |
-| Flat Bed | 　|　€22,000 |　 |　 |
-| Blick Trailer | 　|　€25,000 |　 |　 |
-| Log Trailer | 　|　€20,000 |　3 |　 |
-| Gooseneck | 　|　€10,000 |　 |　 |
-| Tanker | 　|　€12,000 |　3 |　 |
-| Cistern Trailer | 　|　€22,000 |　 |　 |
-| Cement Bulker | 　|　€23,000 |　3 |　 |
-| Mixer | 　|　€20,000 |　5 |　 |
-| inLoader | 　|　€12,000 |　2 |　 |
-| Scrap Trailer | 　|　€15,000 |　2 |　 |
-| Tipper Trailer | 　|　€20,000 |　2 |　 |
-| Fixed Lowbed | 重機　|　€30,000 |　7 |　 |
-| Lowbed | 重機　|　€36,000 |　12 |　 |
-| Oversize | 重機　|　€30,000 |　12 |　 |
+| Closed Box | 　|　€12,000 |　 |　<img src="/assets/images/vehicles/trailer/Closed-Box.JPG" width="140"> |
+| Refrigerated | 　|　€17,000 |　 |　<img src="/assets/images/vehicles/trailer/Refrigerated.JPG" width="140"> |
+| Open | 　|　€18,000 |　2 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
+| Double Open | 　|　€27,000 |　2 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
+| Double Tarp | 　|　€30,000 |　 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
+| Double Refrigerated | 　|　€35,000 |　 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
+| Flat Bed | 　|　€22,000 |　 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
+| Blick Trailer | 　|　€25,000 |　 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
+| Log Trailer | 　|　€20,000 |　3 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
+| Gooseneck | 　|　€10,000 |　 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
+| Tanker | 　|　€12,000 |　3 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
+| Cistern Trailer | 　|　€22,000 |　 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
+| Cement Bulker | 　|　€23,000 |　3 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
+| Mixer | 　|　€20,000 |　5 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
+| inLoader | 　|　€12,000 |　2 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
+| Scrap Trailer | 　|　€15,000 |　2 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
+| Tipper Trailer | 　|　€20,000 |　2 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
+| Fixed Lowbed | 重機　|　€30,000 |　7 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
+| Lowbed | 重機　|　€36,000 |　12 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
+| Oversize | 重機　|　€30,000 |　12 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
 
 　　
 ## トレーラーとカーゴの関係
