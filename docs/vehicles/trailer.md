@@ -35,7 +35,7 @@ Truckers of Europe 3には25種類のトレーラーが存在します。
 | Scrap Trailer | 　|　€15,000 |　2 |　<img src="/assets/images/vehicles/trailer/Scrap-Trailer.JPG" width="140"> |
 | Tipper Trailer | 　|　€20,000 |　2 |　<img src="/assets/images/vehicles/trailer/Tipper-Trailer.JPG" width="140"> |
 | Fixed Lowbed | 重機　|　€30,000 |　7 |　<img src="/assets/images/vehicles/trailer/Fixed-Lowbed.JPG" width="140"> |
-| Lowbed | 重機　|　€36,000 |　12 |　<img src="/assets/images/vehicles/trailer/Lowbed.JPG" width="140"> |
+| Lowbed | 重機　|　€36,000 |　12 |　<img src="/assets/images/vehicles/trailer/Lowbed.JPEG" width="140"> |
 | Oversize | 重機　|　€30,000 |　12 |　<img src="/assets/images/vehicles/trailer/Oversize.JPG" width="140"> |
 
 　　
