@@ -19,24 +19,24 @@ Truckers of Europe 3には25種類のトレーラーが存在します。
 | Curtain Side 2 | 　|　€13,000 |　 |　<img src="/assets/images/vehicles/trailer/Curtain-Side-2.JPG" width="140"> |
 | Closed Box | 　|　€12,000 |　 |　<img src="/assets/images/vehicles/trailer/Closed-Box.JPG" width="140"> |
 | Refrigerated | 　|　€17,000 |　 |　<img src="/assets/images/vehicles/trailer/Refrigerated.JPG" width="140"> |
-| Open | 　|　€18,000 |　2 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
-| Double Open | 　|　€27,000 |　2 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
-| Double Tarp | 　|　€30,000 |　 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
-| Double Refrigerated | 　|　€35,000 |　 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
-| Flat Bed | 　|　€22,000 |　 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
-| Blick Trailer | 　|　€25,000 |　 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
-| Log Trailer | 　|　€20,000 |　3 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
-| Gooseneck | 　|　€10,000 |　 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
-| Tanker | 　|　€12,000 |　3 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
-| Cistern Trailer | 　|　€22,000 |　 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
-| Cement Bulker | 　|　€23,000 |　3 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
-| Mixer | 　|　€20,000 |　5 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
-| inLoader | 　|　€12,000 |　2 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
-| Scrap Trailer | 　|　€15,000 |　2 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
-| Tipper Trailer | 　|　€20,000 |　2 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
-| Fixed Lowbed | 重機　|　€30,000 |　7 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
-| Lowbed | 重機　|　€36,000 |　12 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
-| Oversize | 重機　|　€30,000 |　12 |　<img src="/assets/images/vehicles/trailer/000000.JPG" width="140"> |
+| Open | 　|　€18,000 |　2 |　<img src="/assets/images/vehicles/trailer/Open.JPG" width="140"> |
+| Double Open | 　|　€27,000 |　2 |　<img src="/assets/images/vehicles/trailer/Double-Open.JPG" width="140"> |
+| Double Tarp | 　|　€30,000 |　 |　<img src="/assets/images/vehicles/trailer/Duoble-Tarp.JPG" width="140"> |
+| Double Refrigerated | 　|　€35,000 |　 |　<img src="/assets/images/vehicles/trailer/Double-Refrigerated.JPG" width="140"> |
+| Flat Bed | 　|　€22,000 |　 |　<img src="/assets/images/vehicles/trailer/Flat-Bed.JPG" width="140"> |
+| Blick Trailer | 　|　€25,000 |　 |　<img src="/assets/images/vehicles/trailer/Blick-Trailer.JPG" width="140"> |
+| Log Trailer | 　|　€20,000 |　3 |　<img src="/assets/images/vehicles/trailer/Log-Trailer.JPG" width="140"> |
+| Gooseneck | 　|　€10,000 |　 |　<img src="/assets/images/vehicles/trailer/Gooseneck.JPG" width="140"> |
+| Tanker | 　|　€12,000 |　3 |　<img src="/assets/images/vehicles/trailer/Tanker.JPG" width="140"> |
+| Cistern Trailer | 　|　€22,000 |　 |　<img src="/assets/images/vehicles/trailer/Cistern-Trailer.JPG" width="140"> |
+| Cement Bulker | 　|　€23,000 |　3 |　<img src="/assets/images/vehicles/trailer/Cement-Bulker.JPG" width="140"> |
+| Mixer | 　|　€20,000 |　5 |　<img src="/assets/images/vehicles/trailer/Mixer.JPG" width="140"> |
+| inLoader | 　|　€12,000 |　2 |　<img src="/assets/images/vehicles/trailer/inLoader.JPG" width="140"> |
+| Scrap Trailer | 　|　€15,000 |　2 |　<img src="/assets/images/vehicles/trailer/Scrap-Trailer.JPG" width="140"> |
+| Tipper Trailer | 　|　€20,000 |　2 |　<img src="/assets/images/vehicles/trailer/Tipper-Trailer.JPG" width="140"> |
+| Fixed Lowbed | 重機　|　€30,000 |　7 |　<img src="/assets/images/vehicles/trailer/Fixed-Lowbed.JPG" width="140"> |
+| Lowbed | 重機　|　€36,000 |　12 |　<img src="/assets/images/vehicles/trailer/Lowbed.JPG" width="140"> |
+| Oversize | 重機　|　€30,000 |　12 |　<img src="/assets/images/vehicles/trailer/Oversize.JPG" width="140"> |
 
 　　
 ## トレーラーとカーゴの関係
