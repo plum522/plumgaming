@@ -21,7 +21,7 @@ Truckers of Europe 3には25種類のトレーラーが存在します。
 | Refrigerated | 　|　€17,000 |　 |　<img src="/assets/images/vehicles/trailer/Refrigerated.JPG" width="140"> |
 | Open | 　|　€18,000 |　2 |　<img src="/assets/images/vehicles/trailer/Open.JPG" width="140"> |
 | Double Open | 　|　€27,000 |　2 |　<img src="/assets/images/vehicles/trailer/Double-Open.JPG" width="140"> |
-| Double Tarp | 　|　€30,000 |　 |　<img src="/assets/images/vehicles/trailer/Duoble-Tarp.JPG" width="140"> |
+| Double Tarp | 　|　€30,000 |　 |　<img src="/assets/images/vehicles/trailer/Double-Tarp.JPG" width="140"> |
 | Double Refrigerated | 　|　€35,000 |　 |　<img src="/assets/images/vehicles/trailer/Double-Refrigerated.JPG" width="140"> |
 | Flat Bed | 　|　€22,000 |　 |　<img src="/assets/images/vehicles/trailer/Flat-Bed.JPG" width="140"> |
 | Blick Trailer | 　|　€25,000 |　 |　<img src="/assets/images/vehicles/trailer/Blick-Trailer.JPG" width="140"> |
