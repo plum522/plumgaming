@@ -13,30 +13,30 @@ Truckers of Europe 3には25種類のトレーラーが存在します。
 
 ## 全トレーラー一覧
 
-| トレーラー名 | 荷物 | 価格 | レベル制限 |
-|---|---|---|---|
-| Curtain Side | 　|　€4,000 |　 |
-| Curtain Side 2 | 　|　€13,000 |　 |
-| Closed Box | 　|　€12,000 |　 |
-| Refrigerated | 　|　€17,000 |　 |
-| Open | 　|　€18,000 |　2 |
-| Double Open | 　|　€27,000 |　2 |
-| Double Tarp | 　|　€30,000 |　 |
-| Double Refrigerated | 　|　€35,000 |　 |
-| Flat Bed | 　|　€22,000 |　 |
-| Blick Trailer | 　|　€25,000 |　 |
-| Log Trailer | 　|　€20,000 |　3 |
-| Gooseneck | 　|　€10,000 |　 |
-| Tanker | 　|　€12,000 |　3 |
-| Cistern Trailer | 　|　€22,000 |　 |
-| Cement Bulker | 　|　€23,000 |　3 |
-| Mixer | 　|　€20,000 |　5 |
-| inLoader | 　|　€12,000 |　2 |
-| Scrap Trailer | 　|　€15,000 |　2 |
-| Tipper Trailer | 　|　€20,000 |　2 |
-| Fixed Lowbed | 重機　|　€30,000 |　7 |
-| Lowbed | 重機　|　€36,000 |　12 |
-| Oversize | 重機　|　€30,000 |　12 |
+| トレーラー名 | 荷物 | 価格 | レベル制限 |画像|
+|---|---|---|---|---|
+| Curtain Side | 　|　€4,000 |　 |　![Curtain Side](/assets/images/vehicles/trailer/Curtain-Side.jpg) |
+| Curtain Side 2 | 　|　€13,000 |　 |　 |
+| Closed Box | 　|　€12,000 |　 |　 |
+| Refrigerated | 　|　€17,000 |　 |　 |
+| Open | 　|　€18,000 |　2 |　 |
+| Double Open | 　|　€27,000 |　2 |　 |
+| Double Tarp | 　|　€30,000 |　 |　 |
+| Double Refrigerated | 　|　€35,000 |　 |　 |
+| Flat Bed | 　|　€22,000 |　 |　 |
+| Blick Trailer | 　|　€25,000 |　 |　 |
+| Log Trailer | 　|　€20,000 |　3 |　 |
+| Gooseneck | 　|　€10,000 |　 |　 |
+| Tanker | 　|　€12,000 |　3 |　 |
+| Cistern Trailer | 　|　€22,000 |　 |　 |
+| Cement Bulker | 　|　€23,000 |　3 |　 |
+| Mixer | 　|　€20,000 |　5 |　 |
+| inLoader | 　|　€12,000 |　2 |　 |
+| Scrap Trailer | 　|　€15,000 |　2 |　 |
+| Tipper Trailer | 　|　€20,000 |　2 |　 |
+| Fixed Lowbed | 重機　|　€30,000 |　7 |　 |
+| Lowbed | 重機　|　€36,000 |　12 |　 |
+| Oversize | 重機　|　€30,000 |　12 |　 |
 
 　　
 ## トレーラーとカーゴの関係
