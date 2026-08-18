@@ -26,16 +26,16 @@ Truckers of Europe 3には25種類のトレーラーが存在します。
 | Flat Bed | 　|　€22,000 |　 |　<img src="/assets/images/vehicles/trailer/Flat-Bed.JPG" width="140"> |
 | Brick Trailer | 　|　€25,000 |　 |　<img src="/assets/images/vehicles/trailer/Brick-Trailer.JPG" width="140"> |
 | Log Trailer | 　|　€20,000 |　3 |　<img src="/assets/images/vehicles/trailer/Log-Trailer.JPG" width="140"> |
-| Gooseneck | 　|　€10,000 |　 |　<img src="/assets/images/vehicles/trailer/Gooseneck.JPEG" width="140"> |
-| Tanker | 　|　€12,000 |　3 |　<img src="/assets/images/vehicles/trailer/Tanker.JPEG" width="140"> |
-| Cistern Trailer | 　|　€22,000 |　 |　<img src="/assets/images/vehicles/trailer/Cistern-Trailer.JPEG" width="140"> |
+| Gooseneck | 　|　€10,000 |　 |　<img src="/assets/images/vehicles/trailer/Gooseneck.JPG" width="140"> |
+| Tanker | 　|　€12,000 |　3 |　<img src="/assets/images/vehicles/trailer/Tanker.JPG" width="140"> |
+| Cistern Trailer | 　|　€22,000 |　 |　<img src="/assets/images/vehicles/trailer/Cistern-Trailer.JPG" width="140"> |
 | Cement Bulker | 　|　€23,000 |　3 |　<img src="/assets/images/vehicles/trailer/Cement-Bulker.JPG" width="140"> |
 | Mixer | 　|　€20,000 |　5 |　<img src="/assets/images/vehicles/trailer/Mixer.JPG" width="140"> |
 | inLoader | 　|　€12,000 |　2 |　<img src="/assets/images/vehicles/trailer/inLoader.JPG" width="140"> |
 | Scrap Trailer | 　|　€15,000 |　2 |　<img src="/assets/images/vehicles/trailer/Scrap-Trailer.JPG" width="140"> |
 | Tipper Trailer | 　|　€20,000 |　2 |　<img src="/assets/images/vehicles/trailer/Tipper-Trailer.JPG" width="140"> |
 | Fixed Lowbed | 重機　|　€30,000 |　7 |　<img src="/assets/images/vehicles/trailer/Fixed-Lowbed.JPG" width="140"> |
-| Lowbed | 重機　|　€36,000 |　12 |　<img src="/assets/images/vehicles/trailer/Lowbed.JPEG" width="140"> |
+| Lowbed | 重機　|　€36,000 |　12 |　<img src="/assets/images/vehicles/trailer/Lowbed.JPG" width="140"> |
 | Oversize | 重機　|　€30,000 |　12 |　<img src="/assets/images/vehicles/trailer/Oversize.JPG" width="140"> |
 
 　　
