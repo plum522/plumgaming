@@ -34,9 +34,9 @@ Truckers of Europe 3には25種類のトレーラーが存在します。
 | inLoader | 　|　€12,000 |　2 |
 | Scrap Trailer | 　|　€15,000 |　2 |
 | Tipper Trailer | 　|　€20,000 |　2 |
-| Fixed Lowbed | 　|　€30,000 |　7 |
-| Lowbed | 　|　€36,000 |　12 |
-| Oversize | 　|　€30,000 |　12 |
+| Fixed Lowbed | 重機　|　€30,000 |　7 |
+| Lowbed | 重機　|　€36,000 |　12 |
+| Oversize | 重機　|　€30,000 |　12 |
 
 　　
 ## トレーラーとカーゴの関係
