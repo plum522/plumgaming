@@ -18,7 +18,7 @@ Truckers of Europe 3には25種類のトレーラーが存在します。
 <tr>
 <th style="width: 90px;">画像</th>
 <th style="width: 140px;">トレーラー名</th>
-<th style="width: 40px;">荷物</th>
+<th style="width: 20px;">荷物</th>
 <th style="width: 80px;">価格</th>
 <th style="width: 40px;">レベル制限</th>
 </tr>
