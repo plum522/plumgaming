@@ -16,7 +16,7 @@ Truckers of Europe 3には25種類のトレーラーが存在します。
 | トレーラー名 | 積載できる貨物 | 価格 | レベル制限 |
 |---|---|---|---|
 | Curtain Side | 　|　€4,000 |　 |
-| Curtain Side | 　|　€13,000 |　 |
+| Curtain Side 2 | 　|　€13,000 |　 |
 | Closed Box | 　|　€12,000 |　 |
 | Refrigerated | 　|　€17,000 |　 |
 | Open | 　|　€18,000 |　2 |
