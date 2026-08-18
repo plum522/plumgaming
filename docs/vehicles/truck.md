@@ -34,11 +34,11 @@ Truckers of Europe 3には全15車種のトラックが存在します。<br>
 
 初期資金€10,000では、上記15車種のうち以下の2台のみ購入可能です。
   
-| トラック名 | 馬力 | トルク | 価格 |
+| 画像 | トラック名 | 価格 | 馬力 | トルク |
 |---|---|---|---|
-| Moon THA | 310hp | 1,550Nm | €9,000 |
-| Stream RT Legend 1995 | 380hp | 1,900Nm | €10,000 |
-  
+| <img src="/assets/images/vehicles/truck/Moon-THA.JPG" width="140"> | Moon THA | €9,000 | 310hp | 1,550Nm |
+| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-1995.JPG" width="140"> | Stream RT Legend 1995 | €10,000 | 380hp | 1,900Nm |
+
 Stream RT Legend 1995 の方が値段は高くなりますがコスパが高く最初の一台におすすめです。<br>
 また、カスタマイズパーツも豊富で幅広い用途に使えるため、上級者にもかなりおすすめできます。<br>
 一方 Moon THA は車両のカスタマイズが少なく、特に重量物輸送が困難なため、初心者にも初心者以外にもおすすめできません。
