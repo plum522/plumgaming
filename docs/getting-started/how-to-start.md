@@ -4,7 +4,7 @@ parent: はじめに
 nav_order: 1
 permalink: /getting-started/how-to-start/
 ---
-![テスト](/assets/images/getting-started/unnamed.webp)
+![ゲーム画像](/assets/images/getting-started/unnamed.webp)
 # Truckers of Europe 3　とは
 Truckers of Europe 3は、Wanda Softwareが開発した  
 スマートフォン（Android / iOS）およびPC向けの  
