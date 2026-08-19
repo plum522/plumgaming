@@ -1,5 +1,5 @@
 ---
-title: 拠点の選び方
+title: 拠点情報
 parent: ガレージ・拠点情報
 permalink: /garages/base/
 ---
