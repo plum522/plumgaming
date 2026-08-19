@@ -47,10 +47,10 @@ ___
 
 初期資金€10,000で購入できるトラックは2台のみです。
 
-| トラック名 | 馬力 | トルク | 価格 |
-|---|---|---|---|
-| Moon THA | 310hp | 1,550Nm | €9,000 |
-| Stream RT Legend 1995 | 380hp | 1,900Nm | €10,000 |
+| 画像 | トラック名 | 価格 | 馬力 | トルク |
+|---|---|---|---|---|
+| <img src="/assets/images/vehicles/truck/Moon-THA.JPG" width="140"> | Moon THA | €9,000 | 310hp | 1,550Nm |
+| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-1995.JPG" width="140"> | Stream RT Legend 1995 | €10,000 | 380hp | 1,900Nm |
 
 ___
 ## おすすめ：Stream RT Legend 1995
