@@ -66,4 +66,4 @@ ___
 
 ここまでの手順が終わったら早速仕事を始めることができます！
 
-[初めてのジョブ](/delivery/how-to-job/)
+[初めてのジョブ](/getting-started/first-job/)
