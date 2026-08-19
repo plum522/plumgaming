@@ -44,6 +44,7 @@ Truckers of Europe 3には全15車種のトラックが存在します。<br>
 | 画像 | トラック名 | 価格 | 馬力 | トルク |
 |---|---|---|---|---|
 | <img src="/assets/images/vehicles/truck/Moon-THA.JPG" width="140"> | Moon THA | €9,000 | 310hp | 1,550Nm |
+
 コスパで少し劣るだけでなく、一部できないグレードアップがあり、重量物輸送に使えません。
 
 ## まとめ
