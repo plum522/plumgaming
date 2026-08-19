@@ -1,5 +1,5 @@
 ---
 title: 拠点の選び方
-parent: トラック・トレーラー図鑑
-permalink: /vehicles/base/
+parent: ガレージ・拠点情報
+permalink: /garages/base/
 ---
