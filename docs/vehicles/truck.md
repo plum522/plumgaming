@@ -39,7 +39,6 @@ Truckers of Europe 3には全15車種のトラックが存在します。<br>
 | <img src="/assets/images/vehicles/truck/Stream-RT-Legend-1995.JPG" width="140"> | Stream RT Legend 1995 | €10,000 | 380hp | 1,900Nm |
   
 初期資金で買えるのにコスパが高いだけでなく、重量物にも対応できて上級者にもおすすめです。
-筆者もずっと使用しています。
 　　
 >初期資金€10,000では、こちらも購入可能ですが  
 >| 画像 | トラック名 | 価格 | 馬力 | トルク |
