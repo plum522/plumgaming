@@ -33,18 +33,19 @@ Truckers of Europe 3には全15車種のトラックが存在します。<br>
 | <img src="/assets/images/vehicles/truck/Fiora-Fi-Man.JPG" width="140"> | Fiora Fi-Man | €30,000 | 500hp | 2,500Nm |
 
 ## 序盤からずっと使えるおすすめトラック
-
-初期資金€10,000では、この2台のみ購入可能です。
   
 | 画像 | トラック名 | 価格 | 馬力 | トルク |
 |---|---|---|---|---|
-| <img src="/assets/images/vehicles/truck/Moon-THA.JPG" width="140"> | Moon THA | €9,000 | 310hp | 1,550Nm |
 | <img src="/assets/images/vehicles/truck/Stream-RT-Legend-1995.JPG" width="140"> | Stream RT Legend 1995 | €10,000 | 380hp | 1,900Nm |
+  
+初期資金で買えるのにコスパが高いだけでなく、重量物にも対応できて上級者にもおすすめです。
+筆者もずっと使用しています。
 
-### Stream RT Legend 1995  
-コスパが高く最初の一台におすすめです。<br>
-また、上級者にもかなりおすすめできます。<br>
-一方 Moon THA は車両のカスタマイズが少なく、特に重量物輸送が困難なため、初心者にも初心者以外にもおすすめできません。
+>初期資金€10,000では、こちらも購入可能ですが  
+>| 画像 | トラック名 | 価格 | 馬力 | トルク |
+>|---|---|---|---|---|
+>| <img src="/assets/images/vehicles/truck/Moon-THA.JPG" width="140"> | Moon THA | €9,000 | 310hp | 1,550Nm |
+>コスパで少し劣るだけでなく、一部できないグレードアップがあり、重量物輸送に使えないため非推奨です。
 
 ## まとめ
   
