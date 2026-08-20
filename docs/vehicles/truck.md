@@ -50,7 +50,7 @@ Truckers of Europe 3には全15車種のトラックが存在します。<br>
 | <img src="/assets/images/vehicles/truck/Moon-THA.JPG" width="140"> | Moon THA | €9,000 | 310hp | 1,550Nm |
 | <img src="/assets/images/vehicles/truck/Fiora-Fi-Man.JPG" width="140"> | Fiora Fi-Man | €30,000 | 500hp | 2,500Nm |
 
-詳しくは[カスタマイズ](/vehicles/customization/)を参照してください。
+詳しくは[トラックのカスタマイズ](/vehicles/truck-customization/)を参照してください。
 
 ## まとめ
   
