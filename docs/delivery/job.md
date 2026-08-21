@@ -1,8 +1,8 @@
 ---
-title: ジョブのやり方
+title: ジョブ
 parent: 配送・お仕事システム
 nav_order: 1
-permalink: /delivery/how-to-job/
+permalink: /delivery/job/
 ---
 
 # ジョブのやり方
