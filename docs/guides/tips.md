@@ -3,12 +3,18 @@ title: 小技・小ネタ集
 parent: 攻略
 nav_order: 2
 permalink: /guides/tips/
-has_toc: true
 ---
 
 # 小技・小ネタ集
+{: .no_toc }
 
 金策やレベル上げ以外の、知っておくと役立つ小技・小ネタをまとめます。
+
+## 目次
+{: .text-delta }
+
+1. TOC
+{:toc}
 
 
 ## 最速でレベル上げする方法
