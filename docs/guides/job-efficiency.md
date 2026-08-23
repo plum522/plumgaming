@@ -1,11 +1,11 @@
 ---
-title: 効率的な稼ぎ方、進め方
+title: 効率的な稼ぎ方・進め方
 parent: 攻略
 nav_order: 1
 permalink: /guides/job-efficiency/
 ---
 
-# 効率的な稼ぎ方、進め方
+# 効率的な稼ぎ方・進め方
 
 Truckers of Europe 3では、もともと稼ぐのが難しく、<br>
 特に序盤は低収入のジョブしかできないため、<br>
