@@ -2,10 +2,11 @@
 title: ガレージ・マップ
 has_children: true
 nav_order: 4
-grid_icon: "🏠🗺️"
+grid_icon: "🏠"
 ---
 
-このカテゴリでは、ガレージ(拠点)やマップについて解説します。
+ここでは、ガレージ(拠点)やマップについて解説します。
 
 ## マップ全体図 ##  
+
 ![full-map](/assets/images/garages-map/TOE3-full-map.JPG)
