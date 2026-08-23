@@ -1,5 +1,5 @@
 ---
-title: 配送・お仕事システム
+title: ジョブ(配送)
 has_children: true
 nav_order: 5
 grid_icon: "📦"
