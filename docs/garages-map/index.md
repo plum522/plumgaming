@@ -9,4 +9,4 @@ grid_icon: "🏠"
 
 ## マップ全体図 ##  
 
-![full-map](/assets/images/garages-map/TOE3-full-map.JPG)
+![full-map](/assets/images/garages-map/toe3-full-map.JPG)
