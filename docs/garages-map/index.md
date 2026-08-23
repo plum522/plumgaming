@@ -12,19 +12,19 @@ grid_icon: "🏠"
 ![full-map](/assets/images/garages-map/toe3-full-map.JPG)
 
 ## ガレージありの都市一覧
-Frankfurt
-Nancy
-Nuremberg
-Prague
-Zurich
-Munich
-Stuttgart
-Tremola
-Milano
-
+Frankfurt  
+Nancy  
+Nuremberg  
+Prague  
+Zurich  
+Munich  
+Stuttgart  
+Tremola  
+Milano  
+  
 ### ガレージなしの都市
-Tubingen
-Quarry
-Lech
-Airolo
-Linz
+Tubingen  
+Quarry  
+Lech  
+Airolo  
+Linz  
