@@ -7,7 +7,7 @@ permalink: /guides/job-efficiency/
 
 # 効率的な稼ぎ方・進め方
 
-Truckers of Europe 3では、もともと稼ぐのが難しく、<br>
+Truckers of Europe 3は稼ぐのが難しく、<br>
 特に序盤は低収入のジョブしかできないため、<br>
 ・制限が全てなくなるレベル12まで最速で進める方法<br>
 ・レベル12以降でゲーム内最高額のジョブを得る方法<br>
