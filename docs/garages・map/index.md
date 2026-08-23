@@ -10,3 +10,4 @@ grid_icon: "🏠🗺️"
 ## マップ全体図 ##  
 (最新アップデート後のマップです)
 
+![full-map](assets/images/garages・map/TOE3-full-map.jpg)
