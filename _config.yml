@@ -16,5 +16,5 @@ defaults:
     values:
       layout: "default"
 
-# plugins:
-#  - jekyll-sitemap
+plugins:
+  - jekyll-sitemap
