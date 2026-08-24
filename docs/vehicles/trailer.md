@@ -55,4 +55,4 @@ Truckers of Europe 3には25種類のトレーラーが存在し、<br>
 
 ## トレーラーのカスタマイズ
 
-トレーラーはカスタマイズが可能です。詳しくは[トレーラーのカスタマイズ](/vehicles/trailer-customization/)を参照してください。
+トレーラーもカスタマイズが可能です。詳しくは[トレーラーのカスタマイズ](/vehicles/trailer-customization/)を参照してください。
