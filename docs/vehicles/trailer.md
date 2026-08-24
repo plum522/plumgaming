@@ -23,17 +23,17 @@ Truckers of Europe 3には25種類のトレーラーが存在し、<br>
 | <img src="/assets/images/vehicles/trailer/Double-Open.JPG" width="140"> | Double Open | €27,000 |建材| 2 |
 | <img src="/assets/images/vehicles/trailer/Double-Tarp.JPG" width="140"> | Double Tarp | €30,000 |食品| 　|
 | <img src="/assets/images/vehicles/trailer/Double-Refrigerated.JPG" width="140"> | Double Refrigerated | €35,000 |食品| 　|
-| <img src="/assets/images/vehicles/trailer/Flat-Bed.JPG" width="140"> | Flat Bed | €22,000 | 　| 　|
-| <img src="/assets/images/vehicles/trailer/Brick-Trailer.JPG" width="140"> | Brick Trailer | €25,000 | 　| 　|
-| <img src="/assets/images/vehicles/trailer/Log-Trailer.JPG" width="140"> | Log Trailer | €20,000 | 　| 3 |
-| <img src="/assets/images/vehicles/trailer/Gooseneck.JPG" width="140"> | Gooseneck | €10,000 | 　| 　|
+| <img src="/assets/images/vehicles/trailer/Flat-Bed.JPG" width="140"> | Flat Bed | €22,000 |建材(重)| 　|
+| <img src="/assets/images/vehicles/trailer/Brick-Trailer.JPG" width="140"> | Brick Trailer | €25,000 |石材| 　|
+| <img src="/assets/images/vehicles/trailer/Log-Trailer.JPG" width="140"> | Log Trailer | €20,000 |木材| 3 |
+| <img src="/assets/images/vehicles/trailer/Gooseneck.JPG" width="140"> | Gooseneck | €10,000 |日用品| 　|
 | <img src="/assets/images/vehicles/trailer/Tanker.JPG" width="140"> | Tanker | €12,000 |燃料| 3 |
-| <img src="/assets/images/vehicles/trailer/Cistern-Trailer.JPG" width="140"> | Cistern Trailer | €22,000 | 　| 　|
-| <img src="/assets/images/vehicles/trailer/Cement-Bulker.JPG" width="140"> | Cement Bulker | €23,000 | 　| 3 |
-| <img src="/assets/images/vehicles/trailer/Mixer.JPG" width="140"> | Mixer | €20,000 | 　| 5 |
-| <img src="/assets/images/vehicles/trailer/inLoader.JPG" width="140"> | inLoader | €12,000 | 　| 2 |
-| <img src="/assets/images/vehicles/trailer/Scrap-Trailer.JPG" width="140"> | Scrap Trailer | €15,000 | 　| 2 |
-| <img src="/assets/images/vehicles/trailer/Tipper-Trailer.JPG" width="140"> | Tipper Trailer | €20,000 | 　| 2 |
+| <img src="/assets/images/vehicles/trailer/Cistern-Trailer.JPG" width="140"> | Cistern Trailer | €22,000 |グルコース・植物油| 　|
+| <img src="/assets/images/vehicles/trailer/Cement-Bulker.JPG" width="140"> | Cement Bulker | €23,000 |セメント| 3 |
+| <img src="/assets/images/vehicles/trailer/Mixer.JPG" width="140"> | Mixer | €20,000 |セメント| 5 |
+| <img src="/assets/images/vehicles/trailer/inLoader.JPG" width="140"> | inLoader | €12,000 |建材| 2 |
+| <img src="/assets/images/vehicles/trailer/Scrap-Trailer.JPG" width="140"> | Scrap Trailer | €15,000 |石材| 2 |
+| <img src="/assets/images/vehicles/trailer/Tipper-Trailer.JPG" width="140"> | Tipper Trailer | €20,000 |石材| 2 |
 | <img src="/assets/images/vehicles/trailer/Fixed-Lowbed.JPG" width="140"> | Fixed Lowbed | €30,000 | 重機 | 7 |
 | <img src="/assets/images/vehicles/trailer/Lowbed.JPG" width="140"> | Lowbed | €36,000 | 重機 | 12 |
 | <img src="/assets/images/vehicles/trailer/Oversize.JPG" width="140"> | Oversize | €30,000 | 重機 | 12 |
