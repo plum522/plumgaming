@@ -38,17 +38,19 @@ Truckers of Europe 3には25種類のトレーラーが存在し、<br>
 | <img src="/assets/images/vehicles/trailer/Lowbed.JPG" width="140"> | Lowbed | €36,000 | 重機 | 12 |
 | <img src="/assets/images/vehicles/trailer/Oversize.JPG" width="140"> | Oversize | €30,000 | 重機 | 12 |
 
-## トレーラーとカーゴの関係
+## 荷物の重いトレーラー
 
-（トレーラーの種類によって運べる貨物が変わる場合、その対応関係をここに記述）
+これらのトレーラーの荷物は最低でも20~30tはあるため、トラックのエンジンとシャーシをカスタマイズでアップグレードするのがおすすめ。
 
-## 最初に検討すべきトレーラー
+| 画像 | トレーラー名 | 価格 | 荷物 | レベル制限 |
+|---|---|---|---|---|
+| <img src="/assets/images/vehicles/trailer/Flat-Bed.JPG" width="140"> | Flat Bed | €22,000 |建材(重)| 　|
+| <img src="/assets/images/vehicles/trailer/Brick-Trailer.JPG" width="140"> | Brick Trailer | €25,000 |石材| 　|
+| <img src="/assets/images/vehicles/trailer/Log-Trailer.JPG" width="140"> | Log Trailer | €20,000 |木材| 3 |
+| <img src="/assets/images/vehicles/trailer/Fixed-Lowbed.JPG" width="140"> | Fixed Lowbed | €30,000 | 重機 | 7 |
+| <img src="/assets/images/vehicles/trailer/Lowbed.JPG" width="140"> | Lowbed | €36,000 | 重機 | 12 |
+| <img src="/assets/images/vehicles/trailer/Oversize.JPG" width="140"> | Oversize | €30,000 | 重機 | 12 |
 
-（初期資金・初期トラックとの組み合わせで、最初に選ぶべきトレーラーがあれば記述）
-
-## 購入優先順位
-
-（資金に余裕が出てきた際の、トレーラー買い替え・追加の優先順位を記述）
 
 ## トレーラーのカスタマイズ
 
