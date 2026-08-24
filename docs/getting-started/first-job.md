@@ -28,4 +28,4 @@ permalink: /getting-started/first-job/
 
 これで最初のジョブは完了です。  
 ジョブについてさらに詳しく知りたい方は  
-[ジョブのやり方（詳細）](/delivery/job/)を参照してください。
+[ジョブ（配送）](/docs/delivery/index.md/)を参照してください。
