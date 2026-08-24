@@ -13,7 +13,7 @@ permalink: /vehicles/truck-customization/
 　　
 | カスタマイズ項目 | 全車統一 | 制限有り車 |
 | --- | --- | --- |
-| シャーシ | × |  |
+| シャーシ | × | Moon THA・Fiora Fi-Man |
 | キャビン | × |  |
 | エンジン | ◯ |  |
 | ギアボックス | × |  |
