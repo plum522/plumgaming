@@ -8,7 +8,7 @@ grid_icon: "📦"
 ここではジョブについて詳細を紹介します。
 
 ## ジョブのやり方がわからない場合はまずここから
-[初めてのジョブ](/docs/getting-started/first-job/)
+[初めてのジョブ](/getting-started/first-job/)
 
 ## ジョブごとの特性
 
