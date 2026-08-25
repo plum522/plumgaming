@@ -22,3 +22,6 @@ permalink: /vehicles/truck-customization/
 | 付属品 | × | 複雑なため省略 |
 | ホイール | ◯ | - |
 | 色と肌(スキン) | ◯ | - |
+
+## シャーシのカスタマイズ
+
