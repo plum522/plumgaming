@@ -25,3 +25,7 @@ permalink: /vehicles/truck-customization/
 
 ## シャーシのカスタマイズ
 
+| 画像 | トラック名 | カスタマイズできる範囲 |
+|---|---|---|
+| <img src="/assets/images/vehicles/truck/Moon-THA.JPG" width="140"> | Moon THA | 4x2(純正)・6x2(非駆動軸＋１)|
+| <img src="/assets/images/vehicles/truck/Fiora-Fi-Man.JPG" width="140"> | Fiora Fi-Man | 4x2(純正)のみ |
