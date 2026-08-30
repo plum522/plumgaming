@@ -24,14 +24,23 @@ permalink: /vehicles/truck-customization/
 | 色と肌(スキン) | ◯ | - |
 
 ## シャーシのカスタマイズ
-　　
-シャーシのカスタマイズが極端に少ないトラック
 
-| 画像 | トラック名 | カスタマイズできる範囲 |
-| --- | --- | --- |
-| <img src="/assets/images/vehicles/truck/Moon-THA.JPG" width="140"> | Moon THA | 4x2(純正)・6x2(非駆動軸が一軸追加)|
-| <img src="/assets/images/vehicles/truck/Fiora-Fi-Man.JPG" width="140"> | Fiora Fi-Man | 4x2(純正)のみ |
-
-全てのトラックのカスタマイズ可能範囲
-
-| 4×2　|　6×2　| 6×2 L　|　6×2/4　| 6×2/4 Midlift　|　6×2/4 Taglift　|　6×4　| 6×4 L　|　8×4　|　　|
+以下は全てのトラックそれぞれが対応しているシャーシの一覧です。
+  
+| トラック名 | | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Moon THA | 4x2 | 6x2 | | | | | | | | |
+| Moon THX | 4x2 | 6x2 | 6x2 L | 6x2/4 | 6x2/4 Mid | | 6x2 L Tag | | 6x4 L | | 8x4 |
+| Stream RT | 4x2 | 6x2 | 6x2 L | 6x2/4 | 6x2/4 Mid | | 6x2 L Tag | | 6x4 L | 6x6 L | 8x4 |
+| Stream ST | 4x2 | 6x2 | 6x2 L | 6x2/4 | 6x2/4 Mid | | 6x2 L Tag | | 6x4 L | 6x6 L | 8x4 |
+| Stream RT Legend 1995 | 4x2 | 6x2 | | 6x2/4 | 6x2/4 Mid | 6x2 Tag | | 6x4 | | | 8x4 |
+| Stream RT Legend 2004 | 4x2 | 6x2 | | 6x2/4 | 6x2/4 Mid | 6x2 Tag | | 6x4 | | | 8x4 |
+| Stream RT Legend 2009 | 4x2 | 6x2 | | 6x2/4 | 6x2/4 Mid | 6x2 Tag | | 6x4 | | | 8x4 |
+| Stream RT Legend 2013 | 4x2 | 6x2 | | 6x2/4 | 6x2/4 Mid | 6x2 Tag | | 6x4 | | | 8x4 |
+| Merieles Antares | 4x2 | 6x2 | | 6x2/4 | 6x2/4 Mid | 6x2 Tag | | 6x4 | | | 8x4 |
+| Merieles Arox | 4x2 | 6x2 | | 6x2/4 | 6x2/4 Mid | 6x2 Tag | | 6x4 | | | 8x4 |
+| Renovate R Ranger 2013 | 4x2 | 6x2 | 6x2 L | 6x2/4 | 6x2/4 Mid | | 6x2 L Tag | | 6x4 L | | 8x4 |
+| Renovate R Ranger 2021 | 4x2 | 6x2 | 6x2 L | 6x2/4 | 6x2/4 Mid | | 6x2 L Tag | | 6x4 L | | 8x4 |
+| Volcano VN | 4x2 | 6x2 | | 6x2/4 | 6x2/4 Mid | 6x2 Tag | | 6x4 | | | 8x4 |
+| DAWN DF | 4x2 | 6x2 | | 6x2/4 | 6x2/4 Mid | 6x2 Tag | | 6x4 | | | 8x4 |
+| Fiora Fi-Man | 4x2 | | | | | | | | | | |
