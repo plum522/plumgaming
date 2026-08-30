@@ -31,17 +31,17 @@ permalink: /vehicles/truck-customization/
 <table>
 <colgroup>
 <col style="width: 160px;">
-<col style="width: 45px;">
-<col style="width: 45px;">
-<col style="width: 50px;">
-<col style="width: 50px;">
-<col style="width: 70px;">
-<col style="width: 60px;">
-<col style="width: 70px;">
-<col style="width: 45px;">
-<col style="width: 50px;">
-<col style="width: 50px;">
-<col style="width: 45px;">
+<col style="width: 20px;">
+<col style="width: 20px;">
+<col style="width: 25px;">
+<col style="width: 25px;">
+<col style="width: 30px;">
+<col style="width: 25px;">
+<col style="width: 30px;">
+<col style="width: 20px;">
+<col style="width: 20px;">
+<col style="width: 20px;">
+<col style="width: 20px;">
 </colgroup>
 <tbody>
 <tr><td>トラック名</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
