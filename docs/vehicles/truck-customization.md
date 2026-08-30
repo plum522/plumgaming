@@ -27,7 +27,16 @@ permalink: /vehicles/truck-customization/
 
 以下は全てのトラックそれぞれが対応しているシャーシの一覧です。
 >右に行くほど高重量貨物向けのシャーシになります。
-  
+
+<style>
+.noname table {
+    width: 40%;
+    margin:  2px; 
+}
+</style>
+
+<div class="noname">
+
 | トラック名 | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|
 | Moon THA | 4x2 | 6x2 | | | | | | | | |
@@ -45,3 +54,5 @@ permalink: /vehicles/truck-customization/
 | Volcano VN | 4x2 | 6x2 | | 6x2/4 | 6x2/4 Mid | 6x2 Tag | | 6x4 | | | 8x4 |
 | DAWN DF | 4x2 | 6x2 | | 6x2/4 | 6x2/4 Mid | 6x2 Tag | | 6x4 | | | 8x4 |
 | Fiora Fi-Man | 4x2 | | | | | | | | | | |
+
+</div>
