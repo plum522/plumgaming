@@ -28,14 +28,15 @@ permalink: /vehicles/truck-customization/
 以下は全てのトラックそれぞれが対応しているシャーシの一覧です。
 >右に行くほど高重量貨物向けのシャーシになります。
 
+
 <style>
-.noname table {
+.uooo table {
     width: 40%;
-    margin:  2px; 
+    margin:  auto; 
 }
 </style>
 
-<div class="noname">
+<div class="uooo">
 
 | トラック名 | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|
