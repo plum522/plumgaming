@@ -29,7 +29,7 @@ permalink: /vehicles/truck-customization/
 >右に行くほど高重量貨物向けのシャーシになります。
   
 | トラック名 | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|
+|-|-|-|-|-|-|-|-|-|-|-|
 | Moon THA | 4x2 | 6x2 | | | | | | | | |
 | Moon THX | 4x2 | 6x2 | 6x2 L | 6x2/4 | 6x2/4 Mid | | 6x2 L Tag | | 6x4 L | | 8x4 |
 | Stream RT | 4x2 | 6x2 | 6x2 L | 6x2/4 | 6x2/4 Mid | | 6x2 L Tag | | 6x4 L | 6x6 L | 8x4 |
