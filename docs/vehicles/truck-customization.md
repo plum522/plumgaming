@@ -28,37 +28,20 @@ permalink: /vehicles/truck-customization/
 以下は全てのトラックそれぞれが対応しているシャーシの一覧です。
 >右に行くほど高重量貨物向けのシャーシになります。
 
-<table>
-<colgroup>
-<col style="width: 160px;">
-<col style="width: 20px;">
-<col style="width: 20px;">
-<col style="width: 25px;">
-<col style="width: 25px;">
-<col style="width: 30px;">
-<col style="width: 25px;">
-<col style="width: 30px;">
-<col style="width: 20px;">
-<col style="width: 20px;">
-<col style="width: 20px;">
-<col style="width: 20px;">
-</colgroup>
-<tbody>
-<tr><td>トラック名</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Moon THA</td><td>4x2</td><td>6x2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Moon THX</td><td>4x2</td><td>6x2</td><td>6x2 L</td><td>6x2/4</td><td>6x2/4 Mid</td><td></td><td>6x2 L Tag</td><td></td><td>6x4 L</td><td></td><td>8x4</td></tr>
-<tr><td>Stream RT</td><td>4x2</td><td>6x2</td><td>6x2 L</td><td>6x2/4</td><td>6x2/4 Mid</td><td></td><td>6x2 L Tag</td><td></td><td>6x4 L</td><td>6x6 L</td><td>8x4</td></tr>
-<tr><td>Stream ST</td><td>4x2</td><td>6x2</td><td>6x2 L</td><td>6x2/4</td><td>6x2/4 Mid</td><td></td><td>6x2 L Tag</td><td></td><td>6x4 L</td><td>6x6 L</td><td>8x4</td></tr>
-<tr><td>Stream RT Legend 1995</td><td>4x2</td><td>6x2</td><td></td><td>6x2/4</td><td>6x2/4 Mid</td><td>6x2 Tag</td><td></td><td>6x4</td><td></td><td></td><td>8x4</td></tr>
-<tr><td>Stream RT Legend 2004</td><td>4x2</td><td>6x2</td><td></td><td>6x2/4</td><td>6x2/4 Mid</td><td>6x2 Tag</td><td></td><td>6x4</td><td></td><td></td><td>8x4</td></tr>
-<tr><td>Stream RT Legend 2009</td><td>4x2</td><td>6x2</td><td></td><td>6x2/4</td><td>6x2/4 Mid</td><td>6x2 Tag</td><td></td><td>6x4</td><td></td><td></td><td>8x4</td></tr>
-<tr><td>Stream RT Legend 2013</td><td>4x2</td><td>6x2</td><td></td><td>6x2/4</td><td>6x2/4 Mid</td><td>6x2 Tag</td><td></td><td>6x4</td><td></td><td></td><td>8x4</td></tr>
-<tr><td>Merieles Antares</td><td>4x2</td><td>6x2</td><td></td><td>6x2/4</td><td>6x2/4 Mid</td><td>6x2 Tag</td><td></td><td>6x4</td><td></td><td></td><td>8x4</td></tr>
-<tr><td>Merieles Arox</td><td>4x2</td><td>6x2</td><td></td><td>6x2/4</td><td>6x2/4 Mid</td><td>6x2 Tag</td><td></td><td>6x4</td><td></td><td></td><td>8x4</td></tr>
-<tr><td>Renovate R Ranger 2013</td><td>4x2</td><td>6x2</td><td>6x2 L</td><td>6x2/4</td><td>6x2/4 Mid</td><td></td><td>6x2 L Tag</td><td></td><td>6x4 L</td><td></td><td>8x4</td></tr>
-<tr><td>Renovate R Ranger 2021</td><td>4x2</td><td>6x2</td><td>6x2 L</td><td>6x2/4</td><td>6x2/4 Mid</td><td></td><td>6x2 L Tag</td><td></td><td>6x4 L</td><td></td><td>8x4</td></tr>
-<tr><td>Volcano VN</td><td>4x2</td><td>6x2</td><td></td><td>6x2/4</td><td>6x2/4 Mid</td><td>6x2 Tag</td><td></td><td>6x4</td><td></td><td></td><td>8x4</td></tr>
-<tr><td>DAWN DF</td><td>4x2</td><td>6x2</td><td></td><td>6x2/4</td><td>6x2/4 Mid</td><td>6x2 Tag</td><td></td><td>6x4</td><td></td><td></td><td>8x4</td></tr>
-<tr><td>Fiora Fi-Man</td><td>4x2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-</tbody>
-</table>
+| トラック名 | | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Moon THA | 4x2 | 6x2 | | | | | | | | |
+| Moon THX | 4x2 | 6x2 | 6x2 L | 6x2/4 | 6x2/4 Mid | | 6x2 L Tag | | 6x4 L | | 8x4 |
+| Stream RT | 4x2 | 6x2 | 6x2 L | 6x2/4 | 6x2/4 Mid | | 6x2 L Tag | | 6x4 L | 6x6 L | 8x4 |
+| Stream ST | 4x2 | 6x2 | 6x2 L | 6x2/4 | 6x2/4 Mid | | 6x2 L Tag | | 6x4 L | 6x6 L | 8x4 |
+| Stream RT Legend 1995 | 4x2 | 6x2 | | 6x2/4 | 6x2/4 Mid | 6x2 Tag | | 6x4 | | | 8x4 |
+| Stream RT Legend 2004 | 4x2 | 6x2 | | 6x2/4 | 6x2/4 Mid | 6x2 Tag | | 6x4 | | | 8x4 |
+| Stream RT Legend 2009 | 4x2 | 6x2 | | 6x2/4 | 6x2/4 Mid | 6x2 Tag | | 6x4 | | | 8x4 |
+| Stream RT Legend 2013 | 4x2 | 6x2 | | 6x2/4 | 6x2/4 Mid | 6x2 Tag | | 6x4 | | | 8x4 |
+| Merieles Antares | 4x2 | 6x2 | | 6x2/4 | 6x2/4 Mid | 6x2 Tag | | 6x4 | | | 8x4 |
+| Merieles Arox | 4x2 | 6x2 | | 6x2/4 | 6x2/4 Mid | 6x2 Tag | | 6x4 | | | 8x4 |
+| Renovate R Ranger 2013 | 4x2 | 6x2 | 6x2 L | 6x2/4 | 6x2/4 Mid | | 6x2 L Tag | | 6x4 L | | 8x4 |
+| Renovate R Ranger 2021 | 4x2 | 6x2 | 6x2 L | 6x2/4 | 6x2/4 Mid | | 6x2 L Tag | | 6x4 L | | 8x4 |
+| Volcano VN | 4x2 | 6x2 | | 6x2/4 | 6x2/4 Mid | 6x2 Tag | | 6x4 | | | 8x4 |
+| DAWN DF | 4x2 | 6x2 | | 6x2/4 | 6x2/4 Mid | 6x2 Tag | | 6x4 | | | 8x4 |
+| Fiora Fi-Man | 4x2 | | | | | | | | | | |
