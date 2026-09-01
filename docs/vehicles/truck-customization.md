@@ -25,8 +25,8 @@ permalink: /vehicles/truck-customization/
 
 ## シャーシのカスタマイズ
 
-以下は全てのトラックそれぞれが対応しているシャーシの一覧です。
->右に行くほど高重量貨物向けのシャーシになります。
+シャーシを変えることで重い貨物の輸送ができるようになります。
+各トラックのカスタマイズ可能範囲
 
 <img src="/assets/images/vehicles/truck/chassis-compatibility.png" alt="トラックのシャーシ対応表">
 
@@ -47,3 +47,27 @@ permalink: /vehicles/truck-customization/
 | VN | Volcano VN |
 | DF | DAWN DF |
 | Fi | Fiora Fi-Man |
+
+## キャビン
+
+性能には一切影響しません。見た目が変わるだけのカスタマイズ項目です。
+各トラックのカスタマイズ可能範囲
+◎＝純正仕様、◯＝対応、空白＝非対応
+
+| トラック | ノーマル | 低い | ミディアム | 高い |
+|---|---|---|---|---|
+| Moon THA | ◯ |  |  |  |
+| Moon THX | ◯ |  |  | ◯ |
+| Stream RT | ◯ |  |  | ◯ |
+| Stream ST |  |  |  |  |
+| Stream RT Legend 1995 |  |  |  |  |
+| Stream RT Legend 2004 |  |  |  |  |
+| Stream RT Legend 2009 |  |  |  |  |
+| Stream RT Legend 2013 |  |  |  |  |
+| Merieles Antares |  |  |  |  |
+| Merieles Arox |  |  |  |  |
+| Renovate R Ranger 2013 |  |  |  |  |
+| Renovate R Ranger 2021 |  |  |  |  |
+| Volcano VN |  |  |  |  |
+| DAWN DF |  |  |  |  |
+| Fiora Fi-Man |  |  |  |  |
