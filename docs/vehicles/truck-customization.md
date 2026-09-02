@@ -56,7 +56,7 @@ permalink: /vehicles/truck-customization/
 
 | トラック | ノーマル | 低い | ミディアム | 高い | Max |
 |---|---|---|---|---|---|
-| Moon THA | ◯ |  |  |  |  |
+| Moon THA | ◎ |  |  |  |  |
 | Moon THX | ◎|  |  | ◯ |  |
 | Stream RT | ◎ |  |  | ◯ |  |
 | Stream ST | ◎ |  |  | ◯|  |
