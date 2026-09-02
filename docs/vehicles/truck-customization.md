@@ -54,20 +54,20 @@ permalink: /vehicles/truck-customization/
 各トラックのカスタマイズ可能範囲
 ◎＝純正仕様、◯＝対応、空白＝非対応
 
-| トラック | ノーマル | 低い | ミディアム | 高い |
-|---|---|---|---|---|
-| Moon THA | ◯ |  |  |  |
-| Moon THX | ◎|  |  | ◯ |
-| Stream RT | ◎ |  |  | ◯ |
-| Stream ST | ◎ |  |  | ◯|
-| Stream RT Legend 1995 | ◯ | ◎ |  | ◯ |
-| Stream RT Legend 2004 | ◯ | ◎ | ◯ | ◯ |
-| Stream RT Legend 2009 | ◯ | ◎ | ◯ | ◯ |
-| Stream RT Legend 2013 | ◯ | ◎ | ◯ | ◯ |
+| トラック | ノーマル | 低い | ミディアム | 高い | Max |
+|---|---|---|---|---|---|
+| Moon THA | ◯ |  |  |  |  |
+| Moon THX | ◎|  |  | ◯ |  |
+| Stream RT | ◎ |  |  | ◯ |  |
+| Stream ST | ◎ |  |  | ◯|  |
+| Stream RT Legend 1995 | ◯ | ◎ |  | ◯ |  |
+| Stream RT Legend 2004 | ◯ | ◎ | ◯ | ◯ |  |
+| Stream RT Legend 2009 | ◯ | ◎ | ◯ | ◯ |  |
+| Stream RT Legend 2013 | ◯ | ◎ | ◯ | ◯ |  |
 | Merieles Antares | ◎ |  |  | ◯ | ◯ |
-| Merieles Arox | ◎|  |  |  |
-| Renovate R Ranger 2013 |  | ◎ | ◯ | ◯ |
-| Renovate R Ranger 2021 |  | ◎ | ◯ | ◯ |
-| Volcano VN |  | ◎ | ◯ | ◯ |
-| DAWN DF |  | ◎ | ◯ | ◯ |
-| Fiora Fi-Man |  |  |  |  |
+| Merieles Arox | ◎|  |  |  |  |
+| Renovate R Ranger 2013 |  | ◎ | ◯ | ◯ |  |
+| Renovate R Ranger 2021 |  | ◎ | ◯ | ◯ |  |
+| Volcano VN |  | ◎ | ◯ | ◯ |  |
+| DAWN DF | ◯ | ◎ |  | ◯ |  |
+| Fiora Fi-Man | ◎ |  |  |  |  |
