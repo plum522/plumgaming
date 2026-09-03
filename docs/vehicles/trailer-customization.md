@@ -8,3 +8,5 @@ permalink: /vehicles/trailer-customization/
 # トレーラーのカスタマイズ
 
 （ここに、スキン対応・車軸追加等の詳細を記述）
+
+※現在ページ作成中です
