@@ -71,3 +71,10 @@ permalink: /vehicles/truck-customization/
 | Volcano VN |  | ◎ | ◯ | ◯ |  |
 | DAWN DF | ◯ | ◎ |  | ◯ |  |
 | Fiora Fi-Man | ◎ |  |  |  |  |
+
+
+## タイヤ
+
+トラックのタイヤは全トラックで変更できます。<br>
+タイプ１,２,３の三種類のタイヤがあります。<br>
+おすすめはタイプ２タイヤです。<br>
