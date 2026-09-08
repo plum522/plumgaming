@@ -9,4 +9,27 @@ permalink: /vehicles/trailer-customization/
 
 （ここに、スキン対応・車軸追加等の詳細を記述）
 
-※現在ページ作成中です
+| トレーラー名 |   |
+|---|---|
+| Curtain Side |   |
+| Curtain Side 2 |   |
+| Closed Box |   |
+| Refrigerated |   |
+| Open |   |
+| Double Open |   |
+| Double Tarp |   |
+| Double Refrigerated |   |
+| Flat Bed |   |
+| Brick Trailer |   |
+| Log Trailer |   |
+| Gooseneck |   |
+| Tanker |   |
+| Cistern Trailer |   |
+| Cement Bulker |   |
+| Mixer |   |
+| inLoader |   |
+| Scrap Trailer |   |
+| Tipper Trailer |   |
+| Fixed Lowbed |   |
+| Lowbed |   |
+| Oversize |   |
