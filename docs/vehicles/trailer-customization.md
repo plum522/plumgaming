@@ -7,7 +7,13 @@ permalink: /vehicles/trailer-customization/
 
 # トレーラーのカスタマイズ
 
-（ここに、スキン対応・車軸追加等の詳細を記述）
+トレーラーは  
+・色と肌(スキン)  
+・ホイール  
+・シャーシ  
+のカスタマイズができます。
+
+特に「色とスキン」の変更はかなり見栄えが変わるため、大人気かつおすすめのカスタマイズです。
 
 
 ## スキン適用不可の車両
@@ -21,6 +27,7 @@ permalink: /vehicles/trailer-customization/
 | Oversize | x |
   
 これら以外の16台はスキン適用できます。
+色設定はすべての車両で可能です。
 
 
 ## ホイールカスタマイズ
@@ -60,3 +67,5 @@ permalink: /vehicles/trailer-customization/
 | Fixed Lowbed | 3x0 4x0 5x0 6x0 |
 | Lowbed | 6x0 8x0 |
 | Oversize | 2x0 3x0 3x1 4x2 5x3 |
+  
+これら以外の16台はすべてシャーシの変更ができません。
