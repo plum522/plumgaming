@@ -25,7 +25,7 @@ permalink: /vehicles/truck-customization/
 
 ## シャーシのカスタマイズ
 
-シャーシを変えることで重い貨物の輸送ができるようになります。
+シャーシを変えることで重い貨物の輸送ができるようになります。  
 各トラックのカスタマイズ可能範囲
 
 <img src="/assets/images/vehicles/truck/chassis-compatibility.png" alt="トラックのシャーシ対応表">
