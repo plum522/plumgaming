@@ -52,6 +52,19 @@ Truckers of Europe 3には25種類のトレーラーが存在し、<br>
 | <img src="/assets/images/vehicles/trailer/Lowbed.JPG" width="140"> | Lowbed | €36,000 | 重機 | 12 |
 | <img src="/assets/images/vehicles/trailer/Oversize.JPG" width="140"> | Oversize | €30,000 | 重機 | 12 |
 
+## 序盤おすすめトレーラー
+
+| 画像 | トレーラー名 | 価格 | 荷物 | レベル制限 |
+|---|---|---|---|---|
+| <img src="/assets/images/vehicles/trailer/Curtain-Side.JPG" width="140"> | Curtain Side | €4,000 |食品| 　|
+
+## レベル12以降おすすめトレーラー
+
+| 画像 | トレーラー名 | 価格 | 荷物 | レベル制限 |
+|---|---|---|---|---|
+| <img src="/assets/images/vehicles/trailer/Oversize.JPG" width="140"> | Oversize | €30,000 | 重機 | 12 |
+
+ゲーム内でジョブ報酬最高額のトレーラーです。カスタマイズでシャーシを「5x3」にするとより高額になるためおすすめです。
 
 ## トレーラーのカスタマイズ
 
