@@ -51,7 +51,7 @@ Tremola (トレモラ)🇨🇭に行く道の間にある。
   
 <img src="/assets/images/getting-started/shop-price-iOS.png" width="450">
 
-iOSとAndroidで料金が一部異なる。
+iOSとAndroidで料金が異なる。
 ちなみに、<br>
 ⚠️「Remove ads」(広告削除)は筆者が試したところ**一切広告が消えませんでした**。<br>
 「Unlock all trailers」はユーザーレベルによるジョブやトレーラーの制限がなくなるだけで、全てのトレーラーを無料で所有できるようになるわけではないです。<br>
