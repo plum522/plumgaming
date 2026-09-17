@@ -45,11 +45,11 @@ Tremola (トレモラ)🇨🇭に行く道の間にある。
 
 ↓Android↓
   
-<img src="/assets/images/getting-started/shop-price-Android.png" width="400">
+<img src="/assets/images/getting-started/shop-price-Android.png" width="450">
 
 ↓iOS↓
   
-<img src="/assets/images/getting-started/shop-price-iOS.png" width="400">
+<img src="/assets/images/getting-started/shop-price-iOS.png" width="450">
 
 iOSとAndroidで料金が一部異なる。
 ちなみに、<br>
