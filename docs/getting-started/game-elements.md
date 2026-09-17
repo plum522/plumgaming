@@ -48,7 +48,7 @@ Tremola (トレモラ)🇨🇭に行く道の間にある。
 <img src="/assets/images/getting-started/shop-price-Android.png" width="300">
 
 ↓iOS↓
-
+  
 <img src="/assets/images/getting-started/shop-price-iOS.png" width="300">
 
 iOSとAndroidで料金が一部異なる。
