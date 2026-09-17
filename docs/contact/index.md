@@ -8,7 +8,7 @@ permalink: /contact/
 
 # お問い合わせ
 
-攻略記事に関する誤りのご指摘、ゲーム内のバグ・不具合の情報、ご要望やご質問などは、下記のお問い合わせフォームからお知らせください。
+記事の間違いやゲーム内のバグ・不具合を見つけた場合は、ぜひお問い合わせフォームからお知らせください。ご要望・ご質問も受け付けています。
 
 <form action="https://formspree.io/f/xdekoazg" method="POST">
   <label>お名前（任意）<br><input type="text" name="name"></label><br><br>
