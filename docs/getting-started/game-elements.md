@@ -43,7 +43,10 @@ Tremola (トレモラ)🇨🇭に行く道の間にある。
 
 料金は以下の画像を参照。(2026/9/17現在)
 
+↓Android↓
 ![課金価格-Android](/assets/images/getting-started/shop-price-Android.png)
+<img src="/assets/images/getting-started/shop-price-Android.png" width="300">
+↓iOS↓
 ![課金価格-iOS](/assets/images/getting-started/shop-price-iOS.png)
 
 iOSとAndroidで料金が一部異なる。
