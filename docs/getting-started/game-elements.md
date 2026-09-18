@@ -65,7 +65,7 @@ ___
 マップ一部に存在する。<br>
 料金は€500、広告視聴で無料かつスキップできる。<br>
 場所は画像の赤い丸のあたり<br>
-片道200秒(ゲーム内時間では40分)かかる<br>
+片道3分半(ゲーム内時間では40分)かかる<br>
 <img src="/assets/images/getting-started/ferry-location.png" width="450">
 
 ___
