@@ -23,6 +23,7 @@ permalink: /vehicles/truck-customization/
 | ホイール | ◯ |
 | 色と肌(スキン) | ◯ |
 
+___
 ## シャーシのカスタマイズ
 
 シャーシを変えることで重い貨物の輸送ができるようになります。  
@@ -48,6 +49,7 @@ permalink: /vehicles/truck-customization/
 | DF | DAWN DF |
 | Fi | Fiora Fi-Man |
 
+___
 ## キャビン
 
 性能には一切影響しません。見た目が変わるだけのカスタマイズ項目です。<br>
@@ -72,27 +74,28 @@ permalink: /vehicles/truck-customization/
 | DAWN DF | ◯ | ◎ |  | ◯ |  |
 | Fiora Fi-Man | ◎ |  |  |  |  |
 
-  
+___
 ## エンジン
 
 
-
+___
 ## ギアボックス
 
 
-
+___
 ## エクストラ
 
-
+___
 ## 付属品
 
-
+___
 ## タイヤ
 
 トラックのタイヤは全トラックで変更できます。<br>
 タイプ１,２,３の三種類のタイヤがあります。<br>
 おすすめはタイプ２タイヤです。<br>
 
+___
 ## 色と肌(スキン)
 
 
