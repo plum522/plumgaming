@@ -11,6 +11,7 @@ Truckers of Europe 3には25種類のトレーラーが存在し、<br>
 そのうち22種類のトレーラーを購入できます。<br>
 以下が購入できる一覧です。
 
+___
 ## 全トレーラー一覧
 
 | 画像 | トレーラー名 | 価格 | 荷物 | レベル制限 |
@@ -38,6 +39,7 @@ Truckers of Europe 3には25種類のトレーラーが存在し、<br>
 | <img src="/assets/images/vehicles/trailer/Lowbed.JPG" width="140"> | Lowbed | €36,000 | 重機 | 12 |
 | <img src="/assets/images/vehicles/trailer/Oversize.JPG" width="140"> | Oversize | €30,000 | 重機 | 12 |
 
+___
 ## 荷物の重いトレーラー
 
 これらのトレーラーの荷物は20~30t以上あるため、トラックのエンジンとシャーシをカスタマイズでアップグレードするのがおすすめ。
@@ -52,12 +54,14 @@ Truckers of Europe 3には25種類のトレーラーが存在し、<br>
 | <img src="/assets/images/vehicles/trailer/Lowbed.JPG" width="140"> | Lowbed | €36,000 | 重機 | 12 |
 | <img src="/assets/images/vehicles/trailer/Oversize.JPG" width="140"> | Oversize | €30,000 | 重機 | 12 |
 
+___
 ## 序盤おすすめトレーラー
 
 | 画像 | トレーラー名 | 価格 | 荷物 | レベル制限 |
 |---|---|---|---|---|
 | <img src="/assets/images/vehicles/trailer/Curtain-Side.JPG" width="140"> | Curtain Side | €4,000 |食品| 　|
 
+___
 ## レベル12以降おすすめトレーラー
 
 | 画像 | トレーラー名 | 価格 | 荷物 | レベル制限 |
@@ -66,6 +70,7 @@ Truckers of Europe 3には25種類のトレーラーが存在し、<br>
 
 ゲーム内でジョブ報酬最高額のトレーラーです。カスタマイズでシャーシを「5x3」にするとより高額になるためおすすめです。
 
+___
 ## トレーラーのカスタマイズ
 
 トレーラーもカスタマイズが可能です。詳しくは[トレーラーのカスタマイズ](/vehicles/trailer-customization/)を参照してください。
