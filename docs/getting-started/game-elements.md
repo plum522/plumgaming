@@ -35,7 +35,7 @@ ___
 ___
 ## 睡眠
 
-<img src="/assets/images/getting-started/bed.jpeg" width="450">
+<img src="/assets/images/getting-started/bed.jpeg" width="250">
 このゲームにはゲーム内時間で毎日最大6時間睡眠が必要です。
 眠らずに長時間運転していると眠気で視界が真っ暗になります。
 事故につながるため、できれば画面下にある睡眠のゲージが0になる前に睡眠しましょう。
