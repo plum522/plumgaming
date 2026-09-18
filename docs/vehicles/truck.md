@@ -12,6 +12,7 @@ Truckers of Europe 3には全15車種のトラックが存在します。<br>
 >一覧のスペックはあくまでカスタマイズなしの数値で、<br>
 >ほとんどのトラックはカスタマイズで同じスペックにグレードアップできます。
 
+___
 ## 全トラック一覧
 
 | 画像 | トラック名 | 価格 | 馬力 | トルク |
@@ -32,6 +33,7 @@ Truckers of Europe 3には全15車種のトラックが存在します。<br>
 | <img src="/assets/images/vehicles/truck/DAWN-DF.JPG" width="140"> | DAWN DF | €32,000 | 370hp | 1,900Nm |
 | <img src="/assets/images/vehicles/truck/Fiora-Fi-Man.JPG" width="140"> | Fiora Fi-Man | €30,000 | 500hp | 2,500Nm |
 
+___
 ## 序盤からずっと使えるおすすめトラック
   
 | 画像 | トラック名 | 価格 | 馬力 | トルク |
@@ -39,7 +41,8 @@ Truckers of Europe 3には全15車種のトラックが存在します。<br>
 | <img src="/assets/images/vehicles/truck/Stream-RT-Legend-1995.JPG" width="140"> | Stream RT Legend 1995 | €10,000 | 380hp | 1,900Nm |
   
 初期資金€10,000で買えるのにコスパが高いだけでなく、重量物にも対応できて上級者にもおすすめです。
-　　
+
+___
 ## ⚠️注意：重量物輸送に使えないトラック
 
 この2台以外全てのトラックがシャーシのカスタマイズに対応していますが、
