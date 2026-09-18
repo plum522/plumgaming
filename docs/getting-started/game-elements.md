@@ -49,7 +49,7 @@ permalink: /getting-started/game-elements/
 
 マップ一部に存在する。<br>
 料金は€500、広告視聴で無料にできる。<br>
-Tremola (トレモラ)🇨🇭に行く道の間にある。
+場所は画像の赤い丸のあたり<br>
 <img src="/assets/images/getting-started/ferry-location.png" width="450">
 
 ## 課金要素
