@@ -7,10 +7,12 @@ grid_icon: "🏠"
 
 ここでは、ガレージ(拠点)やマップについて解説します。
 
+___
 ## マップ全体図 ##  
 
 ![full-map](/assets/images/garages-map/toe3-full-map.JPG)
 
+___
 ## ガレージありの都市一覧
 Frankfurt (フランクフルト)🇩🇪  
 Nancy (ナンシー)🇫🇷  
@@ -21,8 +23,9 @@ Munich (ミュンヘン)🇩🇪
 Stuttgart (シュトゥットガルト)🇩🇪  
 Tremola (トレモラ)🇨🇭  
 Milano (ミラノ)🇮🇹  
-  
-### ガレージなしの都市
+
+___
+## ガレージなしの都市
 Tubingen (テュービンゲン)🇩🇪  
 Quarry (クアリー)意味：採石場  
 Lech (レッヒ)🇦🇹  
