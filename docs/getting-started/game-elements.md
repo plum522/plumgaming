@@ -45,7 +45,7 @@ ___
 ## 洗車
 
 このゲームではトラックが乗っているうちに汚れます。<br>
-洗車機で洗車できます。
+洗車機で洗車できます。<br>
 <img src="/assets/images/getting-started/washer.jpeg" width="450">
 
 ___
