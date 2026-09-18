@@ -15,6 +15,7 @@ permalink: /vehicles/trailer-customization/
 
 特に「色とスキン」の変更はかなり見栄えが変わるため、大人気かつおすすめのカスタマイズです。
 
+___
 ## スキン適用不可の車両
   
 - Log Trailer
@@ -26,6 +27,7 @@ permalink: /vehicles/trailer-customization/
 これら以外の16台はスキン適用できます。
 色設定はすべての車両で可能です。
 
+___
 ## ホイールカスタマイズ
 
 ### NW#1・NW#2を切り替えて使える車両
@@ -56,6 +58,7 @@ permalink: /vehicles/trailer-customization/
 - Lowbed
 - Oversize
 
+___
 ## シャーシカスタマイズ対応の車両
 
 | トレーラー名 | シャーシ |
