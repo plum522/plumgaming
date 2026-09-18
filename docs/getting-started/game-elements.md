@@ -65,7 +65,7 @@ permalink: /getting-started/game-elements/
 <img src="/assets/images/getting-started/shop-price-iOS.png" width="450">
 
 iOSとAndroidで料金が異なる。<br>
-⚠️「Remove ads」は広告削除。<br>
+「Remove ads」は広告削除。<br>
 「Unlock all trailers」はユーザーレベルによるジョブやトレーラーの制限がなくなるだけで、全てのトレーラーを無料で所有できるようになるわけではないです。<br>
 レベル12以降のユーザーには非推奨です。
 
