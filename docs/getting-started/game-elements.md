@@ -27,6 +27,7 @@ ___
 ___
 ## ガソリンスタンド
 
+<img src="/assets/images/getting-started/gasolina-station.jpeg" width="450">
 ゲーム内で必須のガソリンを給油できる<br>
 全ての都市に存在する。<br>
 高速道路にも存在する。
@@ -34,6 +35,7 @@ ___
 ___
 ## 睡眠
 
+<img src="/assets/images/getting-started/bed.png" width="450">
 このゲームにはゲーム内時間で毎日最大6時間睡眠が必要です。
 眠らずに長時間運転していると眠気で視界が真っ暗になります。
 事故につながるため、できれば画面下にある睡眠のゲージが0になる前に睡眠しましょう。
@@ -42,6 +44,7 @@ ___
 ___
 ## 洗車
 
+<img src="/assets/images/getting-started/washer.jpeg" width="450">
 このゲームではトラックが乗っているうちに汚れます。<br>
 洗車機で洗車できます。
 
@@ -62,6 +65,7 @@ ___
 ___
 ## フェリー
 
+<img src="/assets/images/getting-started/ferry.png" width="450">
 マップ一部に存在する。<br>
 料金は€500、広告視聴で無料かつスキップできる。<br>
 場所は画像の赤い丸のあたり<br>
