@@ -10,7 +10,7 @@ grid_icon: "🏠"
 ___
 ## マップ全体図 ##  
 
-<img src="/assets/images/garages-map/toe3-full-map.JPG" width="350">
+<img src="/assets/images/garages-map/toe3-full-map.JPG" width="450">
 
 ___
 ## ガレージありの都市一覧
