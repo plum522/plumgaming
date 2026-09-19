@@ -14,18 +14,40 @@ ___
 
 ___
 ## ガレージありの都市一覧
-Frankfurt (フランクフルト)🇩🇪  
-Nancy (ナンシー)🇫🇷  
-Nuremberg (ニュルンベルク)🇩🇪  
-Prague (プラハ)🇨🇿  
-Zurich (チューリッヒ)🇨🇭  
-Munich (ミュンヘン)🇩🇪  
-Stuttgart (シュトゥットガルト)🇩🇪  
-Tremola (トレモラ)🇨🇭  
-Milano (ミラノ)🇮🇹  
+
+
+Frankfurt (フランクフルト)🇩🇪
+<img src="/assets/images/garages-map/Frankfurt.JPG" width="200">
+
+Nancy (ナンシー)🇫🇷
+<img src="/assets/images/garages-map/Nancy.JPG" width="200">
+
+Nuremberg (ニュルンベルク)🇩🇪
+<img src="/assets/images/garages-map/Nuremberg.JPG" width="200">
+
+Prague (プラハ)🇨🇿
+<img src="/assets/images/garages-map/Prague.JPG" width="200">
+
+Zurich (チューリッヒ)🇨🇭
+<img src="/assets/images/garages-map/Zurich.JPG" width="200">
+
+Munich (ミュンヘン)🇩🇪
+<img src="/assets/images/garages-map/Munich.JPG" width="200">
+
+Stuttgart (シュトゥットガルト)🇩🇪
+<img src="/assets/images/garages-map/Stuttgart.JPG" width="200">
+
+Tremola (トレモラ)🇨🇭
+<img src="/assets/images/garages-map/Tremola.JPG" width="200">
+
+Milano (ミラノ)🇮🇹
+<img src="/assets/images/garages-map/Milano.JPG" width="200">
+
 
 ___
 ## ガレージなしの都市
+
+
 Tubingen (テュービンゲン)🇩🇪  
 Quarry (クアリー)意味：採石場  
 Lech (レッヒ)🇦🇹  
