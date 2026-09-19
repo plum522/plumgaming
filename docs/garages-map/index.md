@@ -16,33 +16,43 @@ ___
 ## ガレージありの都市一覧
 
 
-Frankfurt (フランクフルト)🇩🇪
+## ガレージありの都市一覧
+
+### Frankfurt (フランクフルト)🇩🇪
+
 <img src="/assets/images/garages-map/Frankfurt.JPG" width="200">
 
-Nancy (ナンシー)🇫🇷
+### Nancy (ナンシー)🇫🇷
+
 <img src="/assets/images/garages-map/Nancy.JPG" width="200">
 
-Nuremberg (ニュルンベルク)🇩🇪
+### Nuremberg (ニュルンベルク)🇩🇪
+
 <img src="/assets/images/garages-map/Nuremberg.JPG" width="200">
 
-Prague (プラハ)🇨🇿
+### Prague (プラハ)🇨🇿
+
 <img src="/assets/images/garages-map/Prague.JPG" width="200">
 
-Zurich (チューリッヒ)🇨🇭
+### Zurich (チューリッヒ)🇨🇭
+
 <img src="/assets/images/garages-map/Zurich.JPG" width="200">
 
-Munich (ミュンヘン)🇩🇪
+### Munich (ミュンヘン)🇩🇪
+
 <img src="/assets/images/garages-map/Munich.JPG" width="200">
 
-Stuttgart (シュトゥットガルト)🇩🇪
+### Stuttgart (シュトゥットガルト)🇩🇪
+
 <img src="/assets/images/garages-map/Stuttgart.JPG" width="200">
 
-Tremola (トレモラ)🇨🇭
+### Tremola (トレモラ)🇨🇭
+
 <img src="/assets/images/garages-map/Tremola.JPG" width="200">
 
-Milano (ミラノ)🇮🇹
-<img src="/assets/images/garages-map/Milano.JPG" width="200">
+### Milano (ミラノ)🇮🇹
 
+<img src="/assets/images/garages-map/Milano.JPG" width="200">
 
 ___
 ## ガレージなしの都市
