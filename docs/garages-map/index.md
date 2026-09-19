@@ -18,7 +18,7 @@ Frankfurt (フランクフルト)🇩🇪
 Nancy (ナンシー)🇫🇷  
 Nuremberg (ニュルンベルク)🇩🇪  
 Prague (プラハ)🇨🇿  
-Zurich (チューリッヒ)スイス  
+Zurich (チューリッヒ)🇨🇭  
 Munich (ミュンヘン)🇩🇪  
 Stuttgart (シュトゥットガルト)🇩🇪  
 Tremola (トレモラ)🇨🇭  
