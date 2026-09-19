@@ -15,9 +15,6 @@ ___
 ___
 ## ガレージありの都市一覧
 
-
-## ガレージありの都市一覧
-
 ### Frankfurt (フランクフルト)🇩🇪
 
 <img src="/assets/images/garages-map/Frankfurt.JPG" width="200">
