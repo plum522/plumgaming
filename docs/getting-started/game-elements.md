@@ -29,8 +29,7 @@ ___
 
 <img src="/assets/images/getting-started/gasolina-station.jpeg" width="450"><br>
 ゲーム内で必須のガソリンを給油できる<br>
-全ての都市に存在する。<br>
-高速道路にも存在する。
+一部の都市と高速道路上に存在する。<br>
 
 ___
 ## 睡眠
