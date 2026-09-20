@@ -51,6 +51,11 @@ ___
 
 <img src="/assets/images/garages-map/Milano.JPG" width="300">
 
+
+
+どの都市を選ぶかはそこまで稼ぎに影響しません。
+好きな都市を選ぶのがおすすめです。
+
 ___
 ## ガレージなしの都市
 
