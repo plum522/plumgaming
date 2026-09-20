@@ -51,6 +51,7 @@ ___
 ___
 ## 天候
 
+<img src="/assets/images/getting-started/weather-EN" width="450"><br>
 晴れ、曇り、雨天、雷雨が存在します。<br>
 デフォルトは晴れです。<br>
 雨を止ませることもできます。<br>
