@@ -12,6 +12,7 @@ permalink: /getting-started/game-elements/
 ___
 ## 通貨
 
+<img src="/assets/images/getting-started/your-balance.JPG" width="450"><br>
 このゲーム内では€(ユーロ)が使用されている。<br>
 残高0の状態で支払いをすると資金がマイナスになる。<br>
 (車両やガレージの新規購入はそもそも資金不足時は購入不可)<br>
