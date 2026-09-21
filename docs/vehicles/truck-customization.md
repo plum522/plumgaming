@@ -97,22 +97,22 @@ ___
 ___
 ## エクストラ
 
-<img src="/assets/images/vehicles/truck/extras.png" width="350">
+<img src="/assets/images/vehicles/truck/extras.png" width="350"><br>
 泥除けや車体のカバーなどです。<br>
 性能には影響しませんが、見た目が結構変わるのでおすすめカスタマイズです。
 
 ___
 ## 付属品
 
-<img src="/assets/images/vehicles/truck/accessories.png" width="350">
+<img src="/assets/images/vehicles/truck/accessories.png" width="350"><br>
 後付けのライトや、ビーコン(警光灯)などです。<br>
 エクストラと同じく性能に影響しない、見た目のドレスアップのカスタマイズです。
 
 ___
 ## ホイール
 
-<img src="/assets/images/vehicles/truck/wheel.png" width="350">
-<img src="/assets/images/vehicles/truck/all-wheel.png" width="350">
+<img src="/assets/images/vehicles/truck/wheel.png" width="350"><br>
+<img src="/assets/images/vehicles/truck/all-wheel.png" width="350"><br>
 トラックのホイールは全トラックで変更できます。<br>
 タイプ１,２,３の三種類があります。<br>
 実はそれぞれ性能が違うようで、おすすめは舗装路とオフロード両用向けのタイプ２です。<br>
