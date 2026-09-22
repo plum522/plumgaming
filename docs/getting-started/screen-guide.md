@@ -9,6 +9,8 @@ permalink: /getting-started/screen-guide/
 
 各場面の画面構成について解説します。
 
+# ⚠️このページは現在作成中です。
+
 ## メニュー画面
 
 （内容）
