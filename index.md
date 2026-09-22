@@ -1,11 +1,11 @@
 ---
-title: plumgaming
+title: plumgaming-jp
 layout: home
 nav_exclude: true
 permalink: /
 ---
 
-# plumgaming
+# plumgaming-jp
 
 ゲーム攻略情報を発信しているサイトです。
 
