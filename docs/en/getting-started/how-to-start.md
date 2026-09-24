@@ -39,7 +39,7 @@ ___
 Since the initial garage is the only one you can obtain for free, choosing it wisely is very important.
 **Nuremberg, located in the center of the map with access to many cities, is recommended as your first garage**.
 
-For detailed differences between garages, please refer to the [Garage Map](/docs/garages-map/).
+For detailed differences between garages, please refer to the [Garage Map](/docs/en/garages-map/).
 
 ___
 ## Choosing Your First Truck
@@ -58,13 +58,11 @@ Since it offers higher horsepower and torque for just a €1,000 difference, thi
 
 > The Moon THA is also not recommended because it has fewer upgrade and customization options.
 
-For detailed differences between each truck, please refer to the [Truck Encyclopedia (Details)](/vehicles/truck/).
+For detailed differences between each truck, please refer to the [Truck Encyclopedia (Details)](/en/vehicles/truck/).
 
 ___
 ## First Steps
 
 Once you’ve completed the steps above, you can start working right away!
 
-[Your First Job](/getting-started/first-job/)
-
-Translated with DeepL.com (free version)
+[Your First Job](/en/getting-started/first-job/)
