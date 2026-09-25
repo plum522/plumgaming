@@ -1,8 +1,6 @@
 ---
 title: Game Settings
-parent: Getting Started
-nav_order: 7
-permalink: /getting-started/settings/
+permalink: /en/getting-started/settings/
 ---
 
 # Game Settings
