@@ -1,8 +1,6 @@
 ---
 title: Game Screen Guide
-parent: Getting Started
-nav_order: 6
-permalink: /getting-started/screen-guide/
+permalink: /en/getting-started/screen-guide/
 ---
 
 # Game Screen Guide
