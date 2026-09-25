@@ -55,7 +55,7 @@ ___
 Weather conditions include sunny, cloudy, rainy, and thunderstorms. <br>
 The default is sunny. <br>
 You can also stop the rain. <br>
-[How to Stop the Rain](/guides/tips/#How-to-Stop-the-Rain)
+[How to Stop the Rain](/en/guides/tips/#How-to-Stop-the-Rain)
 
 ___
 ## Highway Toll Gates
