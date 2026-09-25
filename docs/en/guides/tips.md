@@ -1,5 +1,5 @@
 ---
-title: Tips
+title: Tips & Tricks
 permalink: /en/guides/tips/
 ---
 
