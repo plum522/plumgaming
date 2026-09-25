@@ -1,8 +1,6 @@
 ---
 title: Your First Job
-parent: Getting Started
-nav_order: 2
-permalink: /getting-started/first-job/
+permalink: /en/getting-started/first-job/
 ---
 
 # Your First Job
