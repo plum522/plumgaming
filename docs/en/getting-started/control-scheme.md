@@ -1,6 +1,6 @@
 ---
 title: How to Choose a Control Scheme
-permalink: en/getting-started/control-scheme/
+permalink: /en/getting-started/control-scheme/
 ---
 
 # How to Choose a Control Scheme
