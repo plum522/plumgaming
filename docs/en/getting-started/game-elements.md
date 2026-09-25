@@ -1,8 +1,6 @@
 ---
 title: In-Game Elements
-parent: Getting Started
-nav_order: 5
-permalink: /getting-started/game-elements/
+permalink: /en/getting-started/game-elements/
 ---
 
 # In-Game Elements
