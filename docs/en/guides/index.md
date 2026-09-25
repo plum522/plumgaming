@@ -1,5 +1,5 @@
 ---
-title: 攻略
+title: guides
 nav_exclude: true
 permalink: /en/guides/
 ---
