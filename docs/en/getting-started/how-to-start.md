@@ -1,8 +1,6 @@
 ---
 title: How to Get Started
-parent: Introduction
-nav_order: 1
-permalink: /getting-started/how-to-start/
+permalink: /en/getting-started/how-to-start/
 ---
 ![Game Image](/assets/images/getting-started/game-ex-image.webp)
 # What Is Truckers of Europe 3?
