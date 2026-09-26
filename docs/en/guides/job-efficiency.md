@@ -1,6 +1,7 @@
 ---
 title: Earn Money and Progress
 permalink: /en/guides/job-efficiency/
+nav_exclude: true
 ---
 
 # Efficient Ways to Earn Money and Progress
