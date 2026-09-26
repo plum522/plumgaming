@@ -1,6 +1,7 @@
 ---
 title: How to Choose a Control Scheme
 permalink: /en/getting-started/control-scheme/
+nav_exclude: true
 ---
 
 # How to Choose a Control Scheme
