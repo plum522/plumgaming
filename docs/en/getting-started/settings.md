@@ -1,6 +1,7 @@
 ---
 title: Game Settings
 permalink: /en/getting-started/settings/
+nav_exclude: true
 ---
 
 # Game Settings
