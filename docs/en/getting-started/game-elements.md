@@ -1,6 +1,7 @@
 ---
 title: In-Game Elements
 permalink: /en/getting-started/game-elements/
+nav_exclude: true
 ---
 
 # In-Game Elements
