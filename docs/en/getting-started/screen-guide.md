@@ -1,6 +1,7 @@
 ---
 title: Game Screen Guide
 permalink: /en/getting-started/screen-guide/
+nav_exclude: true
 ---
 
 # Game Screen Guide
