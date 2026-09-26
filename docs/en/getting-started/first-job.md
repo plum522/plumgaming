@@ -1,6 +1,7 @@
 ---
 title: Your First Job
 permalink: /en/getting-started/first-job/
+nav_exclude: true
 ---
 
 # Your First Job
