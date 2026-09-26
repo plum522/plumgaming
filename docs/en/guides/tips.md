@@ -1,6 +1,7 @@
 ---
 title: Tips & Tricks
 permalink: /en/guides/tips/
+nav_exclude: true
 ---
 
 # Tips & Tricks
