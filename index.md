@@ -21,7 +21,7 @@ permalink: /
 
 ---
 
-## English Pages (Preview)
+## English version
 
 - [Getting Started](/en/getting-started/)
   - [How to Start](/en/getting-started/how-to-start/)
