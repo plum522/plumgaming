@@ -1,0 +1,16 @@
+---
+title: Contact Us
+nav_exclude: true
+permalink: /en/contacat/
+---
+
+# Contact Us
+___
+If you find any errors in our articles or bugs/glitches in the game, please let us know via the contact form. We also welcome your requests and questions.
+
+<form action="https://formspree.io/f/xdekoazg" method="POST">
+  <label>Name (optional)<br><input type="text" name="name"></label><br><br>
+  <label>Email address for reply (optional)<br><input type="email" name="email"></label><br><br>
+  <label>Inquiry details<br><textarea name="message" rows="6" required></textarea></label><br><br>
+  <button type="submit">Submit</button>
+</form>
