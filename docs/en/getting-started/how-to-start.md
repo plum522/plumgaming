@@ -38,7 +38,7 @@ ___
 Since the initial garage is the only one you can obtain for free, choosing it wisely is very important.
 **Nuremberg, located in the center of the map with access to many cities, is recommended as your first garage**.
 
-For detailed differences between garages, please refer to the [Garage Map](/docs/en/garages-map/).
+For detailed differences between garages, please refer to the [Garage Map](/en/garages-map/).
 
 ___
 ## Choosing Your First Truck
