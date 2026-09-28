@@ -1,7 +1,10 @@
 ---
-title: guides
+title: Guides
 nav_exclude: true
 permalink: /en/guides/
 ---
 
-In this category, we'll explain efficient ways to earn money, level up, and other general gameplay strategies.
+# Guides
+
+- [Earn Money and Progress](/en/guides/job-efficiency/)
+- [Tips & Tricks](/en/guides/tips/)
