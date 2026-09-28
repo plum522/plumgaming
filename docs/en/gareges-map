@@ -1,8 +1,7 @@
 ---
-title: Garage Map
-has_children: true
-nav_order: 4
-grid_icon: “🏠”
+title: Garages & Map
+nav_exclude: true
+permalink: /en/garages-map/
 ---
 
 This section explains garages (bases) and the map.
