@@ -1,7 +1,7 @@
 ---
 title: Trailer
 nav_exclude: true
-permalink: /vehicles/trailer/
+permalink: /en/vehicles/trailer/
 ---
 
 # Trailer Encyclopedia
