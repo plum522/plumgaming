@@ -28,4 +28,4 @@ ___
 
 You’ve now completed your first job.
 If you’d like to learn more about jobs,
-please refer to [Jobs](/docs/en/jobs/).
+please refer to [Jobs](/en/jobs/).
