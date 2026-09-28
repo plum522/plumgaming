@@ -42,7 +42,7 @@ ___
 ## Heavy-Load Trailers
 
 Since these trailers carry loads of 20–30 metric tons or more, we recommend upgrading the truck’s engine and chassis through customization.
-For more details, see [Truck Customization](/vehicles/truck-customization/).
+For more details, see [Truck Customization](/en/vehicles/truck-customization/).
 
 | Image | Trailer Name | Price | Cargo | Level Restriction |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ This is the trailer with the highest job rewards in the game. We recommend custo
 ___
 ## Trailer Customization
 
-Trailers can also be customized. For details, see [Trailer Customization](/vehicles/trailer-customization/).
+Trailers can also be customized. For details, see [Trailer Customization](/en/vehicles/trailer-customization/).
