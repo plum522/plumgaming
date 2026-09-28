@@ -8,7 +8,7 @@ Here, we’ll provide detailed information about jobs.
 
 ___
 ## If you’re not sure how to complete a job, start here
-[Your First Job](/getting-started/first-job/)
+[Your First Job](/en/getting-started/first-job/)
 
 ___
 ## Job Basics
