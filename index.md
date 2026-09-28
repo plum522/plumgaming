@@ -18,3 +18,27 @@ permalink: /
 
 [プライバシーポリシー](/privacy-policy/) <br>
 [運営者情報](/about/)
+
+---
+
+## English Pages (Preview)
+
+- [Getting Started](/en/getting-started/)
+  - [How to Start](/en/getting-started/how-to-start/)
+  - [Control Schemes](/en/getting-started/control-scheme/)
+  - [Your First Job](/en/getting-started/first-job/)
+  - [Game Elements](/en/getting-started/game-elements/)
+- [Guides](/en/guides/)
+  - [Earn Money and Progress](/en/guides/job-efficiency/)
+  - [Tips & Tricks](/en/guides/tips/)
+- [Trucks & Trailers](/en/vehicles/)
+  - [Truck List](/en/vehicles/truck/)
+  - [Trailer List](/en/vehicles/trailer/)
+  - [Truck Customization](/en/vehicles/truck-customization/)
+  - [Trailer Customization](/en/vehicles/trailer-customization/)
+- [Garages & Map](/en/garages-map/)
+- [Jobs](/en/jobs/)
+- [Driving Tips](/en/driving/)
+- [Troubleshooting](/en/troubleshooting/)
+- [Updates](/en/updates/)
+- [Contact](/en/contact/)
