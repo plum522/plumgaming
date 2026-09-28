@@ -52,7 +52,7 @@ only these two have limitations; even when fully upgraded, they struggle to tran
 | <img src="/assets/images/vehicles/truck/Moon-THA.JPG" width="140"> | Moon THA | €9,000 | 310 hp | 1,550 Nm |
 | <img src="/assets/images/vehicles/truck/Fiora-Fi-Man.JPG" width="140"> | Fiora Fi-Man | €30,000 | 500 hp | 2,500 Nm |
 
-For more details, see [Truck Customization](/vehicles/truck-customization/).
+For more details, see [Truck Customization](/en/vehicles/truck-customization/).
 
 ## Summary
 
