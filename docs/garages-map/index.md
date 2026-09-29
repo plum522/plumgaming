@@ -5,6 +5,8 @@ nav_order: 4
 grid_icon: "🏠"
 ---
 
+[English Ver](/en/garages-map/)
+
 ここでは、ガレージ(拠点)やマップについて解説します。
 
 ___
