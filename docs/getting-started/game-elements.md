@@ -5,6 +5,8 @@ nav_order: 5
 permalink: /getting-started/game-elements/
 ---
 
+[English Ver](/en/getting-started/game-elements/)
+
 # ゲーム内要素
 
 このゲームに存在する基本的なシステム要素を紹介します。
