@@ -5,6 +5,8 @@ permalink: /vehicles/trailer/
 nav_order: 2
 ---
 
+[English Ver](/en/vehicles/trailer/)
+
 # トレーラー図鑑
 
 Truckers of Europe 3には25種類のトレーラーが存在し、<br>
