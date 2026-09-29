@@ -5,6 +5,8 @@ nav_order: 3
 permalink: /vehicles/truck-customization/
 ---
 
+[English Ver](/en/vehicles/truck-customization/)
+
 # トラックのカスタマイズ
 
 トラックはカスタマイズで多くの要素を変更できますが、<br>
