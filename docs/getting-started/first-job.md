@@ -5,6 +5,8 @@ nav_order: 2
 permalink: /getting-started/first-job/
 ---
 
+[English Ver](/en/getting-started/first-job/)
+
 # 初めてのジョブ
 
 準備が整ったら、実際に最初のジョブ（配送の仕事）に  
