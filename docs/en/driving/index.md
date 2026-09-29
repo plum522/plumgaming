@@ -26,7 +26,7 @@ ___
 ・Both trucks and trailers get dirty more easily.
 ・Tires are more likely to slip.
 If you really can’t stand it, change the weather.
-[How to Stop the Rain](/guides/tips/#How_to_Stop_the_Rain)
+[How to Stop the Rain](/en/guides/tips/#How_to_Stop_the_Rain)
 
 ___
 ## Sleep
