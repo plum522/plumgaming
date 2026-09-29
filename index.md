@@ -15,9 +15,8 @@ permalink: /
 - [Truckers of Europe 3](/getting-started/how-to-start/) — ヨーロッパを舞台にしたリアル系トラック運転シミュレーションゲーム
 
 ---
-
-[プライバシーポリシー](/privacy-policy/) <br>
-[運営者情報](/about/)
+[プライバシーポリシー](/privacy-policy/)[privacy policy in English](/en/privacy-policy/) <br>
+[運営者情報](/about/)[site operator information](/en/about/)
 
 ---
 
