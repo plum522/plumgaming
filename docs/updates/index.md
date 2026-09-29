@@ -5,6 +5,8 @@ nav_order: 8
 grid_icon: "🆕"
 ---
 
+[English Ver](/en/updates/)
+
 このカテゴリでは、バージョンごとの変更点をまとめます。
 
 # 最新アップデート　(2026/9時点)
