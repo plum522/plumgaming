@@ -1,7 +1,7 @@
 ---
 title: Site Operator Information
 nav_exclude: true
-permalink: /about/
+permalink: /en/about/
 ---
 
 # Site Operator Information
