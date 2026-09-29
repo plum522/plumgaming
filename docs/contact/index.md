@@ -5,7 +5,9 @@ nav_order: 9
 grid_icon: "✉️"
 permalink: /contact/
 ---
+
 [English Ver](/en/contact/)
+
 # お問い合わせ
 ___
 記事の間違いやゲーム内のバグ・不具合を見つけた場合は、ぜひお問い合わせフォームからお知らせください。ご要望・ご質問も受け付けています。
