@@ -1,13 +1,13 @@
 ---
-title: 運営者情報
+title: Site Operator Information
 nav_exclude: true
 permalink: /about/
 ---
 
-# 運営者情報
+# Site Operator Information
 
-- サイト名：plumgaming-jp
-- 運営者：plum （国籍及び所在国：日本）
-- お問い合わせ：[お問い合わせフォーム](/contact/)
+- Site Name: plumgaming-jp
+- Operator: plum (Nationality and Country of Residence: Japan)
+- Contact: [Contact Form](/en/contact/)
 
-当サイトはゲーム開発元公式の制作ではなく、非公式のファンサイトです。
+This site is not an official production by the game developer; it is an unofficial fan site.
