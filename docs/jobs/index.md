@@ -5,6 +5,8 @@ nav_order: 5
 grid_icon: "📦"
 ---
 
+[English Ver](/en/jobs/)
+
 ここではジョブについて詳細を紹介します。
 
 ___
