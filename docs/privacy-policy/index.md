@@ -4,6 +4,8 @@ nav_exclude: true
 permalink: /privacy-policy/
 ---
 
+[English Ver](/en/privacy-policy/)
+
 # プライバシーポリシー
 
 ## 広告の配信について
