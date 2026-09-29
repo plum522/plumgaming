@@ -4,6 +4,8 @@ nav_exclude: true
 permalink: /about/
 ---
 
+[English Ver](/en/about/)
+
 # 運営者情報
 
 - サイト名：plumgaming-jp
