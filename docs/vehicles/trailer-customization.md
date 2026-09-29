@@ -5,6 +5,8 @@ nav_order: 4
 permalink: /vehicles/trailer-customization/
 ---
 
+[English Ver](/en/vehicles/trailer-customization/)
+
 # トレーラーのカスタマイズ
 
 トレーラーは以下のカスタマイズができます。
