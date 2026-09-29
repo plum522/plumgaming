@@ -5,6 +5,8 @@ nav_order: 6
 grid_icon: "🎮"
 ---
 
+[English Ver](/en/driving/)
+
 ___
 ## 運転の基本
 
