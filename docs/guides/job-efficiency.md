@@ -5,6 +5,8 @@ nav_order: 1
 permalink: /guides/job-efficiency/
 ---
 
+[English Ver](/en/guides/job-efficiency/)
+
 # 効率的な稼ぎ方・進め方
 
 Truckers of Europe 3は稼ぐのが難しく、<br>
