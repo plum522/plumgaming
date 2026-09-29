@@ -5,6 +5,8 @@ nav_order: 3
 permalink: /getting-started/control-scheme/
 ---
 
+[English Ver](/en/getteing-started/control-scheme/)
+
 # 操作方式の選び方
 
 Truckers of Europe 3では、主に４つの操作方式から選べます。
