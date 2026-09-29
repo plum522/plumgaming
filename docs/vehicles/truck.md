@@ -5,6 +5,8 @@ permalink: /vehicles/truck/
 nav_order: 1
 ---
 
+[English Ver](/en/vehicles/truck/)
+
 # トラック図鑑
 
 Truckers of Europe 3には全15車種のトラックが存在します。<br>
