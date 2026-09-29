@@ -7,6 +7,8 @@ permalink: /guides/tips/
 
 # 小技・小ネタ集
 
+[English Ver](/en/guides/tips/)
+
 ___
 ## 最速でレベル上げする方法
 
