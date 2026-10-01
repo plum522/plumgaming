@@ -4,6 +4,8 @@ nav_exclude: true
 permalink: /en/privacy-policy/
 ---
 
+{% include en_nav.html %}
+
 # Privacy Policy
 
 ## About Advertising
