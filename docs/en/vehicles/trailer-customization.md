@@ -4,6 +4,8 @@ nav_exclude: true
 permalink: /en/vehicles/trailer-customization/
 ---
 
+{% include en_nav.html %}
+
 # Trailer Customization
 
 You can customize trailers in the following ways:
