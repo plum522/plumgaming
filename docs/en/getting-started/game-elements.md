@@ -6,6 +6,8 @@ nav_exclude: true
 
 {% include en_nav.html %}
 
+[Japanese Ver](/getting-started/game-elements/)
+
 # In-Game Elements
 
 This section introduces the basic system elements found in this game.
