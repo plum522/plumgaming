@@ -6,6 +6,8 @@ permalink: /en/vehicles/trailer-customization/
 
 {% include en_nav.html %}
 
+[Japanese Ver](/vehicles/trailer-customization/)
+
 # Trailer Customization
 
 You can customize trailers in the following ways:
