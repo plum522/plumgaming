@@ -4,6 +4,8 @@ nav_exclude: true
 permalink: /en/updates/
 ---
 
+{% include en_nav.html %}
+
 This category summarizes the changes made in each version.
 
 # Latest Update (as of September 2026)
