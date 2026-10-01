@@ -6,6 +6,8 @@ permalink: /en/guides/
 
 {% include en_nav.html %}
 
+[Japanese Ver](/guides/)
+
 # Guides
 
 - [Earn Money and Progress](/en/guides/job-efficiency/)
