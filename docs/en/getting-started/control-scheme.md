@@ -4,6 +4,8 @@ permalink: /en/getting-started/control-scheme/
 nav_exclude: true
 ---
 
+{% include en_nav.html %}
+
 # How to Choose a Control Scheme
 
 In Truckers of Europe 3, you can choose from four main control schemes.
