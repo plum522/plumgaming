@@ -4,6 +4,8 @@ permalink: /en/getting-started/first-job/
 nav_exclude: true
 ---
 
+{% include en_nav.html %}
+
 # Your First Job
 
 Once you’re ready, let’s try taking on your first job
