@@ -6,6 +6,8 @@ permalink: /en/troubleshooting/
 
 {% include en_nav.html %}
 
+[Japanese Ver](/troubleshooting/)
+
 This category summarizes known bugs in the current version and their workarounds. <br>
 If you encounter any bugs or issues not listed on this page, please email us via the “Contact Us” page.
 
