@@ -6,6 +6,8 @@ nav_exclude: true
 
 {% include en_nav.html %}
 
+[Japanese Ver](/vehicles/truck-customization/)
+
 # Truck Customization
 
 While many elements of a truck can be customized, <br>
