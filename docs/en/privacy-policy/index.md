@@ -6,7 +6,7 @@ permalink: /en/privacy-policy/
 
 {% include en_nav.html %}
 
-[Japanese Ver](/privacy-policy/)
+[Japanese Ver](/docs/privacy-policy/)
 
 # Privacy Policy
 
