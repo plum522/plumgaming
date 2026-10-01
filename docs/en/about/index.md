@@ -4,6 +4,8 @@ nav_exclude: true
 permalink: /en/about/
 ---
 
+{% include en_nav.html %}
+
 # Site Operator Information
 
 - Site Name: plumgaming-jp
