@@ -6,6 +6,8 @@ nav_exclude: true
 
 {% include en_nav.html %}
 
+[Japanese Ver](/getting-started/first-job/)
+
 # Your First Job
 
 Once you’re ready, let’s try taking on your first job
