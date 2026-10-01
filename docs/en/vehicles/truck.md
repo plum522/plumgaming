@@ -6,6 +6,8 @@ nav_exclude: true
 
 {% include en_nav.html %}
 
+[Japanese Ver](/vehicles/truck/)
+
 # Truck Encyclopedia
 
 Truckers of Europe 3 features a total of 15 different truck models. <br>
