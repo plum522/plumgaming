@@ -6,6 +6,8 @@ nav_exclude: true
 
 {% include en_nav.html %}
 
+[Japanese Ver](/getting-started/how-to-start/)
+
 ![Game Image](/assets/images/getting-started/game-ex-image.webp)
 # What Is Truckers of Europe 3?
 Truckers of Europe 3 is a realistic truck driving simulation game developed by Wanda Software  
