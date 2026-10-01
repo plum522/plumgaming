@@ -4,6 +4,8 @@ permalink: /en/vehicles/truck-customization/
 nav_exclude: true
 ---
 
+{% include en_nav.html %}
+
 # Truck Customization
 
 While many elements of a truck can be customized, <br>
