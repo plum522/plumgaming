@@ -6,6 +6,8 @@ nav_exclude: true
 
 {% include en_nav.html %}
 
+[Japanese Ver](/getting-started/screen-guide/)
+
 # Game Screen Guide
 
 This section explains the layout of each screen.
