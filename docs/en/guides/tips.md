@@ -4,6 +4,8 @@ permalink: /en/guides/tips/
 nav_exclude: true
 ---
 
+{% include en_nav.html %}
+
 # Tips & Tricks
 
 ___
