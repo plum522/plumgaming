@@ -4,6 +4,8 @@ nav_exclude: true
 permalink: /en/getting-started/
 ---
 
+{% include en_nav.html %}
+
 # Getting Started
 
 - [How to Start](/en/getting-started/how-to-start/)
