@@ -6,7 +6,7 @@ permalink: /en/about/
 
 {% include en_nav.html %}
 
-[Japanese Ver](/about/)
+[Japanese Ver](/docs/about/)
 
 # Site Operator Information
 
