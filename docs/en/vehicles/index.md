@@ -4,6 +4,8 @@ nav_exclude: true
 permalink: /en/vehicles/
 ---
 
+{% include en_nav.html %}
+
 # Trucks & Trailers
 
 - [Truck List](/en/vehicles/truck/)
