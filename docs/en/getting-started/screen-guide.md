@@ -4,6 +4,8 @@ permalink: /en/getting-started/screen-guide/
 nav_exclude: true
 ---
 
+{% include en_nav.html %}
+
 # Game Screen Guide
 
 This section explains the layout of each screen.
