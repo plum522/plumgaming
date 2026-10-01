@@ -6,7 +6,7 @@ permalink: /en/driving/
 
 {% include en_nav.html %}
 
-[Japanese Ver](/driving/)
+[Japanese Ver](/docs/driving/)
 
 ___
 ## Driving Basics
