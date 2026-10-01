@@ -6,6 +6,8 @@ permalink: /en/vehicles/
 
 {% include en_nav.html %}
 
+[Japanese Ver](/vehicles/)
+
 # Trucks & Trailers
 
 - [Truck List](/en/vehicles/truck/)
