@@ -6,6 +6,8 @@ permalink: /en/vehicles/trailer/
 
 {% include en_nav.html %}
 
+[Japanese Ver](/vehicles/trailer/)
+
 # Trailer Encyclopedia
 
 There are 25 types of trailers in Truckers of Europe 3, <br>
