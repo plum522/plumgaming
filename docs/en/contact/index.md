@@ -4,6 +4,8 @@ nav_exclude: true
 permalink: /en/contact/
 ---
 
+{% include en_nav.html %}
+
 # Contact Us
 ___
 If you find any errors in our articles or bugs/glitches in the game, please let us know via the contact form. We also welcome your requests and questions.
