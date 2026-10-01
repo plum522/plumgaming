@@ -4,6 +4,8 @@ permalink: /en/guides/job-efficiency/
 nav_exclude: true
 ---
 
+{% include en_nav.html %}
+
 # Efficient Ways to Earn Money and Progress
 
 It’s difficult to earn money in Truckers of Europe 3, <br>
