@@ -6,7 +6,7 @@ permalink: /en/jobs/
 
 {% include en_nav.html %}
 
-[Japanese Ver](/jobs/)
+[Japanese Ver](/docs/jobs/)
 
 Here, we’ll provide detailed information about jobs.
 
