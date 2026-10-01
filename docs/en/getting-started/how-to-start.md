@@ -2,8 +2,9 @@
 title: How to Get Started
 permalink: /en/getting-started/how-to-start/
 nav_exclude: true
-{% include en_nav.html %}
 ---
+
+{% include en_nav.html %}
 
 ![Game Image](/assets/images/getting-started/game-ex-image.webp)
 # What Is Truckers of Europe 3?
