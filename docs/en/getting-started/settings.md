@@ -6,6 +6,8 @@ nav_exclude: true
 
 {% include en_nav.html %}
 
+[Japanese Ver](/getting-started/settings/)
+
 # Game Settings
 
 This section explains the options you can change in the settings menu.
