@@ -4,6 +4,8 @@ nav_exclude: true
 permalink: /en/garages-map/
 ---
 
+{% include en_nav.html %}
+
 This section explains garages (bases) and the map.
 
 ___
