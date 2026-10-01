@@ -6,7 +6,7 @@ permalink: /en/guides/
 
 {% include en_nav.html %}
 
-[Japanese Ver](/guides/)
+[Japanese Ver](/docs/guides/)
 
 # Guides
 
