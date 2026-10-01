@@ -4,6 +4,8 @@ permalink: /en/getting-started/game-elements/
 nav_exclude: true
 ---
 
+{% include en_nav.html %}
+
 # In-Game Elements
 
 This section introduces the basic system elements found in this game.
