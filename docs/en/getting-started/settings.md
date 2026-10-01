@@ -4,6 +4,8 @@ permalink: /en/getting-started/settings/
 nav_exclude: true
 ---
 
+{% include en_nav.html %}
+
 # Game Settings
 
 This section explains the options you can change in the settings menu.
