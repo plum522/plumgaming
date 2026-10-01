@@ -3,6 +3,9 @@ title: How to Get Started
 permalink: /en/getting-started/how-to-start/
 nav_exclude: true
 ---
+
+{% include en_nav.html %}
+
 ![Game Image](/assets/images/getting-started/game-ex-image.webp)
 # What Is Truckers of Europe 3?
 Truckers of Europe 3 is a realistic truck driving simulation game developed by Wanda Software  
