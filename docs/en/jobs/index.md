@@ -4,6 +4,8 @@ nav_exclude: true
 permalink: /en/jobs/
 ---
 
+{% include en_nav.html %}
+
 Here, we’ll provide detailed information about jobs.
 
 ___
