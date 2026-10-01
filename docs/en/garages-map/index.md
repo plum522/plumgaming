@@ -6,7 +6,7 @@ permalink: /en/garages-map/
 
 {% include en_nav.html %}
 
-[Japanese Ver](/garages-map/)
+[Japanese Ver](/docs/garages-map/)
 
 This section explains garages (bases) and the map.
 
