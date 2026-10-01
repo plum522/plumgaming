@@ -8,6 +8,8 @@ nav_exclude: true
 
 # Tips & Tricks
 
+[Japanese Ver](/guides/tips/)
+
 ___
 ## How to Level Up the Fastest
 
