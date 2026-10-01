@@ -6,6 +6,8 @@ permalink: /en/updates/
 
 {% include en_nav.html %}
 
+[Japanese Ver](/updates/)
+
 This category summarizes the changes made in each version.
 
 # Latest Update (as of September 2026)
