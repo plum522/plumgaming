@@ -6,7 +6,7 @@ permalink: /en/getting-started/
 
 {% include en_nav.html %}
 
-[Japanese Ver](/getting-started/)
+[Japanese Ver](/docs/getting-started/)
 
 # Getting Started
 
