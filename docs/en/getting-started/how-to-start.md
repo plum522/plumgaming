@@ -23,8 +23,9 @@ ___
 > Also compatible with Windows and Mac  
 > (Windows is compatible with Windows 10 or 11 only [Google Play (Windows)](https://play.google.com/store/apps/details?id=com.WandaSoftware.TruckersofEurope3)  
 > Mac: Compatible with macOS 12.0 or later and models equipped with an Apple M1 or later chip [App Store (Mac)](https://apps.apple.com/jp/app/truckers-of-europe-3/id1630315603))
->
-> ___
+
+
+___
 ## What to Do When You First Launch the App
 
 Tap “Drive” in the bottom-right corner of the screen to create your profile.
