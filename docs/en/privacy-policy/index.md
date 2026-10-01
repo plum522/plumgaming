@@ -6,6 +6,8 @@ permalink: /en/privacy-policy/
 
 {% include en_nav.html %}
 
+[Japanese Ver](/privacy-policy/)
+
 # Privacy Policy
 
 ## About Advertising
