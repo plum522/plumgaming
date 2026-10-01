@@ -6,6 +6,8 @@ permalink: /en/about/
 
 {% include en_nav.html %}
 
+[Japanese Ver](/about/)
+
 # Site Operator Information
 
 - Site Name: plumgaming-jp
