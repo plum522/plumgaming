@@ -20,7 +20,7 @@ ___
 2. Tap the pause button in the top right corner.
 3. Tap “Get a Job” on the left side of the screen.
 4. Sort the job list by “Shortest Distance” and select the shortest one.
-   > Since you earn the same amount of experience regardless of distance, shorter jobs are recommended early on.
+   > Since you earn the same amount of xp of any distance, shorter jobs are recommended early on.
 6. Follow the navigation in the top-left corner to the pickup location and attach the trailer.
    > If you’re having trouble, we recommend skipping this step by watching an ad.
 7. Follow the navigation in the top-left corner to deliver the cargo to its destination.
