@@ -13,30 +13,30 @@ nav_exclude: true
 Truckers of Europe 3 is a realistic truck driving simulation game developed by Wanda Software  
 for smartphones (Android/iOS) and PC.  
 It’s free-to-play yet offers high-quality graphics and an authentic experience.  
-*Multiplayer support is available starting with the latest version.
+* Multiplayer support is available starting with the latest version.
 
 ___
 ## Download the App
 
 - [App Store (iPhone, iPad)](https://apps.apple.com/jp/app/truckers-of-europe-3/id1630315603)
 - [Google Play (Android)](https://play.google.com/store/apps/details?id=com.WandaSoftware.TruckersofEurope3)
-- Price: Free to play (with in-app purchases and ads)
+- Price: Free
 
 > Also compatible with Windows and Mac  
-> (Windows is compatible with Windows 10 or 11 only [Google Play (Windows)](https://play.google.com/store/apps/details?id=com.WandaSoftware.TruckersofEurope3)  
-> Mac: Compatible with macOS 12.0 or later and models equipped with an Apple M1 or later chip [App Store (Mac)](https://apps.apple.com/jp/app/truckers-of-europe-3/id1630315603))
+> (you can play Windows 10 or 11 [Google Play (Windows)](https://play.google.com/store/apps/details?id=com.WandaSoftware.TruckersofEurope3)  
+> or Mac with macOS 12.0 or later and models equipped with an Apple M1 or later chip [App Store (Mac)](https://apps.apple.com/jp/app/truckers-of-europe-3/id1630315603))
 
 
 ___
 ## What to Do When You First Launch the App
 
-Tap “Drive” in the bottom-right corner of the screen to create your profile.
+Tap “Drive” in the bottom-right corner of the screen and create your profile.
 - Choose a profile picture from 42 different icons
 - Choose a company logo from 20 different icons
 - Set your username and company name
 - Choose your initial garage (base) from 9 cities
 
-> ⚠️Note: Once you’ve set your profile (excluding the garage), you cannot change it again. (You can delete or add profiles to create up to two new ones.)
+> ⚠️Note: Once you’ve set your profile (excluding the garage), you cannot change it again. (You can just delete or add profiles to create up to two new ones.)
 
 ___
 ## Choosing a Garage (Base)
@@ -44,7 +44,7 @@ ___
 Since the initial garage is the only one you can obtain for free, choosing it wisely is very important.
 **Nuremberg, located in the center of the map with access to many cities, is recommended as your first garage**.
 
-For detailed differences between garages, please refer to the [Garage Map](/en/garages-map/).
+For detailed differences between garages, please refer to the [Garages & Map](/en/garages-map/).
 
 ___
 ## Choosing Your First Truck
@@ -68,6 +68,6 @@ For detailed differences between each truck, please refer to the [Truck Encyclop
 ___
 ## First Steps
 
-Once you’ve completed the steps above, you can start working right away!
+Congratulations.Once you’ve completed the steps above, you can start working right away!
 
 [Your First Job](/en/getting-started/first-job/)
