@@ -13,7 +13,7 @@ nav_exclude: true
 This section introduces the basic system elements found in this game.
 
 ___
-## Currency
+## Balance
 
 <img src="/assets/images/getting-started/your-balance.JPG" width="450"><br>
 The game uses € (euros).<br>
@@ -68,7 +68,7 @@ You’ll pass through one at least once when driving on the highway. <br>
 Tolls range from €70 to €140, depending on the vehicle’s weight.
 
 ___
-## Ferries
+## Ferrie
 
 <img src="/assets/images/getting-started/ferry.png" width="450"><br>
 Found in certain parts of the map. <br>
@@ -80,7 +80,7 @@ The one-way trip takes 3.5 minutes (40 minutes in-game time). <br>
 ___
 ## In-App Purchases
 
-See the image below for pricing in the Japanese version. (As of September 17, 2026)
+See the image below for pricing in the Japanese version. (As of October 6, 2026)
 
 ↓Android↓
 
