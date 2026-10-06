@@ -20,7 +20,7 @@ ___
 3. **Tilt Controls**: A control scheme where you tilt your smartphone to steer.
 4. **External Controller**: A control scheme that uses a game controller connected via Bluetooth or other methods.
 
-   *Note: Many controllers, such as those for the Switch, PlayStation, and Xbox, can be used on both iPhone and Android devices.
+*Note: Many controllers, such as those for the Switch, PlayStation, and Xbox, can be used on both iPhone and Android devices.
 
 ___
 ## How to Choose the Right Control Scheme
