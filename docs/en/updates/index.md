@@ -6,7 +6,7 @@ permalink: /en/updates/
 
 {% include en_nav.html %}
 
-[Japanese Ver](/updates/)
+[Japanese Ver](/docs/updates/)
 
 This category summarizes the changes made in each version.
 
