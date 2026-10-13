@@ -10,7 +10,7 @@ permalink: /en/updates/
 
 This category summarizes the changes made in each version.
 
-# Latest Update (as of September 13 2026)
+# Latest Update (as of October 13 2026)
 
 ___
 ## Version Information
