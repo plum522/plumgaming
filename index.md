@@ -19,7 +19,7 @@ permalink: /
 [プライバシーポリシー](/privacy-policy/) <br>
 [運営者・サイト情報](/about/) <br>
 [privacy policy - in English](/en/privacy-policy/) <br>
-[site operator information - in English](/en/about/) <br>
+[Site & Operator Information - in English](/en/about/) <br>
 
 ---
 
