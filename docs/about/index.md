@@ -6,7 +6,7 @@ permalink: /about/
 
 [English Ver](/en/about/)
 
-# 運営者および当サイトについて
+# 当サイトおよび運営者について
 
 - サイト名：plumgaming-jp
 - 運営者：plum<br>
