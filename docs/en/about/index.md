@@ -4,7 +4,7 @@ nav_exclude: true
 permalink: /en/about/
 ---
 
-{% include en_nav.html %}
+{% include en_nav.html %}  
 [Japanese Ver](/about/)
 
 # About This Site and the Site Operator
