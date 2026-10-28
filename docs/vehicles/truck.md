@@ -57,6 +57,23 @@ ___
 
 詳しくは[トラックのカスタマイズ](/vehicles/truck-customization/)を参照してください。
 
+---
+## 地上高
+
+地上高はトラックによって大きく異なり、その違いは以下の画像を見ていただければ一目瞭然です。
+
+<img src="/assets/images/vehicles/truck/"ground-clearance.png" width="400">
+
+以下のトラックは特に地上高が低いため、オフロード走行中には車体底面をぶつけることが多いです。
+スタックもしやすくなるためトラック選びにおいて少し注意することをお勧めします。
+  
+| 画像 | トラック名 | 価格 | 馬力 | トルク |
+|---|---|---|---|---|
+| <img src="/assets/images/vehicles/truck/Stream-RT.JPG" width="140"> | Stream RT | €35,000 | 370hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Stream-ST.JPG" width="140"> | Stream ST | €36,000 | 370hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-2004.JPG" width="140"> | Stream RT Legend 2004 | €15,000 | 380hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-2009.JPG" width="140"> | Stream RT Legend 2009 | €20,000 | 380hp | 1,900Nm |
+
 ## まとめ
   
 車両ごとのスペックの違いはありますが、<br>
