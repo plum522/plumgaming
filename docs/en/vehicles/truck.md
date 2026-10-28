@@ -58,6 +58,27 @@ only these two have limitations; even when fully upgraded, they struggle to tran
 
 For more details, see [Truck Customization](/en/vehicles/truck-customization/).
 
+---
+## Ground　clearance
+
+
+Ground clearance varies significantly depending on the truck, and you can see that difference clearly in the image below.
+
+<img src="/assets/images/vehicles/truck/ground-clearance.png" width="700">
+
+> ##### This image is a comparison image created exclusively by this site. It is not an officially released image.
+
+The following trucks have particularly low ground clearance, so the underside of the vehicle often hits the ground during off-road driving.
+Since they are also more prone to getting stuck, we recommend exercising a little caution when choosing a truck.
+
+| 画像 | トラック名 | 価格 | 馬力 | トルク |
+|---|---|---|---|---|
+| <img src="/assets/images/vehicles/truck/Stream-RT.JPG" width="140"> | Stream RT | €35,000 | 370hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Stream-ST.JPG" width="140"> | Stream ST | €36,000 | 370hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-2004.JPG" width="140"> | Stream RT Legend 2004 | €15,000 | 380hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-2009.JPG" width="140"> | Stream RT Legend 2009 | €20,000 | 380hp | 1,900Nm |
+
+
 ## Summary
 
 While specifications vary by vehicle, <br>
