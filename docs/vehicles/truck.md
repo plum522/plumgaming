@@ -62,7 +62,7 @@ ___
 
 地上高はトラックによって大きく異なり、その違いは以下の画像を見ていただければ一目瞭然です。
 
-<img src="/assets/images/vehicles/truck/"ground-clearance.png" width="400">
+<img src="/assets/images/vehicles/truck/ground-clearance.png" width="400">
 
 以下のトラックは特に地上高が低いため、オフロード走行中には車体底面をぶつけることが多いです。
 スタックもしやすくなるためトラック選びにおいて少し注意することをお勧めします。
