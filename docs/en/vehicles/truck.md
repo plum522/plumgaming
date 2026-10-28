@@ -59,7 +59,7 @@ only these two have limitations; even when fully upgraded, they struggle to tran
 For more details, see [Truck Customization](/en/vehicles/truck-customization/).
 
 ---
-## Ground　clearance
+## Ground　Clearance
 
 
 Ground clearance varies significantly depending on the truck, and you can see that difference clearly in the image below.
