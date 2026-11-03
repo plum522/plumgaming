@@ -35,7 +35,7 @@ ___
 「traffic」もしくは「渋滞」をオフにするとすべてのNPC車両が消えます。<br>
 <img src="/assets/images/guides/traffic-jam4.png" width="450"><br>
 <img src="/assets/images/guides/traffic-jam5.png" width="450"><br>
->フォトモード中はパーキングブレーキが作動するため、スピードを出している時に使うと危険です。
+>フォトモード中はパーキングブレーキが作動するため、運転中に使うと危険です。
 
 ___
 ## NPC車両をどかす方法
