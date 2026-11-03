@@ -6,9 +6,6 @@ grid_icon: "📦"
 ---
 
 [English Ver](/en/jobs/)
-
-ここではジョブについて詳細を紹介します。
-
 ___
 ## ジョブのやり方がわからない場合はまずここから
 [初めてのジョブ](/getting-started/first-job/)
