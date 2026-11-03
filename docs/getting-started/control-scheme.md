@@ -14,10 +14,14 @@ Truckers of Europe 3では、主に４つの操作方式から選べます。
 ___
 ## 操作方式の種類
 
-1. **ステアリングホイール**：画面上のハンドルを指でなぞって操作する方式
-2. **ボタン操作**：画面上のボタンをタップして操作する方式
-3. **傾き操作**：スマートフォン本体を傾けてハンドルを切る方式
-4. **外部コントローラー**：Bluetoothなどで接続したゲーム用コントローラーを使い操作する方式。
+1. **ステアリングホイール**：画面上のハンドルを指でなぞって操作する方式 <br>
+<img src="/assets/images/getting-started/steering-wheel.jpg" width="450">
+2. **ボタン操作**：画面上のボタンをタップして操作する方式<br>
+<img src="/assets/images/getting-started/botton.jpg" width="450">
+3. **傾き操作**：スマートフォン本体を傾けてハンドルを切る方式<br>
+<img src="/assets/images/getting-started/tilt.jpg" width="450">
+4. **外部コントローラー**：Bluetoothなどで接続したゲーム用コントローラーを使い操作する方式。<br>
+<img src="/assets/images/getting-started/joy-con.jpg" width="450">
    
    ※iPhoneとandroidの両方でSwitchやPlay StationやXboxなど多くのコントローラーが使用できます
 
