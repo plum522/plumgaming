@@ -29,11 +29,7 @@ ___
 ## 渋滞を消す方法
 
 このゲームはよく渋滞します。右上の「⋯」ボタンからフォトモードを開き、「traffic」もしくは「渋滞」をオフにするとすべてのNPC車両が消えます。
-![説明画像](/assets/images/guides/tips/traffic-jam1)
-![説明画像](/assets/images/guides/tips/traffic-jam2)
-![説明画像](/assets/images/guides/tips/traffic-jam3)
-![説明画像](/assets/images/guides/tips/traffic-jam4)
-![説明画像](/assets/images/guides/tips/traffic-jam5)
+<img src="/assets/images/guides/tips/traffic-jam2" width="450">
 >フォトモード中はパーキングブレーキが作動するため、スピードを出している時に使うと危険です。
 
 ___
