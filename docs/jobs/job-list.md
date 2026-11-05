@@ -6,6 +6,8 @@ permalink: /jobs/job-list/
 ---
 
 
+[English Ver](/en/jobs/job-list/)
+
 
 # 観測済みジョブ一覧
 
