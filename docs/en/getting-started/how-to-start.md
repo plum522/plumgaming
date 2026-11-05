@@ -53,8 +53,8 @@ With your starting funds of €10,000, you can purchase only two trucks.
 
 | Image | Truck Name | Price | Horsepower | Torque |
 |---|---|---|---|---|
-| <img src="/assets/images/vehicles/truck/Moon-THA.JPG" width="140"> | Moon THA | €9,000 | 310 hp | 1,550 Nm |
-| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-1995.JPG" width="140"> | Stream RT Legend 1995 | €10,000 | 380 hp | 1,900 Nm |
+| <img src="/assets/images/vehicles/truck/Moon-THA.png" width="140"> | Moon THA | €9,000 | 310 hp | 1,550 Nm |
+| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-1995.png" width="140"> | Stream RT Legend 1995 | €10,000 | 380 hp | 1,900 Nm |
 
 ___
 ## Recommended: Stream RT Legend 1995
