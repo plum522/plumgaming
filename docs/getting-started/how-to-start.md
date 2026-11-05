@@ -52,8 +52,8 @@ ___
 
 | 画像 | トラック名 | 価格 | 馬力 | トルク |
 |---|---|---|---|---|
-| <img src="/assets/images/vehicles/truck/Moon-THA.JPG" width="140"> | Moon THA | €9,000 | 310hp | 1,550Nm |
-| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-1995.JPG" width="140"> | Stream RT Legend 1995 | €10,000 | 380hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Moon-THA.png" width="140"> | Moon THA | €9,000 | 310hp | 1,550Nm |
+| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-1995.png" width="140"> | Stream RT Legend 1995 | €10,000 | 380hp | 1,900Nm |
 
 ___
 ## おすすめ：Stream RT Legend 1995
