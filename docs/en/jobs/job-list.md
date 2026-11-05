@@ -87,9 +87,9 @@ ___
 | Cyanide<br><img src="/assets/images/jobs/Cyanide.JPG" width="150"> | 4 | 7 t | Approx. 1.00 | (To be filled in) |
 | Glass<br><img src="/assets/images/jobs/Glass.JPG" width="150"> | 5 | 14 t | Approx. 1.00 | (To be filled in) |
 | Cement<br><img src="/assets/images/jobs/Cement.JPG" width="150"> | 5 | 14 t | Approx. 1.00 | Mixer (tentative) |
-| Skid-Steer Loader<br><img src="/assets/image/jobs/Skid-Steer.JPG" width="150"> | 7 | 14–16 t | Approx. 1.00 | Fixed Lowbed (tentative) |
+| Skid-Steer Loader<br><img src="/assets/images/jobs/Skid-Steer.JPG" width="150"> | 7 | 14–16 t | Approx. 1.00 | Fixed Lowbed (tentative) |
 | Motor Grader<br><img src="/assets/images/jobs/Motor-Grader.JPG" width="150"> | 7 | 18 t | Approx. 1.00 | Fixed Lowbed (tentative) |
-| Excavator<br><img src="/assets/images/jobs/cExcavator.JPG" width="150"> | 7 | 25–27 t | Approx. 1.00 | Fixed Lowbed (Tentative) |
+| Excavator<br><img src="/assets/images/jobs/Excavator.JPG" width="150"> | 7 | 25–27 t | Approx. 1.00 | Fixed Lowbed (Tentative) |
 | Crane Truck<br><img src="/assets/images/jobs/Crane-Truck.JPG" width="150"> | 7 | 38 t | Approx. 1.00 | Fixed Lowbed (Tentative) |
 | Front Loader<br><img src="/assets/images/jobs/Front-Loader.JPG" width="150"> | 10 | 28 t | Approx. 1.00 | (To be filled in) |
 | Asphalt Paver<br><img src="/assets/images/jobs/Asphalt-Paver.JPG" width="150"> | 10 | 35 t | Approx. 1.00 | (To be filled in) |
