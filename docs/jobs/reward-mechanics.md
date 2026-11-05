@@ -5,11 +5,7 @@ nav_order: 1
 permalink: /jobs/reward-mechanics/
 ---
 
-{% comment %}
-【骨子ファイル】このブロックと、同じ形のブロックで囲んだ部分は、ページには表示されません（メモ用）。
-英語版を公開したら、次の1行を有効にしてください（先に有効にするとリンク切れになります）。
 [English Ver](/en/jobs/reward-mechanics/)
-{% endcomment %}
 
 # ジョブ報酬の決まり方  -約3,000件のジョブからの独自検証でわかったこと-
 
