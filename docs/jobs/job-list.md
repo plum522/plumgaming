@@ -5,8 +5,6 @@ nav_order: 2
 permalink: /jobs/job-list/
 ---
 
-[English Ver](/en/jobs/job-list/)
-
 # 観測済みジョブ一覧
 
 このゲームに存在するジョブの傾向や一覧を調べるため当記事では約3,000件のジョブデータを収集しました。
