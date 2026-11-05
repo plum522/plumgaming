@@ -32,7 +32,7 @@ ___
 
 | Cargo | Requirement Level | Weight | Reward Multiplier | Required Trailer (if owned) |
 |---|---|---|---|---|
-| Clothing<br><img src="/assets/images/jobs/cargo/Clothes.JPG" width="150"> | None | 8–15 t | Approx. 1.00 | (To be specified) |
+| Clothing<br><img src="/assets/images/jobs/Clothes.JPG" width="150"> | None | 8–15 t | Approx. 1.00 | (To be specified) |
 | Medicine<br><img src="/assets/images/jobs/cargo/Medicine.JPG" width="150"> | None | 9–12 t | Approx. 1.00 | (To be specified) |
 | Vegetables<br><img src="/assets/images/jobs/cargo/Vegetables.JPG" width="150"> | None | 9–19 metric tons | Approx. 1.00 | (To be filled in) |
 | Fruit<br><img src="/assets/images/jobs/cargo/Fruits.JPG" width="150"> | None | 9–20 metric tons | Approx. 1.00 | (To be filled in) |
