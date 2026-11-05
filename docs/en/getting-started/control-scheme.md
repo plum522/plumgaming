@@ -15,10 +15,14 @@ In Truckers of Europe 3, you can choose from four main control schemes.
 ___
 ## Types of Control Schemes
 
-1. **Steering Wheel**: A control scheme where you swipe your finger across the on-screen steering wheel.
-2. **Button Controls**: A control scheme where you tap on-screen buttons to steer.
-3. **Tilt Controls**: A control scheme where you tilt your smartphone to steer.
-4. **External Controller**: A control scheme that uses a game controller connected via Bluetooth or other methods.
+1. **Steering Wheel**: A control scheme where you swipe your finger across the on-screen steering wheel.<br>
+<img src="/assets/images/getting-started/steering-wheel.jpg" width="450">
+2. **Button Controls**: A control scheme where you tap on-screen buttons to steer.<br>
+<img src="/assets/images/getting-started/botton.jpg" width="450">
+3. **Tilt Controls**: A control scheme where you tilt your smartphone to steer.<br>
+<img src="/assets/images/getting-started/tilt.jpg" width="450">
+4. **External Controller**: A control scheme that uses a game controller connected via Bluetooth or other methods.<br>
+<img src="/assets/images/getting-started/joy-con.jpg" width="450">
 
 *Note: Many controllers, such as those for the Switch, PlayStation, and Xbox, can be used on both iPhone and Android devices.
 
