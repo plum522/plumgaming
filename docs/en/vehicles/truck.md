@@ -20,21 +20,21 @@ ___
 
 | Image | Truck Name | Price | Horsepower | Torque |
 |---|---|---|---|---|
-| <img src="/assets/images/vehicles/truck/Moon-THA.JPG" width="140"> | Moon THA | €9,000 | 310 hp | 1,550 Nm |
-| <img src="/assets/images/vehicles/truck/Moon-THX.JPG" width="140"> | Moon THX | €35,000 | 360 hp | 1,800 Nm |
-| <img src="/assets/images/vehicles/truck/Stream-RT.JPG" width="140"> | Stream RT | €35,000 | 370 hp | 1,900 Nm |
-| <img src="/assets/images/vehicles/truck/Stream-ST.JPG" width="140"> | Stream ST | €36,000 | 370 hp | 1,900 Nm |
-| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-1995.JPG" width="140"> | Stream RT Legend 1995 | €10,000 | 380 hp | 1,900 Nm |
-| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-2004.JPG" width="140"> | Stream RT Legend 2004 | €15,000 | 380 hp | 1,900 Nm |
-| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-2009.JPG" width="140"> | Stream RT Legend 2009 | €20,000 | 380 hp | 1,900 Nm |
-| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-2013.JPG" width="140"> | Stream RT Legend 2013 | €25,000 | 370 hp | 1,900 Nm |
-| <img src="/assets/images/vehicles/truck/Merieles-Antares.JPG" width="140"> | Merieles Antares | €34,000 | 420 hp | 2,100 Nm |
-| <img src="/assets/images/vehicles/truck/Merieles-Arox.JPG" width="140"> | Merieles Arox | €18,000 | 326 hp | 1,300 Nm |
-| <img src="/assets/images/vehicles/truck/Renovate-R-Ranger-2013.JPG" width="140"> | Renovate R Ranger 2013 | €27,000 | 380 hp | 1,800 Nm |
-| <img src="/assets/images/vehicles/truck/Renovate-R-Ranger-2021.JPG" width="140"> | Renovate R Ranger 2021 | €30,000 | 380 hp | 1,800 Nm |
-| <img src="/assets/images/vehicles/truck/Volcano-VN.JPG" width="140"> | Volcano VN | €32,000 | 420 hp | 2,100 Nm |
-| <img src="/assets/images/vehicles/truck/DAWN-DF.JPG" width="140"> | DAWN DF | €32,000 | 370 hp | 1,900 Nm |
-| <img src="/assets/images/vehicles/truck/Fiora-Fi-Man.JPG" width="140"> | Fiora Fi-Man | €30,000 | 500hp | 2,500Nm |
+| <img src="/assets/images/vehicles/truck/Moon-THA.png" width="140"> | Moon THA | €9,000 | 310hp | 1,550Nm |
+| <img src="/assets/images/vehicles/truck/Moon-THX.png" width="140"> | Moon THX | €35,000 | 360hp | 1,800Nm |
+| <img src="/assets/images/vehicles/truck/Stream-RT.png" width="140"> | Stream RT | €35,000 | 370hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Stream-ST.png" width="140"> | Stream ST | €36,000 | 370hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-1995.png" width="140"> | Stream RT Legend 1995 | €10,000 | 380hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-2004.png" width="140"> | Stream RT Legend 2004 | €15,000 | 380hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-2009.png" width="140"> | Stream RT Legend 2009 | €20,000 | 380hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-2013.png" width="140"> | Stream RT Legend 2013 | €25,000 | 370hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Merieles-Antares.png" width="140"> | Merieles Antares | €34,000 | 420hp | 2,100Nm |
+| <img src="/assets/images/vehicles/truck/Merieles-Arox.png" width="140"> | Merieles Arox | €18,000 | 326hp | 1,300Nm |
+| <img src="/assets/images/vehicles/truck/Renovate-R-Ranger-2013.png" width="140"> | Renovate R Ranger 2013 | €27,000 | 380hp | 1,800Nm |
+| <img src="/assets/images/vehicles/truck/Renovate-R-Ranger-2021.png" width="140"> | Renovate R Ranger 2021 | €30,000 | 380hp | 1,800Nm |
+| <img src="/assets/images/vehicles/truck/Volcano-VN.png" width="140"> | Volcano VN | €32,000 | 420hp | 2,100Nm |
+| <img src="/assets/images/vehicles/truck/DAWN-DF.png" width="140"> | DAWN DF | €32,000 | 370hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Fiora-Fi-Man.png" width="140"> | Fiora Fi-Man | €30,000 | 500hp | 2,500Nm |
 
 ___
 ## Recommended Trucks You Can Use Right from the Start
@@ -53,8 +53,8 @@ only these two have limitations; even when fully upgraded, they struggle to tran
 
 | Image | Truck Name | Price | Horsepower | Torque |
 |---|---|---|---|---|
-| <img src="/assets/images/vehicles/truck/Moon-THA.JPG" width="140"> | Moon THA | €9,000 | 310 hp | 1,550 Nm |
-| <img src="/assets/images/vehicles/truck/Fiora-Fi-Man.JPG" width="140"> | Fiora Fi-Man | €30,000 | 500 hp | 2,500 Nm |
+| <img src="/assets/images/vehicles/truck/Moon-THA.png" width="140"> | Moon THA | €9,000 | 310hp | 1,550Nm |
+| <img src="/assets/images/vehicles/truck/Fiora-Fi-Man.png" width="140"> | Fiora Fi-Man | €30,000 | 500hp | 2,500Nm |
 
 For more details, see [Truck Customization](/en/vehicles/truck-customization/).
 
@@ -71,12 +71,12 @@ Ground clearance varies significantly depending on the truck, and you can see th
 The following trucks have particularly low ground clearance, so the underside of the vehicle often hits the ground during off-road driving.
 Since they are also more prone to getting stuck, we recommend exercising a little caution when choosing a truck.
 
-| 画像 | トラック名 | 価格 | 馬力 | トルク |
+| Image | Truck Name | Price | Horsepower | Torque |
 |---|---|---|---|---|
-| <img src="/assets/images/vehicles/truck/Stream-RT.JPG" width="140"> | Stream RT | €35,000 | 370hp | 1,900Nm |
-| <img src="/assets/images/vehicles/truck/Stream-ST.JPG" width="140"> | Stream ST | €36,000 | 370hp | 1,900Nm |
-| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-2004.JPG" width="140"> | Stream RT Legend 2004 | €15,000 | 380hp | 1,900Nm |
-| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-2009.JPG" width="140"> | Stream RT Legend 2009 | €20,000 | 380hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Stream-RT.png" width="140"> | Stream RT | €35,000 | 370hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Stream-ST.png" width="140"> | Stream ST | €36,000 | 370hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-2004.png" width="140"> | Stream RT Legend 2004 | €15,000 | 380hp | 1,900Nm |
+| <img src="/assets/images/vehicles/truck/Stream-RT-Legend-2009.png" width="140"> | Stream RT Legend 2009 | €20,000 | 380hp | 1,900Nm |
 
 
 ## Summary
