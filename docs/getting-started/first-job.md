@@ -17,11 +17,11 @@ ___
 ## 手順
 
 1. アプリを開いた直後の画面の場合はまず右下の「ドライブ」をタップ。<br>
-<img src="/assets/images/getting-started/first-job1" width="450">
+<img src="/assets/images/getting-started/first-job1.png" width="450">
 2. 右上の一時停止ボタンをタップ。<br>
-<img src="/assets/images/getting-started/first-job2" width="450">
+<img src="/assets/images/getting-started/first-job2.pmg" width="450">
 3. 画面左側の「就職する」をタップ<br>
-<img src="/assets/images/getting-started/first-job3" width="450">
+<img src="/assets/images/getting-started/first-job3.png" width="450">
 4. ジョブ一覧の並び順を「距離が短い順」にして一番短いものを選ぶ
    >どんな距離も経験値は同じため序盤は短めがおすすめ
 6. 左上のナビを参考に積荷場所に向かいトレーラーを連結する
