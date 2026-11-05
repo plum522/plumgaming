@@ -1,5 +1,5 @@
 ---
-title: Observed Job List
+title: How Job Rewards Are Determined
 permalink: /en/jobs/reward-mechanics/
 nav_exclude: true
 ---
