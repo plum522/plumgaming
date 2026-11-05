@@ -4,7 +4,7 @@ nav_exclude: true
 permalink: /en/jobs/
 ---
 
-[Japanese Version](/jobs/)
+[Japanese Version](/docs/jobs/)
 
 ___
 # What are “Jobs”?
