@@ -16,9 +16,12 @@ Here, we’ll explain only the quickest steps.
 ___
 ## Steps
 
-1. If this is the screen that appears right after you open the app, first tap “Drive” in the bottom right corner.
-2. Tap the pause button in the top right corner.
-3. Tap “Get a Job” on the left side of the screen.
+1. If this is the screen that appears right after you open the app, first tap “Drive” in the bottom right corner.<br>
+<img src="/assets/images/getting-started/first-job1-en.png" width="450">
+2. Tap the pause button in the top right corner.<br>
+<img src="/assets/images/getting-started/first-job2.png" width="450">
+3. Tap “Get a Job” on the left side of the screen.<br>
+<img src="/assets/images/getting-started/first-job3-en.png" width="450">
 4. Sort the job list by “Shortest Distance” and select the shortest one.
    > Since you earn the same amount of xp of any distance, shorter jobs are recommended early on.
 6. Follow the navigation in the top-left corner to the pickup location and attach the trailer.
