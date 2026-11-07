@@ -4,6 +4,8 @@ nav_exclude: true
 permalink: /en/jobs/
 ---
 
+{% include en_nav.html %}
+
 [Japanese Version](/docs/jobs/)
 
 ___
