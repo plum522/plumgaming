@@ -86,7 +86,7 @@ ___
 3. V8 Costom770の
    の順番にアップグレードしていくとコスパが良くておすすめです。
    お金がある場合は最初からV8 Costom770までアップグレードするのもありです。<br>
-<img src="/assets/images/vehicles/truck/engine.png" width="350"><br>
+<img src="/assets/images/vehicles/truck/engine.png" width="500"><br>
 
 ___
 ## ギアボックス
