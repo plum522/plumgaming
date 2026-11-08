@@ -12,7 +12,7 @@ grid_icon: "⚠️"
 
 ___
 ## めり込み
-<img src="/assets/images/troubleshooting/stuck.jpg" width="400">
+<img src="/assets/images/troubleshooting/stuck.jpg" width="400"><br>
 何かにぶつかった際やスポーン時に起きることがあります。<br>
 全く身動きできない場合「レッカーサービス」を使うことが唯一の解決策です。<br>
 また、レッカーサービスを使用しても解決しない場合は、(もしジョブをやっている途中ならジョブをキャンセルし、)「ガレージに向かう」で自分のガレージにリスポーンすることが唯一の解決策です。
