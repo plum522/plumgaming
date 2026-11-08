@@ -20,6 +20,7 @@ ___
 
 The barriers at highway toll booths rise automatically, but the timing is quite tight, so
 you must reduce your speed to below 40 km/h at the toll booth or you’ll hit the barrier.
+<br><img src="/assets/images/guides/tollgate.gif" width="300">
 
 >Some toll booths have lanes without barriers; if you use one of these, you won’t need to slow down.
 
