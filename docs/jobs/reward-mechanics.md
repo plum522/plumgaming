@@ -53,6 +53,7 @@ ___
 距離が長い方が報酬も高くなる傾向があり、平均して距離が2倍になると報酬は約1.4倍になりますが
 <br><img src="/assets/images/jobs/route-distance-reward.png" width="450"><br>
 完全にその一定の割合で増えるわけではなく、それぞれのルートによって倍率は大きく異なります。
+具体的なルートごとの報酬倍率についてはこちら[ルートごとのジョブ報酬](##ルートごとのジョブ報酬)
 
 <!-- <img src="/assets/images/jobs/route-distance-reward.png" width="100%"> -->
 
@@ -155,3 +156,87 @@ ___
 
 方法：スクリーンショットを、OCRで読み取り、2つの検出エンジンの結果を照合し、要確認の行を画像で確認。所有トレーラーはなしでのジョブ結果。
 限界：ゲームファイルの解析ではないため、検証ミスや誤りが含まれている可能性を否定できません。あくまで参考程度にお願いします。
+
+##　ルートごとのジョブ報酬
+
+## 距離あたりの報酬が高いルート（上位3）
+
+| 順位 | ルート | 距離（km） | 基準報酬（€） | 100kmあたり（€） |
+|---|---|---|---|---|
+| 1 | Stuttgart → Tubingen | 52 | 2,284 | 4,391 |
+| 2 | Stuttgart → Quarry | 128 | 2,544 | 1,979 |
+| 3 | Zurich → Quarry | 180 | 3,318 | 1,848 |
+
+## 距離あたりの報酬が低いルート（下位3）
+
+| 順位 | ルート | 距離（km） | 基準報酬（€） | 100kmあたり（€） |
+|---|---|---|---|---|
+| 53 | Milano → Linz | 709 | 4,436 | 626 |
+| 52 | Nuremberg → Lech | 602 | 4,242 | 705 |
+| 51 | Nuremberg → Munich | 219 | 1,547 | 706 |
+
+{% comment %}
+数字メモ（確認済み：53ルート、各ルートの距離の測定数は8件以上、基準報酬の件数は24件以上）
+- 100kmあたり報酬の最高は、最低の約7.0倍（最高€4,391、最低€626）。中央値は€936、四分位は€854〜€1,256。
+- 上位は短いルートに偏る（距離が長いほど報酬が増え方が緩やかなため。ルート単位の傾きは0.52）。順位と距離の相関（Spearman）は0.56。
+- 距離で説明できない差もある：傾向線に対する倍率は、Stuttgart→Tubingenが約1.81倍、Nuremberg→Munichが約0.58倍。
+- 基準報酬は、重さ40 t以下・要求レベル30でないジョブの中央値。距離は、1件目のジョブの実測値の中央値（1件ごとに数%〜20%ほど変動する）。近い順位の差は、誤差の範囲かもしれない。
+{% endcomment %}
+
+## 全ルートのランキング（100kmあたりの報酬が高い順）
+
+| 順位 | ルート | 距離（km） | 基準報酬（€） | 100kmあたり（€） |
+|---|---|---|---|---|
+| 1 | Stuttgart → Tubingen | 52 | 2,284 | 4,391 |
+| 2 | Stuttgart → Quarry | 128 | 2,544 | 1,979 |
+| 3 | Zurich → Quarry | 180 | 3,318 | 1,848 |
+| 4 | Munich → Quarry | 198 | 3,514 | 1,779 |
+| 5 | Stuttgart → Lech | 312 | 4,635 | 1,486 |
+| 6 | Stuttgart → Zurich | 249 | 3,406 | 1,368 |
+| 7 | Munich → Stuttgart | 272 | 3,604 | 1,327 |
+| 8 | Stuttgart → Munich | 274 | 3,599 | 1,316 |
+| 9 | Zurich → Stuttgart | 260 | 3,381 | 1,303 |
+| 10 | Stuttgart → Airolo | 368 | 4,715 | 1,281 |
+| 11 | Tremola → Stuttgart | 288 | 3,666 | 1,273 |
+| 12 | Tremola → Airolo | 112 | 1,413 | 1,267 |
+| 13 | Tremola → Tubingen | 265 | 3,346 | 1,263 |
+| 14 | Stuttgart → Tremola | 290 | 3,648 | 1,256 |
+| 15 | Tremola → Lech | 352 | 4,401 | 1,249 |
+| 16 | Zurich → Tubingen | 260 | 3,218 | 1,238 |
+| 17 | Tremola → Quarry | 333 | 4,080 | 1,225 |
+| 18 | Zurich → Airolo | 236 | 2,887 | 1,223 |
+| 19 | Zurich → Lech | 348 | 4,240 | 1,218 |
+| 20 | Nuremberg → Frankfurt | 231 | 2,490 | 1,078 |
+| 21 | Frankfurt → Nuremberg | 243 | 2,459 | 1,012 |
+| 22 | Munich → Nuremberg | 163 | 1,636 | 1,004 |
+| 23 | Munich → Lech | 327 | 3,260 | 997 |
+| 24 | Munich → Tubingen | 340 | 3,314 | 975 |
+| 25 | Munich → Linz | 270 | 2,552 | 945 |
+| 26 | Zurich → Tremola | 189 | 1,774 | 938 |
+| 27 | Zurich → Munich | 349 | 3,266 | 936 |
+| 28 | Nuremberg → Prague | 304 | 2,844 | 935 |
+| 29 | Munich → Zurich | 346 | 3,209 | 927 |
+| 30 | Tremola → Zurich | 193 | 1,786 | 925 |
+| 31 | Prague → Linz | 254 | 2,314 | 913 |
+| 32 | Prague → Nuremberg | 303 | 2,763 | 912 |
+| 33 | Tremola → Milano | 474 | 4,092 | 864 |
+| 34 | Milano → Stuttgart | 624 | 5,382 | 863 |
+| 35 | Nuremberg → Milano | 504 | 4,340 | 861 |
+| 36 | Milano → Tremola | 482 | 4,144 | 860 |
+| 37 | Milano → Nuremberg | 503 | 4,317 | 858 |
+| 38 | Milano → Airolo | 603 | 5,173 | 858 |
+| 39 | Stuttgart → Milano | 628 | 5,377 | 856 |
+| 40 | Munich → Milano | 479 | 4,088 | 854 |
+| 41 | Milano → Zurich | 508 | 4,330 | 852 |
+| 42 | Milano → Lech | 295 | 2,502 | 848 |
+| 43 | Zurich → Milano | 508 | 4,302 | 846 |
+| 44 | Frankfurt → Stuttgart | 208 | 1,756 | 842 |
+| 45 | Milano → Munich | 481 | 4,001 | 832 |
+| 46 | Stuttgart → Frankfurt | 213 | 1,768 | 830 |
+| 47 | Zurich → Nancy | 369 | 3,002 | 814 |
+| 48 | Nancy → Zurich | 372 | 2,916 | 784 |
+| 49 | Nancy → Frankfurt | 351 | 2,704 | 770 |
+| 50 | Frankfurt → Nancy | 347 | 2,620 | 755 |
+| 51 | Nuremberg → Munich | 219 | 1,547 | 706 |
+| 52 | Nuremberg → Lech | 602 | 4,242 | 705 |
+| 53 | Milano → Linz | 709 | 4,436 | 626 |
