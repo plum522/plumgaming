@@ -21,7 +21,7 @@ ___
 - Log Trailer
   <br><img src="/assets/images/vehicles/trailer/Log-Trailer.png" width="140">
 - Gooseneck
-   <br><img src="/assets/images/vehicles/Gooseneck.png" width="140">
+   <br><img src="/assets/images/vehicles/trailer/Gooseneck.png" width="140">
 - Fixed Lowbed
    <br><img src="/assets/images/vehicles/trailer/Fixed-Lowbed.png" width="140">
 - Lowbed
