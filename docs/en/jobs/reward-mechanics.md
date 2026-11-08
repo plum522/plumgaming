@@ -97,6 +97,8 @@ Heavy-weight cargo accounts for 7.4% of the total (215/2,889).
 Note: There is no data for exactly 40 t; the boundary lies between “40 t or less” and “41 t or more.”
 {% endcomment %}
 
+<br><img src="/assets/images/jobs/weight-reward-ratio-en.png" width="450"><br>
+
 Although these jobs make up only 7.4% of the total—a small number—
 there is a significant difference in pay: jobs exceeding 40 t offer approximately double the base multiplier.
 Of course, the difficulty increases with the weight, but the pay is commensurate with that difficulty.
