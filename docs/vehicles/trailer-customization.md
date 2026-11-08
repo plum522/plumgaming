@@ -19,10 +19,15 @@ ___
 ## スキン適用不可の車両
   
 - Log Trailer
+  <br><img src="/assets/images/vehicles/trailer/Log-Trailer.png" width="140">
 - Gooseneck
+   <br><img src="/assets/images/vehicles/Gooseneck.png" width="140">
 - Fixed Lowbed
+   <br><img src="/assets/images/vehicles/trailer/Fixed-Lowbed.png" width="140">
 - Lowbed
+   <br><img src="/assets/images/vehicles/trailer/Lowbed.png.png" width="140">
 - Oversize
+   <br><img src="/assets/images/vehicles/trailer/oversize.png" width="140">
 
 これら以外の16台はスキン適用できます。
 色設定はすべての車両で可能です。
