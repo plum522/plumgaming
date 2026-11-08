@@ -36,7 +36,7 @@ Tap “Drive” in the lower-right corner of the screen to create your profile. 
 - Choose a company logo
 - Set your username and company name
 - Choose your initial garage (base) from among 9 cities <br>
-<img src="/assets/images/getting-started/profile.jpg" width="450">
+<img src="/assets/images/getting-started/profile-en.jpg" width="450">
 
 
 > ⚠️Note: Once you’ve set your profile (excluding the garage), you cannot change it again. (You can just delete or add profiles to create up to two new ones.)
