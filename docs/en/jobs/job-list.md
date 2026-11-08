@@ -22,9 +22,7 @@ The reward multiplier is calculated relative to the base reward for jobs with th
 
 * Indicates a provisional value based on fewer than 5 observations.
 
-“Required Trailer” refers to the trailer you must own to accept the corresponding job.
-You can accept a job even if you do not own any trailers.
-(This section is currently under verification and has not been filled in. Thank you for your understanding.)
+
 
 ## ① Under 40 t (observed up to 39 t)
 
