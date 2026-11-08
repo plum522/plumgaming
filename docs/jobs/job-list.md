@@ -27,7 +27,7 @@ permalink: /jobs/job-list/
 
 | 貨物 | 要求レベル | 重さ | 報酬倍率 |
 |---|---|---|---|
-| 服<br><img src="/assets/images/jobs/Clothes.png" width="150"> | なし | 8〜15 t | 約1.00 |
+| 服<br><img src="/assets/images/jobs/Clothes.JPG" width="150"> | なし | 8〜15 t | 約1.00 |
 | 薬<br><img src="/assets/images/jobs/Medicine.png" width="150"> | なし | 9〜12 t | 約1.00 |
 | 野菜<br><img src="/assets/images/jobs/Vegetables.png" width="150"> | なし | 9〜19 t | 約1.00 |
 | 果物<br><img src="/assets/images/jobs/Fruits.png" width="150"> | なし | 9〜20 t | 約1.00 |
