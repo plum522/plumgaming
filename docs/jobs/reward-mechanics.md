@@ -53,7 +53,7 @@ ___
 距離が長い方が報酬も高くなる傾向があり、平均して距離が2倍になると報酬は約1.4倍になりますが
 <br><img src="/assets/images/jobs/route-distance-reward.png" width="450"><br>
 完全にその一定の割合で増えるわけではなく、それぞれのルートによって倍率は大きく異なります。
-具体的なルートごとの報酬倍率についてはこちら[ルートごとのジョブ報酬](/##ルートごとのジョブ報酬)
+具体的なルートごとの報酬倍率についてはこちら[ルートごとのジョブ報酬](/jobs/reward-mechanics//##ルートごとのジョブ報酬)
 
 <!-- <img src="/assets/images/jobs/route-distance-reward.png" width="100%"> -->
 
