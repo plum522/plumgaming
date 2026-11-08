@@ -44,17 +44,19 @@ ___
 ## 1. Rewards Are Largely Determined by the Route
 
 {% comment %}
-Key figures: The route alone accounts for 77.9% of reward variation; the route combined with a distance exceeding 40 t accounts for 99.3%; and at Level 30, this rises to 99.6%.
-Round trips yield the same amount: In jobs with similar conditions where the starting point and destination were swapped, the average reward ratio was 1.00 (0.95–1.03).
-Distance: On a per-route basis, doubling the distance results in approximately a 1.4-fold increase in reward. On the same route, a 1% increase in distance for a single trip increases the reward by approximately 0.39%.
-Figure: chart_route_distance_vs_reward.png (enable the row in the image below)
+Data: The route alone accounts for 77.9% of reward variation; when combined with a distance exceeding 40 t, this rises to 99.3%; and at Level 30, it reaches 99.6%.
+Round-trip fares are the same: The average reward ratio for similar jobs with the origin and destination swapped is 1.00 (0.95–1.03).
+Distance: On a per-route basis, doubling the distance results in approximately a 1.4x increase in reward. For the same route, a 1% increase in distance for a single trip increases the reward by approximately 0.39%.
 Note: There are significant individual differences between routes (e.g., Stuttgart→Tübingen is 52 km and pays €2,284).
 {% endcomment %}
 
 Route alone accounts for 77.9% of the variation in rewards.
-Additionally, for the same route, the reward remains the same regardless of whether it’s a one-way or round-trip.
-Longer distances tend to yield higher rewards; on average, doubling the distance results in approximately a 1.4-fold increase in reward, but
-the increase does not follow a strictly fixed ratio, and the multiplier varies significantly from route to route.
+Additionally, on the same route, the reward remains the same regardless of whether it’s the outbound or return leg.
+Longer distances tend to yield higher rewards; on average, doubling the distance results in a reward that is approximately 1.4 times higher, but
+<br><img src="/assets/images/jobs/route-distance-reward.png" width="450"><br>
+However, the reward does not increase at a strictly fixed rate; the multiplier varies significantly depending on the route.
+For specific reward multipliers by route, see [Job Rewards by Route](/jobs/reward-mechanics/#Job-Rewards-by-Route)
+
 
 <!-- <img src="/assets/images/jobs/route-distance-reward.png" width="100%"> -->
 
