@@ -30,11 +30,14 @@ ___
 ___
 ## What to Do When You First Launch the App
 
-Tap “Drive” in the bottom-right corner of the screen and create your profile.
-- Choose a profile picture from 42 different icons
-- Choose a company logo from 20 different icons
+Tap “Drive” in the lower-right corner of the screen to create your profile. <br>
+<img src="/assets/images/getting-started/first-job1.png" width="450">
+- Choose a profile picture
+- Choose a company logo
 - Set your username and company name
-- Choose your initial garage (base) from 9 cities
+- Choose your initial garage (base) from among 9 cities <br>
+<img src="/assets/images/getting-started/profile.jpg" width="450">
+
 
 > ⚠️Note: Once you’ve set your profile (excluding the garage), you cannot change it again. (You can just delete or add profiles to create up to two new ones.)
 
