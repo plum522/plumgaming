@@ -53,7 +53,7 @@ Note: There are significant individual differences between routes (e.g., Stuttga
 Route alone accounts for 77.9% of the variation in rewards.
 Additionally, on the same route, the reward remains the same regardless of whether it’s the outbound or return leg.
 Longer distances tend to yield higher rewards; on average, doubling the distance results in a reward that is approximately 1.4 times higher, but
-<br><img src="/assets/images/jobs/route-distance-reward.png" width="450"><br>
+<br><img src="/assets/images/jobs/route-distance-reward-en.png" width="450"><br>
 However, the reward does not increase at a strictly fixed rate; the multiplier varies significantly depending on the route.
 For specific reward multipliers by route, see [Job Rewards by Route](/en/jobs/reward-mechanics/#Job-Rewards-by-Route)
 
@@ -123,6 +123,7 @@ Note: Only 13 entries. These are listed as tentative values.
 
 Although this group accounted for only 0.3% of the total, it had the highest reward multiplier.
 Level 30 is a tier that’s difficult to reach unless you’ve played the game for a considerable amount of time, but the rewards are correspondingly much higher.
+<br><img src="/assets/images/jobs/weight-reward-ratio-en.png" width="450"><br>
 At most, you can earn just under three times the base reward.
 > Since there were only 13 instances—a job with a very low occurrence rate—there may be some margin of error in the verification results for this group.
 
