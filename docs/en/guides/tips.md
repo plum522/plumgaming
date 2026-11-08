@@ -38,13 +38,6 @@ ___
 When you want to pass on a narrow road but can’t, honking the horn or flashing your high beams (using the button in the bottom-left corner of the screen) will cause the NPC vehicle in front of you to move slightly to the side.
 
 ___
-## When You Can’t Climb a Hill
-
-When transporting heavy cargo, your truck may sometimes be unable to make it to the top of a hill.
-Tap “Detach Trailer” from the “⋯” button in the top-right corner. Once detached, drive all the way to the top of the hill, then use “Towing Service” from the same “⋯” button.
-This will allow you to return to the road with the trailer reattached.
-
-___
 ## In-Game Time
 
 In this game, time passes 12 times faster than in the real world.
