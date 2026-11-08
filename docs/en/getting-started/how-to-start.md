@@ -31,7 +31,7 @@ ___
 ## What to Do When You First Launch the App
 
 Tap “Drive” in the lower-right corner of the screen to create your profile. <br>
-<img src="/assets/images/getting-started/first-job1.png" width="450">
+<img src="/assets/images/getting-started/first-job1-en.png" width="450">
 - Choose a profile picture
 - Choose a company logo
 - Set your username and company name
