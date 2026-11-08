@@ -55,7 +55,7 @@ Additionally, on the same route, the reward remains the same regardless of wheth
 Longer distances tend to yield higher rewards; on average, doubling the distance results in a reward that is approximately 1.4 times higher, but
 <br><img src="/assets/images/jobs/route-distance-reward.png" width="450"><br>
 However, the reward does not increase at a strictly fixed rate; the multiplier varies significantly depending on the route.
-For specific reward multipliers by route, see [Job Rewards by Route](/jobs/reward-mechanics/#Job-Rewards-by-Route)
+For specific reward multipliers by route, see [Job Rewards by Route](/en/jobs/reward-mechanics/#Job-Rewards-by-Route)
 
 
 <!-- <img src="/assets/images/jobs/route-distance-reward.png" width="100%"> -->
