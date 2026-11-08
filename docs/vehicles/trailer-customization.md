@@ -57,11 +57,11 @@ ___
 
 ### HWのみに対応する車両
 
-- Open
-- Double Open
-- Fixed Lowbed
-- Lowbed
-- Oversize
+- Open<br><img src="/assets/images/vehicles/trailer/Open.png" width="140">
+- Double Open<br><img src="/assets/images/vehicles/trailer/Double-Open.png" width="140">
+- Fixed Lowbed<br><img src="/assets/images/vehicles/trailer/Fixed-Lowbed.png" width="140">
+- Lowbed<br><img src="/assets/images/vehicles/trailer/Lowbed.png" width="140">
+- Oversize<br><img src="/assets/images/vehicles/trailer/Oversize.png" width="140">
 
 ___
 ## シャーシカスタマイズ対応の車両
