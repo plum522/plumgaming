@@ -45,7 +45,7 @@ ___
 入れる数字：ルートだけで報酬の変動の77.9%、ルート×40 t超かで99.3%、さらにレベル30で99.6%。
 往復は同額：出発地と目的地を入れ替えた類似条件のジョブで報酬の比の平均が1.00（0.95〜1.03）。
 距離：ルート単位で、距離が2倍→報酬は約1.4倍。同じルートでは、その1件の距離が1%長いと報酬が約0.39%増。
-<br><img src="/assets/images/jobs/route-distance-reward.png" width="450">
+<br><img src="/assets/images/jobs/route-distance-reward.png" width="450"><br>
 注意：ルートごとの個別の差が大きい（例：Stuttgart→Tubingenは52 kmで€2,284）。
 {% endcomment %}
 
@@ -64,7 +64,7 @@ ___
 入れる数字：倍率1.00（95%の範囲0.97〜1.03）、2,669件、貨物61種類。
 検定：貨物（58種類）の効果 p＝0.125、重さ（40 t以下）との相関0.03（p＝0.42）。「差が見つからない」であって、「差がない証明」ではない。
 重さの変動：固定の貨物41種類、変動する貨物28種類（幅の中央値8 t）。
-<br><img src="/assets/images/jobs/weight-reward-ratio.png" width="450">
+<br><img src="/assets/images/jobs/weight-reward-ratio.png" width="450"><br>
 図：chart_weight_vs_reward_ratio.png（40 t以下は、1.00に集まる）
 {% endcomment %}
 
