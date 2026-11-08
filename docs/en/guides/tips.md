@@ -29,8 +29,14 @@ When you max out your garage level, the garage will expand, and a car wash will 
 ___
 ## How to Remove Traffic Jams
 
-Traffic jams are common in this game. Open Photo Mode by tapping the “⋯” button in the top-right corner, then turn off “traffic” or “congestion” to make all NPC vehicles disappear.
-> Since the parking brake is engaged during Photo Mode, using this feature while driving at high speeds can be dangerous.
+Traffic jams are common in this game. Tap the “⋯” button in the upper-right corner to <br>
+<img src="/assets/images/guides/traffic-jam2.png" width="450"><br>
+open Photo Mode, and <br>
+<img src="/assets/images/guides/traffic-jam3.png" width="450"><br>
+Turn off “traffic” or “渋滞,” and all NPC vehicles will disappear. <br>
+<img src="/assets/images/guides/traffic-jam4.png" width="450"><br>
+<img src="/assets/images/guides/traffic-jam5.png" width="450"><br>
+>The parking brake is engaged during Photo Mode, so using it while driving is dangerous.
 
 ___
 ## How to Move NPC Vehicles Out of the Way
