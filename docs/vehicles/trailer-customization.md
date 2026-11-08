@@ -68,11 +68,11 @@ ___
 
 | トレーラー名 | シャーシ |
 |---|---|
-| Double Tarp | Short / Medium / Long |
-| Double Refrigerated | Short / Medium / Long |
-| Fixed Lowbed | 3x0 / 4x0 / 5x0 / 6x0 |
-| Lowbed | 6x0 / 8x0 |
-| Oversize | 2x0 / 3x0 / 3x1 / 4x2 / 5x3 |
+| Double Tarp<br><img src="/assets/images/vehicles/trailer/Double-Tarp.png" width="140"> | Short / Medium / Long |
+| Double Refrigerated<br><img src="/assets/images/vehicles/trailer/Double-Refrigerated.png" width="140"> | Short / Medium / Long |
+| Fixed Lowbed<br><img src="/assets/images/vehicles/trailer/Fixed-Lowbed.png" width="140"> | 3x0 / 4x0 / 5x0 / 6x0 |
+| Lowbed<br><img src="/assets/images/vehicles/trailer/Lowbed.png" width="140"> | 6x0 / 8x0 |
+| Oversize<br><img src="/assets/images/vehicles/trailer/Oversize.png" width="140"> | 2x0 / 3x0 / 3x1 / 4x2 / 5x3 |
 
 これら以外の16台はすべてシャーシの変更ができません。
 
