@@ -11,17 +11,17 @@ permalink: /en/driving/
 ___
 ## Driving Basics
 
-In this game, we recommend driving at 80 km/h on highways and 50–60 km/h on local roads.
-Also, using cruise control to maintain a constant speed improves fuel efficiency. <br>
+In this game, we recommend driving at 80–100 km/h on highways and 50–60 km/h on local roads.
+Also, using cruise control to maintain a constant speed will improve fuel efficiency. <br>
 *On rainy days, tires are more prone to slipping, so we recommend reducing your speed.
 
 ___
 ## Passing Through Toll Booths
 
-The barriers at highway toll booths raise automatically, but the timing is quite tight, so
-you’ll hit the barrier unless you slow down to 20 km/h at the toll booth.
+The barriers at highway toll booths rise automatically, but the timing is quite tight, so
+you must reduce your speed to below 40 km/h at the toll booth or you’ll hit the barrier.
 
->Some toll booths have lanes without barriers, so if you use those, you won’t need to slow down.
+>Some toll booths have lanes without barriers; if you use one of these, you won’t need to slow down.
 
 ___
 ## When It Rains
