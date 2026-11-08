@@ -25,9 +25,9 @@ ___
 - Fixed Lowbed
    <br><img src="/assets/images/vehicles/trailer/Fixed-Lowbed.png" width="140">
 - Lowbed
-   <br><img src="/assets/images/vehicles/trailer/Lowbed.png.png" width="140">
+   <br><img src="/assets/images/vehicles/trailer/Lowbed.png" width="140">
 - Oversize
-   <br><img src="/assets/images/vehicles/trailer/oversize.png" width="140">
+   <br><img src="/assets/images/vehicles/trailer/Oversize.png" width="140">
 
 これら以外の16台はスキン適用できます。
 色設定はすべての車両で可能です。
