@@ -158,3 +158,87 @@ Limitations: Only 9 locations / No owned trailers / Categories with few entries 
 
 Method: Screenshots were processed using OCR, the results from two detection engines were cross-checked, and rows requiring verification were confirmed by examining the images. These are job results based on the assumption that no trailers are owned.
 Limitations: Since this is not an analysis of the game files, we cannot rule out the possibility of verification errors or inaccuracies. Please use this information for reference only.
+
+## Job Rewards by Route
+
+## Routes with the Highest Rewards per Distance (Top 3)
+
+| Rank | Route | Distance (km) | Base Reward (€) | Per 100 km (€) |
+|---|---|---|---|---|
+| 1 | Stuttgart → Tübingen | 52 | 2,284 | 4,391 |
+| 2 | Stuttgart → Quarry | 128 | 2,544 | 1,979 |
+| 3 | Zurich → Quarry | 180 | 3,318 | 1,848 |
+
+## Routes with Lowest Pay per Distance (Bottom 3)
+
+| Rank | Route | Distance (km) | Base Pay (€) | Per 100 km (€) |
+|---|---|---|---|---|
+| 53 | Milan → Linz | 709 | 4,436 | 626 |
+| 52 | Nuremberg → Lech | 602 | 4,242 | 705 |
+| 51 | Nuremberg → Munich | 219 | 1,547 | 706 |
+
+{% comment %}
+Data Notes (Verified: 53 routes; at least 8 distance measurements per route; at least 24 base reward entries)
+- The highest reward per 100 km is approximately 7.0 times the lowest (highest: €4,391; lowest: €626). The median is €936, and the interquartile range is €854 to €1,256.
+- The top rankings are skewed toward shorter routes (because the increase in pay is more gradual as distance increases; the slope per route is 0.52). The Spearman correlation between rank and distance is 0.56.
+- There are also differences that cannot be explained by distance alone: The multiplier relative to the trend line is approximately 1.81 for Stuttgart→Tübingen and approximately 0.58 for Nuremberg→Munich.
+- The baseline reward is the median value for jobs with a weight of 40 metric tons or less and a difficulty level of 30 or lower. Distance is the median of the actual measured values for the first job (which varies by a few percent to 20% per job). Differences in rankings among closely ranked jobs may fall within the margin of error.
+{% endcomment %}
+
+## Rankings for All Routes (Sorted by Highest Reward per 100 km)
+
+| Rank | Route | Distance (km) | Base Reward (€) | Per 100 km (€) |
+|---|---|---|---|---|
+| 1 | Stuttgart → Tübingen | 52 | 2,284 | 4,391 |
+| 2 | Stuttgart → Quarry | 128 | 2,544 | 1,979 |
+| 3 | Zurich → Quarry | 180 | 3,318 | 1,848 |
+| 4 | Munich → Quarry | 198 | 3,514 | 1,779 |
+| 5 | Stuttgart → Lech | 312 | 4,635 | 1,486 |
+| 6 | Stuttgart → Zurich | 249 | 3,406 | 1,368 |
+| 7 | Munich → Stuttgart | 272 | 3,604 | 1,327 |
+| 8 | Stuttgart → Munich | 274 | 3,599 | 1,316 |
+| 9 | Zurich → Stuttgart | 260 | 3,381 | 1,303 |
+| 10 | Stuttgart → Airolo | 368 | 4,715 | 1,281 |
+| 11 | Tremola → Stuttgart | 288 | 3,666 | 1,273 |
+| 12 | Tremola → Airolo | 112 | 1,413 | 1,267 |
+| 13 | Tremola → Tübingen | 265 | 3,346 | 1,263 |
+| 14 | Stuttgart → Tremola | 290 | 3,648 | 1,256 |
+| 15 | Tremola → Lech | 352 | 4,401 | 1,249 |
+| 16 | Zurich → Tübingen | 260 | 3,218 | 1,238 |
+| 17 | Tremola → Quarry | 333 | 4,080 | 1,225 |
+| 18 | Zurich → Airolo | 236 | 2,887 | 1,223 |
+| 19 | Zurich → Lech | 348 | 4,240 | 1,218 |
+| 20 | Nuremberg → Frankfurt | 231 | 2,490 | 1,078 |
+| 21 | Frankfurt → Nuremberg | 243 | 2,459 | 1,012 |
+| 22 | Munich → Nuremberg | 163 | 1,636 | 1,004 |
+| 23 | Munich → Lech | 327 | 3,260 | 997 |
+| 24 | Munich → Tübingen | 340 | 3,314 | 975 |
+| 25 | Munich → Linz | 270 | 2,552 | 945 |
+| 26 | Zurich → Tremola | 189 | 1,774 | 938 |
+| 27 | Zurich → Munich | 349 | 3,266 | 936 |
+| 28 | Nuremberg → Prague | 304 | 2,844 | 935 |
+| 29 | Munich → Zurich | 346 | 3,209 | 927 |
+| 30 | Tremola → Zurich | 193 | 1,786 | 925 |
+| 31 | Prague → Linz | 254 | 2,314 | 913 |
+| 32 | Prague → Nuremberg | 303 | 2,763 | 912 |
+| 33 | Tremola → Milan | 474 | 4,092 | 864 |
+| 34 | Milan → Stuttgart | 624 | 5,382 | 863 |
+| 35 | Nuremberg → Milan | 504 | 4,340 | 861 |
+| 36 | Milan → Tremola | 482 | 4,144 | 860 |
+| 37 | Milan → Nuremberg | 503 | 4,317 | 858 |
+| 38 | Milan → Airolo | 603 | 5,173 | 858 |
+| 39 | Stuttgart → Milan | 628 | 5,377 | 856 |
+| 40 | Munich → Milan | 479 | 4,088 | 854 |
+| 41 | Milan → Zurich | 508 | 4,330 | 852 |
+| 42 | Milan → Lech | 295 | 2,502 | 848 |
+| 43 | Zurich → Milan | 508 | 4,302 | 846 |
+| 44 | Frankfurt → Stuttgart | 208 | 1,756 | 842 |
+| 45 | Milan → Munich | 481 | 4,001 | 832 |
+| 46 | Stuttgart → Frankfurt | 213 | 1,768 | 830 |
+| 47 | Zurich → Nancy | 369 | 3,002 | 814 |
+| 48 | Nancy → Zurich | 372 | 2,916 | 784 |
+| 49 | Nancy → Frankfurt | 351 | 2,704 | 770 |
+| 50 | Frankfurt → Nancy | 347 | 2,620 | 755 |
+| 51 | Nuremberg → Munich | 219 | 1,547 | 706 |
+| 52 | Nuremberg → Lech | 602 | 4,242 | 705 |
+| 53 | Milan → Linz | 709 | 4,436 | 626 |
