@@ -48,3 +48,9 @@ ___
 
 In this game, time passes 12 times faster than in the real world.
 Additionally, sunrise is at 5:00 a.m. and sunset is at 8:00 p.m.
+
+---
+## Emergency Braking
+
+The parking brake is more powerful than applying the foot brake to the maximum.
+While it is not recommended for everyday use, it may be useful as an emergency brake if you take a wrong turn or are about to collide with something.
