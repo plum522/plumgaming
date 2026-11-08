@@ -19,7 +19,7 @@ ___
 
 高速道路の料金所のバーは自動で上がりますが、かなりタイミングがギリギリなので、
 料金所では速度を40km/h未満まで落とさないとバーにぶつかります。
-<img src="/assets/images/guides/tollgate.gif" width="300">
+<br><img src="/assets/images/guides/tollgate.gif" width="300">
 
 >料金所によっては、バーのないレーンが存在するためそこを通ると徐行せずに済みます。
 
