@@ -31,8 +31,8 @@ ___
 
 画面右下の「ドライブ」をタップし、プロフィールを作成する。<br>
 <img src="/assets/images/getting-started/first-job1.png" width="450">
-- 42種類のアイコンの中からプロフィール画像を選ぶ
-- 20種類のアイコンの中から会社のロゴを選ぶ
+- プロフィール画像を選ぶ
+- 会社のロゴを選ぶ
 - ユーザー名と会社名を設定
 - 初期ガレージ（拠点）を9都市の中から選ぶ<br>
 <img src="/assets/images/getting-started/profile.jpg" width="450"> 
