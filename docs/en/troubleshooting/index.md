@@ -15,7 +15,7 @@ ___
 ## Getting Stuck
 <img src="/assets/images/troubleshooting/stuck.jpg" width="400"><br>
 This can happen when you hit something or upon spawning. <br>
-If you are completely stuck, using the “Towing Service” is the only solution.<br>
+If you are completely stuck, using the “Towing Service” is what you should to do.<br>
 Additionally, if using the Towing Service does not resolve the issue, (if you are in the middle of a job, cancel it first,) and then select “Go to Garage” to respawn at your own garage—this is the only solution.
 If you are stuck inside a trailer, you must select “Send Trailer to Garage” instead of “Go to Garage.”
 
