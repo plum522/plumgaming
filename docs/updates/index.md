@@ -12,12 +12,13 @@ grid_icon: "🆕"
 # 最新アップデート　(2026/11/26時点)
 
 ___
-## バージョン情報
+## Version Information
 
 Ver 0.9<br>
-ベータ版公開日：2026/7/18<br>
-一般向けリリース日(android)：2026/11/24
-一般向けリリース日(iOS)：不明
+Beta Release Date: July 18, 2026<br>
+General Release Date (Android): November 24, 2026
+General Release Date (iOS): TBD
+
 
 ___
 ## アップデート内容
