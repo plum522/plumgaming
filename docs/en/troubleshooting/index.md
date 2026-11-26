@@ -36,3 +36,18 @@ For example, a trailer’s “Oversize” designation might be replaced with “
 or cargo that should be loaded might not display properly. <br>
 There is no real harm caused by this. <br>
 In both cases, the issue can be resolved by returning to the main menu or restarting the app.
+
+
+---
+## Towing Service
+
+When using the towing service, you may spawn too far from your original location or leave your trailer behind.
+In some cases, you may get completely stuck.
+The only surefire solution is to cancel the job—even if you’re in the middle of it—select your garage, and use “Visit Garage” to return to it.
+
+
+---
+## Getting Lost
+
+When using the tow service or taking a wrong turn, the map navigation may stop working properly.
+If you can drive back to the original route, that’s fine, but if you’re completely lost, the surefire solution—just like with the tow service malfunction—is to use “Visit Garage” to return to your garage.
