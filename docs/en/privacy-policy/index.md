@@ -10,6 +10,11 @@ permalink: /en/privacy-policy/
 
 # Privacy Policy
 
+## About Ad Serving
+
+This site uses a third-party ad serving service (Google AdSense). These ad serving providers may use cookies to display ads tailored to users' interests.
+We do not identify individual users or use their information without permission.
+
 ## About Web Analytics Tools
 
 This site uses Cloudflare Web Analytics. This tool does not use cookies and does not collect personally identifiable information.
