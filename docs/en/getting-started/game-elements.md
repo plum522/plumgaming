@@ -27,6 +27,7 @@ ___
 An essential element for driving. <br>
 We recommend refueling at a gas station every 500 km. <br>
 You can refuel for free by watching ads.
+ If you run out of gas, your vehicle will stop running. In that case, you can refuel by either watching an ad or paying a higher price than at a gas station.
 
 ___
 ## Gas Stations
