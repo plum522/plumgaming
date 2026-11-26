@@ -10,7 +10,7 @@ permalink: /en/updates/
 
 This category summarizes the changes made in each version.
 
-# Latest Update (as of November 25 2026)
+# Latest Update (as of November 27 2026)
 
 ___
 ## Version Information
@@ -22,24 +22,25 @@ Scheduled General Release Date: TBD
 ___
 ## Update Details
 
-⚠️ This information is based on the beta version. Features may be changed or removed in the official release.
-
-- Multiplayer Support
+- Multiplayer support
 > Up to 50 players per room
-- Minimap Changes
-> Design changes<br>
-> Tapping now opens the world map<br>
-> Added navigation feature that lets you pin your destination<br>
+- Minimap changes
+> Redesigned <br>
+> Tapping now displays the world map <br>
+> Added a navigation feature that lets you place a pin on your destination <br>
 - Major redesign of the world map
+- Added a driver hiring system
 - Added new NPC vehicles
-- Added drivers to NPC vehicles
-- Added lane-changing functionality to NPC vehicles
-> Vehicles now change lanes when encountering obstacles or when a player honks from behind
+- Drivers added to NPC vehicles
+- Lane-changing feature added to NPC vehicles
+> NPC vehicles now change lanes when encountering obstacles or when a player honks from behind
 - NPC vehicles now honk or flash their high beams when their path is blocked
 - Broken-down NPC vehicles now emit smoke
 - Navigation design improved
-- Random events such as traffic accidents causing single-lane road closures have been added
-- New characters added
-> Each character has unique appearances and abilities (which increase with experience points)
+- Random events such as traffic accidents causing single-lane road closures added
+- Character concept added
+> Appearance and abilities (which increase with experience points) vary by character
 - Character appearance customization added
-> Hairstyles, gender, clothing, and accessories can be customized
+> Hairstyle, gender, clothing, and accessories can be customized
+- Performance and stability improvements
+- Emotes added
