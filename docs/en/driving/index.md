@@ -49,6 +49,8 @@ ___
 Your truck or trailer will take damage if you crash into something. <br>
 If you sustain damage while transporting cargo, you’ll receive a damage penalty that slightly reduces your job pay. <br>
 You can reset the damage penalty to 0 by watching an ad.
+The gauge with the truck icon at the bottom of the screen represents the truck's durability. When the gauge reaches 0, the truck's engine will stall, rendering it unable to drive, and you'll need to call a tow truck.
+Trailers do not have a durability system; any damage they sustain during transport simply results in a penalty for that job.
 
 ___
 ## Time Penalty
