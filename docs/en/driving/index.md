@@ -41,6 +41,7 @@ If you drive for long periods without sleeping, drowsiness will cause your visio
 Since this can lead to accidents, try to sleep before the sleep gauge at the bottom of the screen reaches 0.
 You can sleep at gas stations, garages, and on the side of the highway
 at locations marked with a bed icon.
+You can also skip the sleep segment by watching an ad.
 
 ___
 ## Damage & Damage Penalties
