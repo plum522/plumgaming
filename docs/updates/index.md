@@ -16,7 +16,7 @@ ___
 
 Ver 0.9<br>
 Beta Release Date: July 18, 2026<br>
-General Release Date (Android): November 24, 2026
+General Release Date (Android): November 24, 2026<br>
 General Release Date (iOS): TBD
 
 
