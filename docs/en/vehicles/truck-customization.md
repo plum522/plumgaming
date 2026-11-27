@@ -82,10 +82,12 @@ ___
 
 <img src="/assets/images/vehicles/truck/engine.png" width="500"><br>
 This has the greatest impact on the truck's performance. <br>
-The more power (in hp and Nm) you have, the better, but when upgrading,
+The more power (in hp and Nm) you have, the better,<br>
+but when upgrading,
 1. DX226 EURO 3
 2. Custom Exhaust
-3. V8 Custom 770<br>
+3. V8 Custom 770
+<br>
 
 Upgrading in this order offers the best value for money and is recommended. <br>
 If you have the money, upgrading all the way to the V8 Custom 770 from the start is also an option. <br>
