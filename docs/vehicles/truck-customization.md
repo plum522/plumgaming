@@ -81,10 +81,12 @@ ___
 
 <img src="/assets/images/vehicles/truck/engine.png" width="500"><br>
 トラックの性能に一番影響します。<br>
-パワー(hpとNmの数値)があればあるほど良いですが、アップグレードする際は、
+パワー(hpとNmの数値)があればあるほど良いですが、<br>
+アップグレードする際は、
 1. DX226 EURO 3
 2. Costom Exhaust
-3. V8 Costom770の
+3. V8 Costom770
+   
 の順番にアップグレードしていくとコスパが良くておすすめです。<br>
    お金がある場合は最初からV8 Costom770までアップグレードするのもありです。<br>
 
