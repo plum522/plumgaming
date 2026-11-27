@@ -88,7 +88,6 @@ but when upgrading,
 2. Custom Exhaust
 3. V8 Custom 770
 <br>
-
 Upgrading in this order offers the best value for money and is recommended. <br>
 If you have the money, upgrading all the way to the V8 Custom 770 from the start is also an option. <br>
 
